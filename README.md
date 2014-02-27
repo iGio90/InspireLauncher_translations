@@ -1,0 +1,2 @@
+InspireLauncher_translations
+============================
