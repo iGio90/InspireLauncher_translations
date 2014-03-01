@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="take_me_there">Take me there</string>
+    <string name="take_me_there">Emmène moi là !</string>
     <string name="sure">Êtes-vous sûr ?</string>
     <string name="configurations_reset">Voulez-vous rétablir la configuration par défaut ?</string>
     <string name="configurations_backup">Voulez-vous sauvegarder la configuration ?</string>
@@ -79,8 +79,8 @@
     <string name="title_dock_stone_black">Pierre blanche</string>
 
     <!-- AllApps style -->
-    <string name="title_allapps_brick">Brick</string>
-    <string name="title_allapps_closet">Closet</string>
+    <string name="title_allapps_brick">Carrés</string>
+    <string name="title_allapps_closet">Portes</string>
     <string name="title_allapps_house">Maison</string>
 
     <!-- Folders -->
@@ -105,8 +105,8 @@
     <string name="title_gestures_double_tap_title">Double tapotement</string>
     <string name="title_gestures_swipe_up_title">Glissement vers le haut</string>
     <string name="title_gestures_swipe_down_title">Glissement vers le haut</string>
-    <string name="title_gestures_pinch_in_title">Écartement</string>
-    <string name="title_gestures_pinch_out_title">Pincement</string>
+    <string name="title_gestures_pinch_in_title">Pincement</string>
+    <string name="title_gestures_pinch_out_title">Écartement</string>
     <string name="title_gestures_no_action">Aucune action</string>
     <string name="title_gestures_open_drawer">Ouvrir le tiroir des applications</string>
     <string name="title_gestures_preferences">Paramètres d\'Inspire</string>
