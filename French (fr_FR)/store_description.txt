@@ -1,33 +1,36 @@
-★★ Inspire Launcher is a brand new launcher based on the new KitKat Android Launcher with tons of features and customizations. It combines the major features of the most common Android Launchers with some goodies from iOS and Windows Phone. ★★
-★★ Inspire Launcher is the most customizable launcher ever created! ★★
-★★ Inspire community: https://plus.google.com/u/0/communities/104695304515771826360 ★★
-★ FEATURES ★
-* Flat UI and design
-* Homescreen customizations
-* App drawer customizations
-* Custom icons and folders size
-* Dock bar customizations
-* Background with flat colors or custom images (Also for drawer)
-* Custom opacity control
-* Ability to hide applications
-* Scroll effects and animations
-* Text colors
-* Custom single shortcut icons and rename
-* Gestures
-* Genius Bar search (inspired by iOS finder page) located on the overview panel
-* Support for Nova, ADW, Apex and all launchers icons pack and theme!
-* Ability to backup, restore and reset own configurations
-* Included flat clock widget with different styles
-* Included a fresh colored theme called inspire colors that will enable a little colorfull icon pack with a drawer and folder custom icon! 
-* Over 500 free customizations
+★★ Inspire Launcher est un tout nouveau laucnher basé sur le launcher d'Android KitKat avec des tonnes de fonctionnalités et de personnalisations. Il regroupe les fonctionnalités principales des launcher principaux d'Android en incluant des fonctionnalités d'iOS et de Windows Phone. ★★
+★★ Inspire Launcher et le launcher le plus customisable jamais créé ! ★★
+★★ Communauté d'Inspire : https://plus.google.com/u/0/communities/104695304515771826360 ★★
+
+★ FONCTIONNALITÉS ★
+* Flat design
+* Personnalisation du fond d'écran
+* Personnalisation du tiroir d'application
+* Taille personnalisable des icônes et des dossiers
+* Barre du dock personnalisable
+* Fond d'écran avec couleurs vives et lumineuses et images (aussi pour le tiroir d'applications)
+* Modification de l'opacité
+* Possibilité de masquer les applications
+* Effets et animations de défilement
+* Couleurs de textes
+* Possibilité de renommer et modifier les icônes des icônes de l'écran d'accueil
+* Gestes
+* Recherche par Genius Bar (inspiré de la recherche iOS), accessible dans la vue d'ensemble (appui long sur l'écran d'accueil) 
+* Support des packs d'icônes et thèmes de Nova, ADW, Apex et des autres launchers !
+* Possibilité de sauvegarder, restaurer et rénitialiser les réglages
+* Widget horloge de style flat avec différentes personnalisations
+* Inclus un thème coloré appelé Inspire Colors qui possède un pack d'icônes coloré et une icône de tiroir d'application et de dossiers personnalisée ! 
+* Plus de 500 customisation gratuites
+
 ★ PRIME ★
-* Intelligent UI aka IntelliUI: Automatic change background with great flat colors based on the hour of day
-* Good morning notification with date and weather informations!
-* Password protected applications
-* Genius Bar search through youtube, maps, play store and more!
-* Custom animations on applications launch and close
-* Custom dock background
-* Folders customization
-* Custom folder icon
-* Custom drawer launcher icon
-This launcher is under heavy development and tons of new features will be added on every update!
+* Intelligent UI (IntelliUI) : Changement automatique du fond d'écran avec des couleurs vives basé sur les différents moments de la journée
+* Notification de bonjour, tous les matins avec informations sur la date et la météo
+* Possibilité de protéger des applications par mot de passe
+* Recherche Genius Bar sur YouTube, Maps, le Play Store et plus encore !
+* Animations personnalisées à l'ouverture et fermeture des applications
+* Fond de dock personnalisable
+* Personnalisation des dossiers
+* Icône de dossier modifiable
+* Icône du tiroir d'application modifiable
+
+Ce launcher est sous constant développement et des tonnes de nouvelles fonctionnalités vont être ajoutées à chaque mise à jour !
