@@ -9,6 +9,11 @@
     <string name="choose_dock_bg">Choose a dock background</string>
     <string name="choose_image">Image</string>
     <string name="choose_color">Color</string>
+    <string name="edit_drop_target">Edit</string>
+    <string name="dialog_pick_iconpack_title">Select an icon pack</string>
+    <string name="dialog_pick_icon_title">Select an icon</string>
+    <string name="loading">Loading</string>
+    <string name="loading_icons">Fetching icons</string>
 
     <!-- Settings -->
     <string name="settings_title">Inspire Settings</string>
@@ -82,6 +87,9 @@
     <string name="title_allapps_brick">Brick</string>
     <string name="title_allapps_closet">Closet</string>
     <string name="title_allapps_house">House</string>
+    <string name="title_allapps_solid_circle">Solid Circle</string>
+    <string name="title_allapps_dots">Dots</string>
+    <string name="title_allapps_inspire">Inspire</string>
 
     <!-- Folders -->
     <string name="title_folder_style">Icon style</string>
@@ -91,6 +99,9 @@
     <!-- Folders icon style -->
     <string name="title_folder_hologram">Hologram</string>
     <string name="title_folder_circle_black">Circle black</string>
+    <string name="title_folder_ring">Ring</string>
+    <string name="title_folder_inspire">Inspire</string>
+    <string name="title_folder_none">None</string>
 
     <!-- Icons and themes -->
     <string name="title_icons">Themes</string>
@@ -99,6 +110,7 @@
     <string name="title_icons_size">Icons size</string>
     <string name="title_icons_size_unified">Link homescreen and dock icons size</string>
     <string name="title_icons_folders_size">Folders size</string>
+    <string name="title_inspire_colors">Inspire colors</string>
 
     <!-- Gestures -->
     <string name="title_gestures_title">Gestures</string>
@@ -133,6 +145,7 @@
     <string name="title_header_icons_size">Slide the bar to increase or decrease the icons size</string>
     <string name="title_header_icons_folder_size">Slide the bar to increase or decrease the folders size</string>
     <string name="title_header_homescreen_gridsize">Setup the size of the grid with custom rows and columns</string>
+    <string name="title_header_homescreen_gridsize_linked">Setup the size of the grid with custom rows and columns. The minimum number of columns is linked with the dock items count!</string>
     <string name="title_header_intelliui_configure">Configure intelliUI</string>
     <string name="title_header_animations">Select an animation</string>
     <string name="title_header_gestures">Select a gesture</string>
@@ -194,12 +207,14 @@
     <string name="title_rows">Rows</string>
     <string name="title_cols">Columns</string>
 
-    <!-- Genius Bar -->
+    <!-- Genius Page -->
+    <string name="title_genius">Genius</string>
+    <string name="title_genius_page">Genius page</string>
     <string name="title_genius_bar">Genius Bar</string>
-    <string name="title_genius_hint">Search something...</string>
     <string name="title_genius_loading">Loading...</string>
     <string name="title_genius_apps">Applications</string>
     <string name="title_genius_contacts">Contacts</string>
+    <string name="title_genius_music">Music</string>
     <string name="title_genius_maps">Maps</string>
     <string name="title_genius_youtube">YouTube</string>
     <string name="title_genius_store">Play Store</string>
@@ -207,6 +222,8 @@
     <string name="title_genius_maps_search">Search on Maps</string>
     <string name="title_genius_youtube_search">Search on Youtube</string>
     <string name="title_genius_store_search">Search on Play Store</string>
+    <string name="title_genius_recent">Recent apps</string>
+    <string name="title_genius_no_recent">No recent apps</string>
 
     <string name="geniusbar_cling_usage">Quickly search for applications or contacts in your device, a video on youtube, an address, an application in the store and much more!</string>
     <string name="intelliui_background_cling">IntelliUI will change your background with different flat colors based on the phases of the day</string>
@@ -249,4 +266,6 @@
     <string name="about_title">About</string>
     <string name="title_developed">Developed by iGio90</string>
     <string name="title_graphics">Graphics by Bliss91</string>
+    <string name="title_plus_communtiy">Google+ community</string>
+    <string name="title_git_translations">Translations</string>
 </resources>

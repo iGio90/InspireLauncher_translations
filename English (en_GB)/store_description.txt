@@ -1,6 +1,9 @@
 ★★ Inspire Launcher is a brand new launcher based on the new KitKat Android Launcher with tons of features and customizations. It combines the major features of the most common Android Launchers with some goodies from iOS and Windows Phone. ★★
+
 ★★ Inspire Launcher is the most customizable launcher ever created! ★★
+
 ★★ Inspire community: https://plus.google.com/u/0/communities/104695304515771826360 ★★
+
 ★ FEATURES ★
 * Flat UI and design
 * Homescreen customizations
@@ -14,12 +17,14 @@
 * Text colors
 * Custom single shortcut icons and rename
 * Gestures
-* Genius Bar search (inspired by iOS finder page) located on the overview panel
+* Genius Page inspired from iOS finder search and Google Now Launcher page!
+* System toggles and Recent applications in genius page
 * Support for Nova, ADW, Apex and all launchers icons pack and theme!
 * Ability to backup, restore and reset own configurations
 * Included flat clock widget with different styles
 * Included a fresh colored theme called inspire colors that will enable a little colorfull icon pack with a drawer and folder custom icon! 
 * Over 500 free customizations
+
 ★ PRIME ★
 * Intelligent UI aka IntelliUI: Automatic change background with great flat colors based on the hour of day
 * Good morning notification with date and weather informations!
