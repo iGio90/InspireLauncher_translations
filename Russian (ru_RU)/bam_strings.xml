@@ -1,145 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="take_me_there">Take me there</string>
-    <string name="sure">Are you sure?</string>
-    <string name="configurations_reset">Do you want to reset the configurations?</string>
-    <string name="configurations_backup">Do you want to backup the configurations?</string>
-    <string name="choose_wallpaper">Choose a wallpaper</string>
-    <string name="choose_dock_bg">Choose a dock background</string>
-    <string name="choose_image">Image</string>
-    <string name="choose_color">Color</string>
+    <string name="take_me_there">Доставь меня туда</string>
+    <string name="sure">Вы уверены?</string>
+    <string name="configurations_reset">Хотите ли вы сбросить конфигурации?</string>
+    <string name="configurations_backup">Хотите ли вы сохранить конфигурации?</string>
+    <string name="choose_wallpaper">Выбирите обои</string>
+    <string name="choose_dock_bg">Выбирите фон док-панели</string>
+    <string name="choose_image">Изображение</string>
+    <string name="choose_color">Цвет</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
+    <string name="settings_title">Настройки Inspire</string>
     <string name="title_prime">Inspire launcher prime</string>
-    <string name="title_general_settings">General</string>
-    <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
-    <string name="title_dock">Dock</string>
-    <string name="title_folder">Folders</string>
-    <string name="title_animations">Animations</string>
+    <string name="title_general_settings">Главные</string>
+    <string name="title_homescreen_settings">Главный экран</string>
+    <string name="title_drawer_settings">Меню приложений</string>
+    <string name="title_dock">Док-панель</string>
+    <string name="title_folder">Папки</string>
+    <string name="title_animations">Анимации</string>
 
     <!-- Prime -->
-    <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
-    <string name="title_prime_feature">Prime feature</string>
-    <string name="title_prime_feature_message">This feature is available only in Inspire Launcher prime!</string>
+    <string name="title_purchase_prime">Приобрести и разблокировать особенности Prime</string>
+    <string name="title_prime_feature">Особенности Prime</string>
+    <string name="title_prime_feature_message">Эта особенность доступна только в Inspire Launcher prime!</string>
 
     <!-- General -->
-    <string name="title_fullscreen">Full screen</string>
-    <string name="title_orientation">Auto rotate screen</string>
+    <string name="title_fullscreen">Полный экран</string>
+    <string name="title_orientation">Автоматический поворот экрана</string>
 
     <!-- Homescreen -->
-    <string name="title_background">Background</string>
-    <string name="title_homescreen_transition_settings">Scroll Effect</string>
-    <string name="title_homescreen_padding">Padding</string>
-    <string name="title_homescreen_gridsize">Grid size</string>
-    <string name="title_homescreen_page_indicator">Page indicator</string>
-    <string name="title_homescreen_bounce_loop">Infinite bounce scroll</string>
+    <string name="title_background">Фон</string>
+    <string name="title_homescreen_transition_settings">Эффект листания</string>
+    <string name="title_homescreen_padding">Внутренний отступ</string>
+    <string name="title_homescreen_gridsize">Размер сетки</string>
+    <string name="title_homescreen_page_indicator">Индикатор страницы</string>
+    <string name="title_homescreen_bounce_loop">Бесконечная прокрутка со скачком</string>
 
     <!-- Drawer -->
-    <string name="title_drawer_disable_apps">Hide applications</string>
-    <string name="title_drawer_protect_apps">Protect applications</string>
-    <string name="title_drawer_transition_settings">Scroll Effect</string>
-    <string name="title_drawer_sorting">Sort applications</string>
-    <string name="title_drawer_show_text">Hide text</string>
-    <string name="title_drawer_text_color">Text color</string>
-    <string name="title_drawer_text_size">Text size</string>
-    <string name="title_drawer_manage_password">Manage password</string>
-    <string name="title_drawer_insert_new_password">Create a new password</string>
-    <string name="title_drawer_insert_password">Insert password</string>
-    <string name="title_drawer_insert_password_wrong">Wrong password</string>
-    <string name="title_drawer_working">Working</string>
-    <string name="title_drawer_apps_disabling">Hiding application...</string>
-    <string name="title_drawer_show_allapps">Show drawer icon</string>
-    <string name="title_drawer_allapps_style">Drawer icon style</string>
+    <string name="title_drawer_disable_apps">Спрятать приложения</string>
+    <string name="title_drawer_protect_apps">Защита приложений</string>
+    <string name="title_drawer_transition_settings">Эффект прокрутки</string>
+    <string name="title_drawer_sorting">Сортировка приложений</string>
+    <string name="title_drawer_show_text">Спрятать текст/название</string>
+    <string name="title_drawer_text_color">Цвет текста</string>
+    <string name="title_drawer_text_size">Размер текста</string>
+    <string name="title_drawer_manage_password">Управление паролем</string>
+    <string name="title_drawer_insert_new_password">Задать новый пароль</string>
+    <string name="title_drawer_insert_password">Ввести пароль</string>
+    <string name="title_drawer_insert_password_wrong">Неверный пароль</string>
+    <string name="title_drawer_working">Обработка</string>
+    <string name="title_drawer_apps_disabling">Скрытие приложения...</string>
+    <string name="title_drawer_show_allapps">Показать иконку меню приложений</string>
+    <string name="title_drawer_allapps_style">Стиль иконки меню приложений</string>
 
     <!-- Text size -->
-    <string name="title_text_size_stock">Stock</string>
-    <string name="title_text_size_extra_small">Extra small</string>
-    <string name="title_text_size_small">Small</string>
-    <string name="title_text_size_medium">Medium</string>
-    <string name="title_text_size_large">Large</string>
-    <string name="title_text_size_extra_large">Extra large</string>
+    <string name="title_text_size_stock">По умолчанию</string>
+    <string name="title_text_size_extra_small">Очень маленький</string>
+    <string name="title_text_size_small">Маленький</string>
+    <string name="title_text_size_medium">Средний</string>
+    <string name="title_text_size_large">Большой</string>
+    <string name="title_text_size_extra_large">Очень большой</string>
 
     <!-- Animations -->
-    <string name="title_animations_launch">App launch</string>
-    <string name="title_animations_close">App close</string>
+    <string name="title_animations_launch">Запуск приложений</string>
+    <string name="title_animations_close">Закрытие приложений</string>
 
     <!-- Dock -->
-    <string name="title_dock_icons_count">Icons count</string>
+    <string name="title_dock_icons_count">Количество иконок</string>
     
     <!-- Dock style -->
-    <string name="title_dock_transparent">Glass</string>
-    <string name="title_dock_wood">Wood</string>
-    <string name="title_dock_steel">Steel</string>
-    <string name="title_dock_black">Black</string>
-    <string name="title_dock_neon">Neon</string>
-    <string name="title_dock_stone_white">White stone</string>
-    <string name="title_dock_stone_black">Black stone</string>
+    <string name="title_dock_transparent">Стекло</string>
+    <string name="title_dock_wood">Дерево</string>
+    <string name="title_dock_steel">Сталь</string>
+    <string name="title_dock_black">Черный</string>
+    <string name="title_dock_neon">Неоновый</string>
+    <string name="title_dock_stone_white">Белый камень</string>
+    <string name="title_dock_stone_black">Черный камень</string>
 
     <!-- AllApps style -->
-    <string name="title_allapps_brick">Brick</string>
-    <string name="title_allapps_closet">Closet</string>
-    <string name="title_allapps_house">House</string>
+    <string name="title_allapps_brick">Кирпич</string>
+    <string name="title_allapps_closet">Шкаф</string>
+    <string name="title_allapps_house">Дом</string>
 
     <!-- Folders -->
-    <string name="title_folder_style">Icon style</string>
-    <string name="title_folder_title_color">Title text color</string>
-    <string name="title_folder_items_color">Items text color</string>
+    <string name="title_folder_style">Стиль иконки</string>
+    <string name="title_folder_title_color">Цвет текста названия</string>
+    <string name="title_folder_items_color">Цвет текста отдельного предмета</string>
 
     <!-- Folders icon style -->
-    <string name="title_folder_hologram">Hologram</string>
-    <string name="title_folder_circle_black">Circle black</string>
+    <string name="title_folder_hologram">Голограмма</string>
+    <string name="title_folder_circle_black">Черный круг</string>
 
     <!-- Icons and themes -->
-    <string name="title_icons">Themes</string>
-    <string name="title_icons_pack">Icons theme</string>
-    <string name="title_icons_stock_icon_pack">Default icons</string>
-    <string name="title_icons_size">Icons size</string>
-    <string name="title_icons_size_unified">Link homescreen and dock icons size</string>
-    <string name="title_icons_folders_size">Folders size</string>
+    <string name="title_icons">Темы</string>
+    <string name="title_icons_pack">Темы иконок</string>
+    <string name="title_icons_stock_icon_pack">Иконки по умолчанию</string>
+    <string name="title_icons_size">Размер иконок</string>
+    <string name="title_icons_size_unified">Размер указателя иконки главного экрана и док-панели</string>
+    <string name="title_icons_folders_size">Размер папок</string>
 
     <!-- Gestures -->
-    <string name="title_gestures_title">Gestures</string>
-    <string name="title_gestures_double_tap_title">Double tap</string>
-    <string name="title_gestures_swipe_up_title">Swipe up</string>
-    <string name="title_gestures_swipe_down_title">Swipe down</string>
-    <string name="title_gestures_pinch_in_title">Pinch in</string>
-    <string name="title_gestures_pinch_out_title">Pinch out</string>
-    <string name="title_gestures_no_action">No action</string>
-    <string name="title_gestures_open_drawer">Open drawer</string>
-    <string name="title_gestures_preferences">Inspire settings</string>
-    <string name="title_gestures_launch_application">Launch application</string>
-    <string name="title_gestures_settings">System settings</string>
+    <string name="title_gestures_title">Управление жестами</string>
+    <string name="title_gestures_double_tap_title">Двойное нажатие</string>
+    <string name="title_gestures_swipe_up_title">Жест вверх</string>
+    <string name="title_gestures_swipe_down_title">Жест вниз</string>
+    <string name="title_gestures_pinch_in_title">Щипок</string>
+    <string name="title_gestures_pinch_out_title">Щипок от центра</string>
+    <string name="title_gestures_no_action">Без действия</string>
+    <string name="title_gestures_open_drawer">Открыть меню приложений</string>
+    <string name="title_gestures_preferences">Inspire установки</string>
+    <string name="title_gestures_launch_application">Запуск приложения</string>
+    <string name="title_gestures_settings">Системные установки</string>
 
     <!-- Advanced -->
-    <string name="title_advanced">Advanced</string>
-    <string name="title_advanced_default_launcher">Default launcher</string>
-    <string name="title_advanced_reset">Reset configurations</string>
-    <string name="title_advanced_backup">Backup configurations</string>
-    <string name="title_advanced_restore">Restore configurations</string>
+    <string name="title_advanced">Расширеные</string>
+    <string name="title_advanced_default_launcher">Ланчер по умолчанию</string>
+    <string name="title_advanced_reset">Сбросить конфигурацию</string>
+    <string name="title_advanced_backup">Сохранить конфигурацию</string>
+    <string name="title_advanced_restore">Восстановить конфигурацию</string>
 
     <!-- Headers -->
-    <string name="title_header_transition">Select a scroll effect</string>
-    <string name="title_header_sorting">Choose a sorting method</string>
-    <string name="title_header_padding">Slide the bars to increase or decrease the homescreen padding</string>
-    <string name="title_header_vertical_padding">Vertical padding</string>
-    <string name="title_header_horizontal_padding">Horizontal padding</string>
-    <string name="title_header_disable_apps">Check the applications you want to hide</string>
-    <string name="title_header_protect_apps">Check the applications you want to protect</string>
-    <string name="title_header_dock_count">Choose how many icons to show in the dock</string>
-    <string name="title_header_icons_pack_select">Select an icons pack</string>
-    <string name="title_header_icons_size">Slide the bar to increase or decrease the icons size</string>
-    <string name="title_header_icons_folder_size">Slide the bar to increase or decrease the folders size</string>
-    <string name="title_header_homescreen_gridsize">Setup the size of the grid with custom rows and columns</string>
-    <string name="title_header_intelliui_configure">Configure intelliUI</string>
-    <string name="title_header_animations">Select an animation</string>
-    <string name="title_header_gestures">Select a gesture</string>
-    <string name="title_header_app">Select an application</string>
-    <string name="title_header_text_size">Select the text size</string>
-    <string name="title_header_allapps_style">Select a style for the drawer icon</string>
-    <string name="title_header_folder_style">Select a style for the folder icon</string>
+    <string name="title_header_transition">Выбрать эффект перехода</string>
+    <string name="title_header_sorting">Выбрать метод сортировки</string>
+    <string name="title_header_padding">Сдвигать бары для увеличения или уменьшения отступа главного экрана</string>
+    <string name="title_header_vertical_padding">Вертикальный отступ</string>
+    <string name="title_header_horizontal_padding">Горизонтальный отступ</string>
+    <string name="title_header_disable_apps">Отметить приложения которые хотите скрыть</string>
+    <string name="title_header_protect_apps">Отметить приложения которые хотите защитить</string>
+    <string name="title_header_dock_count">Выбрать количество иконок в док-панели</string>
+    <string name="title_header_icons_pack_select">Выбрать набор иконок</string>
+    <string name="title_header_icons_size">Сдвинуть полоску для увеличения или уменьшения размера иконок</string>
+    <string name="title_header_icons_folder_size">Сдвинуть полоску для увеличения или уменьшения размера папок</string>
+    <string name="title_header_homescreen_gridsize">Установить свой размер сетки строк и столбцов</string>
+    <string name="title_header_intelliui_configure">Конфигурировать intelliUI</string>
+    <string name="title_header_animations">Выбрать анимацию</string>
+    <string name="title_header_gestures">Выбрать жест</string>
+    <string name="title_header_app">Выбрать приложение</string>
+    <string name="title_header_text_size">Выбрать размер текста</string>
+    <string name="title_header_allapps_style">Выбрать стиль иконки меню приложений</string>
+    <string name="title_header_folder_style">Выбрать стиль иконки папок</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -179,74 +179,74 @@
     <string name="color_opacity">Opacity</string>
 
     <!-- Animations -->
-    <string name="animations_none">None</string>
-    <string name="animations_fade">Fade</string>
-    <string name="animations_push_down">Push down</string>
-    <string name="animations_push_left">Push left</string>
-    <string name="animations_push_right">Push right</string>
-    <string name="animations_push_up">Push up</string>
+    <string name="animations_none">Нет</string>
+    <string name="animations_fade">Затухание</string>
+    <string name="animations_push_down">Сдвиг вниз</string>
+    <string name="animations_push_left">Сдвиг влево</string>
+    <string name="animations_push_right">Сдвиг вправо</string>
+    <string name="animations_push_up">Сдвиг вверх</string>
 
     <string name="title_empty"></string>
 
-    <string name="new_iconpack_notification_title">New icon pack installed</string>
-    <string name="new_iconpack_notification_message">A new icon pack was detected and can be applied to the launcher</string>
-    <string name="new_iconpack_notification_apply_action_title">Apply icon pack</string>
-    <string name="title_rows">Rows</string>
-    <string name="title_cols">Columns</string>
+    <string name="new_iconpack_notification_title">Новая тема иконок установлена</string>
+    <string name="new_iconpack_notification_message">Новая тема иконок была определена и может быть применена в ланчере</string>
+    <string name="new_iconpack_notification_apply_action_title">Установить тему иконок</string>
+    <string name="title_rows">Строки</string>
+    <string name="title_cols">Столбцы</string>
 
     <!-- Genius Bar -->
     <string name="title_genius_bar">Genius Bar</string>
-    <string name="title_genius_hint">Search something...</string>
-    <string name="title_genius_loading">Loading...</string>
-    <string name="title_genius_apps">Applications</string>
-    <string name="title_genius_contacts">Contacts</string>
-    <string name="title_genius_maps">Maps</string>
+    <string name="title_genius_hint">Искать что-то...</string>
+    <string name="title_genius_loading">Загрузка...</string>
+    <string name="title_genius_apps">Приложения</string>
+    <string name="title_genius_contacts">Контакты</string>
+    <string name="title_genius_maps">Карты</string>
     <string name="title_genius_youtube">YouTube</string>
-    <string name="title_genius_store">Play Store</string>
-    <string name="title_genius_websearch">Search on Google</string>
-    <string name="title_genius_maps_search">Search on Maps</string>
-    <string name="title_genius_youtube_search">Search on Youtube</string>
-    <string name="title_genius_store_search">Search on Play Store</string>
+    <string name="title_genius_store">Play Маркет</string>
+    <string name="title_genius_websearch">Поиск на Google</string>
+    <string name="title_genius_maps_search">Поиск на Картах</string>
+    <string name="title_genius_youtube_search">Поиск на Youtube</string>
+    <string name="title_genius_store_search">Поиск на Play Маркете</string>
 
-    <string name="geniusbar_cling_usage">Quickly search for applications or contacts in your device, a video on youtube, an address, an application in the store and much more!</string>
-    <string name="intelliui_background_cling">IntelliUI will change your background with different flat colors based on the phases of the day</string>
-    <string name="intelliui_goodmorning_cling">IntelliUI will send you a goodmorning notification with some informations customizable in the configuration</string>
+    <string name="geniusbar_cling_usage">Быстрый поиск приложений или контактов в вашем аппарате, видео на youtube, адреса, приложение в магазине и многое другое!</string>
+    <string name="intelliui_background_cling">IntelliUI изменит ваш фон с другими плоскими цветами основаными на фазе дня</string>
+    <string name="intelliui_goodmorning_cling">IntelliUI пришлет вам утреннее уведомление с настраиваемой вами информацией в конфигурации</string>
 
     <!-- IntelliUI -->
     <string name="intelliui_title">IntelliUI</string>
-    <string name="intelliui_configure">Configure</string>
-    <string name="intelliui_configure_msg">Good morning require configurations!</string>
-    <string name="intelliui_name">How should i call you?</string>
-    <string name="intelliui_name_hint">Enter your name</string>
-    <string name="intelliui_age">When were you born?</string>
-    <string name="intelliui_month_hint">MM</string>
-    <string name="intelliui_day_hint">DD</string>
-    <string name="intelliui_year_hint">YYYY</string>
-    <string name="intelliui_weather_info">How should i fetch weather informations?</string>
-    <string name="intelliui_weather_use_gps">Use gps when possible</string>
-    <string name="intelliui_weather_use_fahrenheit">Fahrenheit</string>
+    <string name="intelliui_configure">Конфигурировать</string>
+    <string name="intelliui_configure_msg">Утренне уведомление нуждаеться в конфигурации!</string>
+    <string name="intelliui_name">Как мне обращаться к вам?</string>
+    <string name="intelliui_name_hint">Введите свое имя</string>
+    <string name="intelliui_age">Когда вы родились?</string>
+    <string name="intelliui_month_hint">ММ</string>
+    <string name="intelliui_day_hint">ДД</string>
+    <string name="intelliui_year_hint">ГГГГ</string>
+    <string name="intelliui_weather_info">Каким образом мне выбирать информацию о погоде?</string>
+    <string name="intelliui_weather_use_gps">Использовать GPS по возможности</string>
+    <string name="intelliui_weather_use_fahrenheit">Фаренгейт</string>
     <string name="intelliui_custom_location_hint">\'London, UK\'</string>
-    <string name="intelliui_background">Auto background</string>
-    <string name="intelliui_goodmorning">Good morning!</string>
-    <string name="intelliui_goodmorning_time_picker">When would you like to get the good morning?</string>
+    <string name="intelliui_background">Автоматический фон</string>
+    <string name="intelliui_goodmorning">Доброе утро!</string>
+    <string name="intelliui_goodmorning_time_picker">Когда вы хотите получать утреннее уведомление?</string>
 
     <!-- IntelliUI Interactions -->
-    <string name="interactions_goodmorning">Good morning</string>
-    <string name="interactions_today">Today is</string>
-    <string name="interaction_temperature">The outside temperature is</string>
-    <string name="interaction_sunny">and it will be a sunny day!</string>
-    <string name="interaction_cloudy">and it will be a cloudy day!</string>
-    <string name="interaction_rain">and it will be a rainy day!</string>
-    <string name="interaction_snow">and it will be a snowy day!</string>
-    <string name="interaction_wind">and it will be a windy day!</string>
-    <string name="interaction_storm">and it will be a strong thunderstorm</string>
-    <string name="interaction_foggy">and it will be a foggy day!</string>
-    <string name="interaction_cold">and it will be a very cold day!</string>
-    <string name="interaction_hot">and it will be a very hot day!</string>
-    <string name="interaction_no_weather">Enable GPS and fill the configurations to get weather informations</string>
+    <string name="interactions_goodmorning">Доброе утро</string>
+    <string name="interactions_today">Сегодня</string>
+    <string name="interaction_temperature">Температура окружающей среды</string>
+    <string name="interaction_sunny">и сегодня будет солнечный день!</string>
+    <string name="interaction_cloudy">и сегодня будет облачно!</string>
+    <string name="interaction_rain">и сегодня будет дождливо!</string>
+    <string name="interaction_snow">и сегодня будет идти снег!</string>
+    <string name="interaction_wind">и сегодня будет ветренно!</string>
+    <string name="interaction_storm">и это будет сильная гроза!</string>
+    <string name="interaction_foggy">и это будет туманный день!</string>
+    <string name="interaction_cold">и это будет очень холодный день!</string>
+    <string name="interaction_hot">и это будет очень жаркий день!</string>
+    <string name="interaction_no_weather">Включить GPS и заполнить конфигурацию, чтобы получить информацию о погоде</string>
 
     <!-- About -->
-    <string name="about_title">About</string>
-    <string name="title_developed">Developed by iGio90</string>
-    <string name="title_graphics">Graphics by Bliss91</string>
+    <string name="about_title">Информация</string>
+    <string name="title_developed">Разработано - iGio90</string>
+    <string name="title_graphics">Графика - Bliss91</string>
 </resources>
