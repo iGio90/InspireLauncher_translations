@@ -1,0 +1,46 @@
+★★ Inspire Launcher è un nuovissimo launcher basato sul launcher di Android KitKat con tantissime caratteristiche e personalizzazioni. Inspire racchiunde in se le maggiori caratteristiche di Android combinate con alcune chicche ispirate ad iOS e Windows Phone. ★★
+
+★★ Inspire Launcher è il launcher con più personalizzazioni mai realizzato! ★★
+
+★★★★ Recensioni: ★★★★
+★★
+★★ AndroidBlog: http://www.androidblog.it/62868/inspire-launcher-recensione/ ★★
+★★ ChimeraRevo: http://www.chimerarevo.com/android/inspire-launcher-creatori-bam-rom/ ★★
+★★
+★★★★★★★★★★★★★★
+
+★★ Inspire community: https://plus.google.com/u/0/communities/104695304515771826360 ★★
+
+★ FEATURES ★
+* Flat UI e design
+* Ampie personalizzazioni della Homescreen
+* Ampie personalizzazioni dell' Application drawer
+* Dimensioni personalizzate di icone e cartelle
+* Ampie personalizzazioni della dock bar
+* Wallpaper e background con colori flat (anche per l'application drawer)
+* Controllo opacità e trasparenza
+* Possibilità di nascondere le applicazioni
+* Effetti di transizione e animazioni
+* Colori dei testi
+* Personalizzazioni delle icone singole
+* Gestures
+* Pagina genius (inspirata alla pagina finder di iOS e alla nuova pagine del Google Now Launcher)
+* Toggles di sistema e applicazioni recenti dentro la pagina genius!
+* Supporto per tutti gli icon pack compatibili con Nova, Apex, ADW e altri launcher!
+* Possibilità di effettuare backup e restore delle preferenze
+* Inclusi 3 widget orologio in stile flat
+* Incluso un tema con chiamato inspire colors! 
+* Oltre 500 opzioni e personalizzazioni
+
+★ PRIME ★
+* UI Intelligente aka IntelliUI: cambio automatico del background con colori flat in base all'ora corrente
+* Notifica good morning con informazioni sul meteo!
+* Applicazioni protette da password
+* Ricerca genius attraverso youtube, mappe e play store!
+* Animazioni personalizzate su apertura e chiusura delle app
+* Sfondi addizionali per la dock
+* Personalizzazione ampia delle cartelle
+* Icone cartella addizionali
+* Icone drawer addizionali
+
+Il launcher è in continuo sviluppo e non sono escluse novità e nuove opzioni!
