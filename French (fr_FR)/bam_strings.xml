@@ -179,7 +179,7 @@
     <string name="color_opacity">Opacity</string>
 
     <!-- Animations -->
-    <string name="animations_none">Aucune/string>
+    <string name="animations_none">Aucune</string>
     <string name="animations_fade">En fondu</string>
     <string name="animations_push_down">Glissement vers le bas</string>
     <string name="animations_push_left">Glissement vers la gauche</string>
