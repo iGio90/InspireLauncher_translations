@@ -207,9 +207,9 @@
     <string name="title_rows">Lignes</string>
     <string name="title_cols">Colonnes</string>
 
-    <!-- Genius Page -->
+    <!-- Genius Center -->
     <string name="title_genius">Genius</string>
-    <string name="title_genius_page">Genius page</string>
+    <string name="title_genius_page">Genius center</string>
     <string name="title_genius_bar">Genius Bar</string>
     <string name="title_genius_loading">Chargement...</string>
     <string name="title_genius_apps">Applications</string>

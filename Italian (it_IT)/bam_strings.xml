@@ -18,6 +18,7 @@
     <!-- Settings -->
     <string name="settings_title">Inspire Settings</string>
     <string name="title_prime">Inspire launcher prime</string>
+    <string name="title_ui">Interfaccia</string>
     <string name="title_general_settings">Generali</string>
     <string name="title_homescreen_settings">Homescreen</string>
     <string name="title_drawer_settings">Applications drawer</string>
@@ -206,7 +207,9 @@
     <string name="title_rows">Righe</string>
     <string name="title_cols">Colonne</string>
 
-    <!-- Genius Page -->
+    <!-- Genius Center -->
+    <string name="title_genius">Genius</string>
+    <string name="title_genius_page">Genius center</string>
     <string name="title_genius_bar">Genius Bar</string>
     <string name="title_genius_loading">Caricamento...</string>
     <string name="title_genius_apps">Applicazioni</string>
@@ -223,6 +226,7 @@
     <string name="title_genius_no_recent">Nessuna applicazione recente</string>
     <string name="title_genius_kill_all">Chiudi tutte</string>
 
+    <string name="settings_cling_usage">Tocca il bottone menu o effettua uno swipe verso destra per accedere alle categorie del settings</string>
     <string name="geniusbar_cling_usage">Ricerca rapida per Applicazioni installate o Contatti, video su YouTube, indirizzo su Google Maps o App sullo Store e molto altro!</string>
     <string name="intelliui_background_cling">IntelliUI cambierà il tuo sfondo con diversi colori flat in base alla fase della giornata</string>
     <string name="intelliui_goodmorning_cling">IntelliUI ti iniverà un Buon Giorno con alcune info personalizzabili nelle configurazioni</string>
