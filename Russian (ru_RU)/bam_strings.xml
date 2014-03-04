@@ -40,7 +40,7 @@
     <!-- Drawer -->
     <string name="title_drawer_disable_apps">Спрятать приложения</string>
     <string name="title_drawer_protect_apps">Защита приложений</string>
-    <string name="title_drawer_transition_settings">Эффект листания/string>
+    <string name="title_drawer_transition_settings">Эффект листания</string>
     <string name="title_drawer_sorting">Сортировка приложений</string>
     <string name="title_drawer_show_text">Спрятать текст/название</string>
     <string name="title_drawer_text_color">Цвет текста</string>
