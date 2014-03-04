@@ -9,6 +9,11 @@
     <string name="choose_dock_bg">Choisissez un fond pour le dock</string>
     <string name="choose_image">Image</string>
     <string name="choose_color">Couleur</string>
+	<string name="edit_drop_target">Éditer</string>
+    <string name="dialog_pick_iconpack_title">Sélectionner un pack d\'icônes</string>
+    <string name="dialog_pick_icon_title">Sélectionner une icône</string>
+    <string name="loading">Chargement</string>
+    <string name="loading_icons">Chargement des icônes</string>
 
     <!-- Settings -->
     <string name="settings_title">Paramètres d\'Inspire</string>
@@ -82,6 +87,9 @@
     <string name="title_allapps_brick">Carrés</string>
     <string name="title_allapps_closet">Portes</string>
     <string name="title_allapps_house">Maison</string>
+	<string name="title_allapps_solid_circle">Cercle plein</string>
+    <string name="title_allapps_dots">Points</string>
+    <string name="title_allapps_inspire">Inspire</string>
 
     <!-- Folders -->
     <string name="title_folder_style">Style de l\'icône</string>
@@ -91,14 +99,18 @@
     <!-- Folders icon style -->
     <string name="title_folder_hologram">Hologramme</string>
     <string name="title_folder_circle_black">Cercle noir</string>
+	<string name="title_folder_ring">Anneau</string>
+    <string name="title_folder_inspire">Inspire</string>
+    <string name="title_folder_none">Aucun</string>
 
     <!-- Icons and themes -->
     <string name="title_icons">Thèmes</string>
     <string name="title_icons_pack">Pack d\'icônes</string>
     <string name="title_icons_stock_icon_pack">Icônes par défaut</string>
     <string name="title_icons_size">Taille des icônes</string>
-    <string name="title_icons_size_unified">Même taille pour les application du dock et de l\'écran d\'accueil</string>
+    <string name="title_icons_size_unified">Même taille pour les applications du dock et de l\'écran d\'accueil</string>
     <string name="title_icons_folders_size">Taille des dossiers</string>
+	<string name="title_inspire_colors">Couleurs Inspire</string>
 
     <!-- Gestures -->
     <string name="title_gestures_title">Gestes</string>
@@ -133,6 +145,7 @@
     <string name="title_header_icons_size">Déplacez les barres pour augmenter ou diminuer la taille des icônes</string>
     <string name="title_header_icons_folder_size">Déplacez les barres pour augmenter ou diminuer la taille des icônes des dossiers</string>
     <string name="title_header_homescreen_gridsize">Choisissez la taille de la grille</string>
+    <string name="title_header_homescreen_gridsize_linked">Choisissez la taille de la grille. Le nombre minimal de colonnes est défini en fonction du nombre d\'icônes dans le dock !</string>
     <string name="title_header_intelliui_configure">Configurer intelliUI</string>
     <string name="title_header_animations">Sélectionnez une animation</string>
     <string name="title_header_gestures">Sélectionnez un geste</string>
@@ -194,12 +207,14 @@
     <string name="title_rows">Lignes</string>
     <string name="title_cols">Colonnes</string>
 
-    <!-- Genius Bar -->
+    <!-- Genius Page -->
+    <string name="title_genius">Genius</string>
+    <string name="title_genius_page">Genius page</string>
     <string name="title_genius_bar">Genius Bar</string>
-    <string name="title_genius_hint">Rechercher quelque chose...</string>
     <string name="title_genius_loading">Chargement...</string>
     <string name="title_genius_apps">Applications</string>
     <string name="title_genius_contacts">Contacts</string>
+    <string name="title_genius_music">Musique</string>
     <string name="title_genius_maps">Maps</string>
     <string name="title_genius_youtube">YouTube</string>
     <string name="title_genius_store">Play Store</string>
@@ -207,6 +222,8 @@
     <string name="title_genius_maps_search">Rechercher sur Maps</string>
     <string name="title_genius_youtube_search">Rechercher sur Youtube</string>
     <string name="title_genius_store_search">Rechercher sur le Play Store</string>
+	<string name="title_genius_recent">Applications récentes</string>
+    <string name="title_genius_no_recent">Aucune application récente</string>
 
     <string name="geniusbar_cling_usage">Rechercher rapidement des applicarion ou des contacts dans votre appareil, une vidéo sur YouTube, une adresse, une application dans le Play Store et plus encore !</string>
     <string name="intelliui_background_cling">IntelliUI va changer votre fond d\'écran en fonction des différents moments de la journée</string>
@@ -249,4 +266,6 @@
     <string name="about_title">À propos</string>
     <string name="title_developed">Développé par iGio90</string>
     <string name="title_graphics">Design par Bliss91</string>
+	<string name="title_plus_communtiy">Communauté Google+</string>
+    <string name="title_git_translations">Traductions</string>
 </resources>
