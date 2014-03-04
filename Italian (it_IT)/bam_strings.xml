@@ -62,11 +62,11 @@
 
     <!-- Text size -->
     <string name="title_text_size_stock">Stock</string>
-    <string name="title_text_size_extra_small">Extra small</string>
-    <string name="title_text_size_small">Small</string>
-    <string name="title_text_size_medium">Medium</string>
-    <string name="title_text_size_large">Large</string>
-    <string name="title_text_size_extra_large">Extra large</string>
+    <string name="title_text_size_extra_small">Molto piccolo</string>
+    <string name="title_text_size_small">Piccolo</string>
+    <string name="title_text_size_medium">Medio</string>
+    <string name="title_text_size_large">Grande</string>
+    <string name="title_text_size_extra_large">Molto grande</string>
 
     <!-- Animations -->
     <string name="title_animations_launch">Apertura app</string>
@@ -76,13 +76,13 @@
     <string name="title_dock_icons_count">Numero di icone</string>
     
     <!-- Dock style -->
-    <string name="title_dock_transparent">Glass</string>
-    <string name="title_dock_wood">Wood</string>
-    <string name="title_dock_steel">Steel</string>
-    <string name="title_dock_black">Black</string>
+    <string name="title_dock_transparent">Vetro</string>
+    <string name="title_dock_wood">Legno</string>
+    <string name="title_dock_steel">Acciaio</string>
+    <string name="title_dock_black">Nero</string>
     <string name="title_dock_neon">Neon</string>
-    <string name="title_dock_stone_white">White stone</string>
-    <string name="title_dock_stone_black">Black stone</string>
+    <string name="title_dock_stone_white">Pietra bianca</string>
+    <string name="title_dock_stone_black">Pietra nera</string>
 
     <!-- AllApps style -->
     <string name="title_allapps_brick">Brick</string>
@@ -98,9 +98,9 @@
     <string name="title_folder_items_color">Colore titolo contenuto</string>
 
     <!-- Folders icon style -->
-    <string name="title_folder_hologram">Hologram</string>
-    <string name="title_folder_circle_black">Circle black</string>
-    <string name="title_folder_ring">Ring</string>
+    <string name="title_folder_hologram">Ologramma</string>
+    <string name="title_folder_circle_black">Cerchio</string>
+    <string name="title_folder_ring">Disco</string>
     <string name="title_folder_inspire">Inspire</string>
 
     <!-- Icons and themes -->
