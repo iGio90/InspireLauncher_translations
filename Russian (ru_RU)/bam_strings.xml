@@ -40,7 +40,7 @@
     <!-- Drawer -->
     <string name="title_drawer_disable_apps">Спрятать приложения</string>
     <string name="title_drawer_protect_apps">Защита приложений</string>
-    <string name="title_drawer_transition_settings">Эффект прокрутки</string>
+    <string name="title_drawer_transition_settings">Эффект листания/string>
     <string name="title_drawer_sorting">Сортировка приложений</string>
     <string name="title_drawer_show_text">Спрятать текст/название</string>
     <string name="title_drawer_text_color">Цвет текста</string>
@@ -90,7 +90,7 @@
 
     <!-- Folders icon style -->
     <string name="title_folder_hologram">Голограмма</string>
-    <string name="title_folder_circle_black">Черный круг</string>
+    <string name="title_folder_circle_black">Темный круг</string>
 
     <!-- Icons and themes -->
     <string name="title_icons">Темы</string>
@@ -114,7 +114,7 @@
     <string name="title_gestures_settings">Системные установки</string>
 
     <!-- Advanced -->
-    <string name="title_advanced">Расширеные</string>
+    <string name="title_advanced">Расширенные</string>
     <string name="title_advanced_default_launcher">Ланчер по умолчанию</string>
     <string name="title_advanced_reset">Сбросить конфигурацию</string>
     <string name="title_advanced_backup">Сохранить конфигурацию</string>
@@ -123,15 +123,15 @@
     <!-- Headers -->
     <string name="title_header_transition">Выбрать эффект перехода</string>
     <string name="title_header_sorting">Выбрать метод сортировки</string>
-    <string name="title_header_padding">Сдвигать бары для увеличения или уменьшения отступа главного экрана</string>
+    <string name="title_header_padding">Сдвиньте ползунок для увеличения или уменьшения отступа главного экрана</string>
     <string name="title_header_vertical_padding">Вертикальный отступ</string>
     <string name="title_header_horizontal_padding">Горизонтальный отступ</string>
-    <string name="title_header_disable_apps">Отметить приложения которые хотите скрыть</string>
-    <string name="title_header_protect_apps">Отметить приложения которые хотите защитить</string>
+    <string name="title_header_disable_apps">Отметьте приложения которые хотите скрыть</string>
+    <string name="title_header_protect_apps">Отметьте приложения которые хотите защитить</string>
     <string name="title_header_dock_count">Выбрать количество иконок в док-панели</string>
     <string name="title_header_icons_pack_select">Выбрать набор иконок</string>
-    <string name="title_header_icons_size">Сдвинуть полоску для увеличения или уменьшения размера иконок</string>
-    <string name="title_header_icons_folder_size">Сдвинуть полоску для увеличения или уменьшения размера папок</string>
+    <string name="title_header_icons_size">Сдвиньте ползунок для увеличения или уменьшения размера иконок</string>
+    <string name="title_header_icons_folder_size">Сдвиньте ползунок для увеличения или уменьшения размера папок</string>
     <string name="title_header_homescreen_gridsize">Установить свой размер сетки строк и столбцов</string>
     <string name="title_header_intelliui_configure">Конфигурировать intelliUI</string>
     <string name="title_header_animations">Выбрать анимацию</string>
@@ -142,9 +142,9 @@
     <string name="title_header_folder_style">Выбрать стиль иконки папок</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
-    <string name="select_color">Select a color</string>
-    <string name="select_image">Select an image</string>
-    <string name="opacity">Slide the bar to set the opacity</string>
+    <string name="select_color">Выберите цвет</string>
+    <string name="select_image">Выберите изображение</string>
+    <string name="opacity">Сдвиньте ползунок для установки прозрачности</string>
     <string name="color_white_pearl">Pearl white</string>
     <string name="color_alizarin">Alizarin</string>
     <string name="color_pomegranate">Pomegranate</string>
