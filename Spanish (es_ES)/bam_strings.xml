@@ -1,128 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="take_me_there">Take me there</string>
-    <string name="sure">Are you sure?</string>
-    <string name="configurations_reset">Do you want to reset the configurations?</string>
-    <string name="configurations_backup">Do you want to backup the configurations?</string>
-    <string name="choose_wallpaper">Choose a wallpaper</string>
-    <string name="choose_dock_bg">Choose a dock background</string>
-    <string name="choose_image">Image</string>
+    <string name="take_me_there">LLévame allí</string>
+    <string name="sure">¿Estás seguro?</string>
+    <string name="configurations_reset">¿Quieres restaurar la configuración?</string>
+    <string name="configurations_backup">¿Quieres hacer una copia de seguridad la configuración?</string>
+    <string name="choose_wallpaper">Elige un fondo de pantalla</string>
+    <string name="choose_dock_bg">Elige un fondo del dock</string>
+    <string name="choose_image">Imagen</string>
     <string name="choose_color">Color</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
+    <string name="settings_title">Configuración de Inspire</string>
     <string name="title_prime">Inspire launcher prime</string>
     <string name="title_general_settings">General</string>
-    <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
+    <string name="title_homescreen_settings">Pantalla de inicio</string>
+    <string name="title_drawer_settings">Cajón de aplicaciones</string>
     <string name="title_dock">Dock</string>
-    <string name="title_folder">Folders</string>
-    <string name="title_animations">Animations</string>
+    <string name="title_folder">Carpetas</string>
+    <string name="title_animations">Animaciones</string>
 
     <!-- Prime -->
-    <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
-    <string name="title_prime_feature">Prime feature</string>
-    <string name="title_prime_feature_message">This feature is available only in Inspire Launcher prime!</string>
+    <string name="title_purchase_prime">Pulsa aqui para desbloquear las características de Inspire Prime</string>
+    <string name="title_prime_feature">Característica Prime</string>
+    <string name="title_prime_feature_message">¡Esta característica solo está disponible en el modo Prime!</string>
 
     <!-- General -->
-    <string name="title_fullscreen">Full screen</string>
-    <string name="title_orientation">Auto rotate screen</string>
+    <string name="title_fullscreen">Pantalla completa</string>
+    <string name="title_orientation">Auto rotar pantalla</string>
 
     <!-- Homescreen -->
-    <string name="title_background">Background</string>
-    <string name="title_homescreen_transition_settings">Scroll Effect</string>
-    <string name="title_homescreen_padding">Padding</string>
-    <string name="title_homescreen_gridsize">Grid size</string>
-    <string name="title_homescreen_page_indicator">Page indicator</string>
-    <string name="title_homescreen_bounce_loop">Infinite bounce scroll</string>
+    <string name="title_background">Fondo de pantalla</string>
+    <string name="title_homescreen_transition_settings">Efecto de desplazamiento</string>
+    <string name="title_homescreen_padding">Márgenes</string>
+    <string name="title_homescreen_gridsize">Tamaño de la cuadrícula</string>
+    <string name="title_homescreen_page_indicator">Indicador de página</string>
+    <string name="title_homescreen_bounce_loop">Desplazamiento infinito</string>
 
     <!-- Drawer -->
-    <string name="title_drawer_disable_apps">Hide applications</string>
-    <string name="title_drawer_protect_apps">Protect applications</string>
-    <string name="title_drawer_transition_settings">Scroll Effect</string>
-    <string name="title_drawer_sorting">Sort applications</string>
-    <string name="title_drawer_show_text">Hide text</string>
-    <string name="title_drawer_text_color">Text color</string>
-    <string name="title_drawer_text_size">Text size</string>
-    <string name="title_drawer_manage_password">Manage password</string>
-    <string name="title_drawer_insert_new_password">Create a new password</string>
-    <string name="title_drawer_insert_password">Insert password</string>
-    <string name="title_drawer_insert_password_wrong">Wrong password</string>
-    <string name="title_drawer_working">Working</string>
-    <string name="title_drawer_apps_disabling">Hiding application...</string>
-    <string name="title_drawer_show_allapps">Show drawer icon</string>
-    <string name="title_drawer_allapps_style">Drawer icon style</string>
+    <string name="title_drawer_disable_apps">Ocultar aplicaciones</string>
+    <string name="title_drawer_protect_apps">Proteger aplicaciones</string>
+    <string name="title_drawer_transition_settings">Efecto de desplazamiento</string>
+    <string name="title_drawer_sorting">Clasificar aplicaciones</string>
+    <string name="title_drawer_show_text">Esconder texto</string>
+    <string name="title_drawer_text_color">Color del texto</string>
+    <string name="title_drawer_text_size">Tamaño del texto</string>
+    <string name="title_drawer_manage_password">Administrar contraseña</string>
+    <string name="title_drawer_insert_new_password">Crear una nueva contraseña</string>
+    <string name="title_drawer_insert_password">Introduce la contraseña</string>
+    <string name="title_drawer_insert_password_wrong">Contraseña incorrecta</string>
+    <string name="title_drawer_working">Cargando</string>
+    <string name="title_drawer_apps_disabling">Ocultando aplicación...</string>
+    <string name="title_drawer_show_allapps">Mostrar icono de cajon de aplicaciones</string>
+    <string name="title_drawer_allapps_style">Estilo del icono del cajon de aplicaciones</string>
 
     <!-- Text size -->
-    <string name="title_text_size_stock">Stock</string>
-    <string name="title_text_size_extra_small">Extra small</string>
-    <string name="title_text_size_small">Small</string>
-    <string name="title_text_size_medium">Medium</string>
-    <string name="title_text_size_large">Large</string>
-    <string name="title_text_size_extra_large">Extra large</string>
+    <string name="title_text_size_stock">Predeterminado</string>
+    <string name="title_text_size_extra_small">Extra pequeño</string>
+    <string name="title_text_size_small">Pequeñp</string>
+    <string name="title_text_size_medium">Medio</string>
+    <string name="title_text_size_large">Grande</string>
+    <string name="title_text_size_extra_large">Extra grande</string>
 
     <!-- Animations -->
-    <string name="title_animations_launch">App launch</string>
-    <string name="title_animations_close">App close</string>
+    <string name="title_animations_launch">Abrir aplicación</string>
+    <string name="title_animations_close">Cerrar aolicación</string>
 
     <!-- Dock -->
-    <string name="title_dock_icons_count">Icons count</string>
+    <string name="title_dock_icons_count">Contador de iconos</string>
     
     <!-- Dock style -->
-    <string name="title_dock_transparent">Glass</string>
-    <string name="title_dock_wood">Wood</string>
-    <string name="title_dock_steel">Steel</string>
-    <string name="title_dock_black">Black</string>
+    <string name="title_dock_transparent">Cristal</string>
+    <string name="title_dock_wood">Madera</string>
+    <string name="title_dock_steel">Acero</string>
+    <string name="title_dock_black">Negro</string>
     <string name="title_dock_neon">Neon</string>
-    <string name="title_dock_stone_white">White stone</string>
-    <string name="title_dock_stone_black">Black stone</string>
+    <string name="title_dock_stone_white">Piedra blanca</string>
+    <string name="title_dock_stone_black">Piedra negra</string>
 
     <!-- AllApps style -->
-    <string name="title_allapps_brick">Brick</string>
-    <string name="title_allapps_closet">Closet</string>
-    <string name="title_allapps_house">House</string>
+    <string name="title_allapps_brick">Ladrillo</string>
+    <string name="title_allapps_closet">Armario</string>
+    <string name="title_allapps_house">Casa</string>
 
     <!-- Folders -->
-    <string name="title_folder_style">Icon style</string>
-    <string name="title_folder_title_color">Title text color</string>
-    <string name="title_folder_items_color">Items text color</string>
+    <string name="title_folder_style">Estilo de icono</string>
+    <string name="title_folder_title_color">Color de texto del título</string>
+    <string name="title_folder_items_color">Color de texto de los items</string>
 
     <!-- Folders icon style -->
     <string name="title_folder_hologram">Hologram</string>
     <string name="title_folder_circle_black">Circle black</string>
 
     <!-- Icons and themes -->
-    <string name="title_icons">Themes</string>
-    <string name="title_icons_pack">Icons theme</string>
-    <string name="title_icons_stock_icon_pack">Default icons</string>
-    <string name="title_icons_size">Icons size</string>
-    <string name="title_icons_size_unified">Link homescreen and dock icons size</string>
-    <string name="title_icons_folders_size">Folders size</string>
+    <string name="title_icons">Temas</string>
+    <string name="title_icons_pack">Tema de los iconos</string>
+    <string name="title_icons_stock_icon_pack">Iconos por defecto</string>
+    <string name="title_icons_size">Tamaño de los iconos</string>
+    <string name="title_icons_size_unified">Tamaño de iconos del dock y del link a la pantalla de inicio</string>
+    <string name="title_icons_folders_size">Tamaño de carpeta</string>
 
     <!-- Gestures -->
     <string name="title_gestures_title">Gestures</string>
-    <string name="title_gestures_double_tap_title">Double tap</string>
-    <string name="title_gestures_swipe_up_title">Swipe up</string>
-    <string name="title_gestures_swipe_down_title">Swipe down</string>
-    <string name="title_gestures_pinch_in_title">Pinch in</string>
-    <string name="title_gestures_pinch_out_title">Pinch out</string>
-    <string name="title_gestures_no_action">No action</string>
-    <string name="title_gestures_open_drawer">Open drawer</string>
-    <string name="title_gestures_preferences">Inspire settings</string>
-    <string name="title_gestures_launch_application">Launch application</string>
-    <string name="title_gestures_settings">System settings</string>
+    <string name="title_gestures_double_tap_title">Doble tap</string>
+    <string name="title_gestures_swipe_up_title">Deslizar hacia arriba</string>
+    <string name="title_gestures_swipe_down_title">Deslizar hacia abajo</string>
+    <string name="title_gestures_pinch_in_title">Pellizco</string>
+    <string name="title_gestures_pinch_out_title">Pellizco inverso</string>
+    <string name="title_gestures_no_action">Sin acción</string>
+    <string name="title_gestures_open_drawer">Abrir cajon de aplicaciones</string>
+    <string name="title_gestures_preferences">Configuración de Inspire</string>
+    <string name="title_gestures_launch_application">Lanzar aplicación </string>
+    <string name="title_gestures_settings">Ajustes del sistema</string>
 
     <!-- Advanced -->
     <string name="title_advanced">Advanced</string>
-    <string name="title_advanced_default_launcher">Default launcher</string>
-    <string name="title_advanced_reset">Reset configurations</string>
-    <string name="title_advanced_backup">Backup configurations</string>
-    <string name="title_advanced_restore">Restore configurations</string>
+    <string name="title_advanced_default_launcher">Launcher por defecto</string>
+    <string name="title_advanced_reset">Resetear configuración</string>
+    <string name="title_advanced_backup">Copia de seguridad de configuraciones</string>
+    <string name="title_advanced_restore">Restaurar configuraciones</string>
 
     <!-- Headers -->
-    <string name="title_header_transition">Select a scroll effect</string>
-    <string name="title_header_sorting">Choose a sorting method</string>
+    <string name="title_header_transition">Selecciona un efecto de transición</string>
+    <string name="title_header_sorting">Escoge un metodo de clasificación</string>
     <string name="title_header_padding">Slide the bars to increase or decrease the homescreen padding</string>
     <string name="title_header_vertical_padding">Vertical padding</string>
     <string name="title_header_horizontal_padding">Horizontal padding</string>
