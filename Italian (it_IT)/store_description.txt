@@ -1,11 +1,15 @@
 ★★ Inspire Launcher è un nuovissimo launcher basato sul launcher di Android KitKat con tantissime caratteristiche e personalizzazioni. Inspire racchiunde in se le maggiori caratteristiche di Android combinate con alcune chicche ispirate ad iOS e Windows Phone. ★★
 
+★★ Questo Launcher è totalmente innovativo e non ha niente a che vedere con NOVA, Apex o simili. Se cercate le stesse caratteristiche usate direttamente quelli e non scaricate Inspire! ★★
+
 ★★ Inspire Launcher è il launcher con più personalizzazioni mai realizzato! ★★
 
 ★★★★ Recensioni: ★★★★
 ★★
+★★ Ridble: http://www.ridble.com/inspire-launcher-recensione/ ★★
 ★★ AndroidBlog: http://www.androidblog.it/62868/inspire-launcher-recensione/ ★★
 ★★ ChimeraRevo: http://www.chimerarevo.com/android/inspire-launcher-creatori-bam-rom/ ★★
+★★ HDBlog: http://android.hdblog.it/2014/03/03/inspire-launcher-un-nuovo-launcher-android-italiano/
 ★★
 ★★★★★★★★★★★★★★
 
@@ -24,6 +28,8 @@
 * Colori dei testi
 * Personalizzazioni delle icone singole
 * Gestures
+* Dock, appdrawer, cartelle e icone personalizzabili
+* Appdrawer sidepanel per la creazione di categorie nell'appdrawer!
 * Pagina genius (inspirata alla pagina finder di iOS e alla nuova pagine del Google Now Launcher)
 * Toggles di sistema e applicazioni recenti dentro la pagina genius!
 * Supporto per tutti gli icon pack compatibili con Nova, Apex, ADW e altri launcher!

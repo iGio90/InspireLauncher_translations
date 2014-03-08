@@ -14,6 +14,8 @@
     <string name="dialog_pick_icon_title">Scegli un icona</string>
     <string name="loading">Caricamento</string>
     <string name="loading_icons">Carico le icone</string>
+    <string name="title_warning">Attenzione</string>
+    <string name="title_translucent_compatibility">La statusbar trasparente è compatibile solo con alcune ROM Samsung o Sony ed il suo funzionamento non è garantito al 100%</string>
 
     <!-- Settings -->
     <string name="settings_title">Inspire Settings</string>
@@ -33,6 +35,7 @@
 
     <!-- General -->
     <string name="title_fullscreen">Schermo intero</string>
+    <string name="title_translucent">Statusbar traslucida</string>
     <string name="title_orientation">Rotazione automatica schermo</string>
 
     <!-- Homescreen -->
@@ -73,6 +76,7 @@
     <string name="title_animations_close">Chiusura app</string>
 
     <!-- Dock -->
+    <string name="title_dock_show">Mostra la dock</string>
     <string name="title_dock_icons_count">Numero di icone</string>
     
     <!-- Dock style -->
@@ -91,6 +95,7 @@
     <string name="title_allapps_solid_circle">Solid Circle</string>
     <string name="title_allapps_dots">Dots</string>
     <string name="title_allapps_inspire">Inspire</string>
+    <string name="title_allapps_sense">Sense</string>
 
     <!-- Folders -->
     <string name="title_folder_style">Stile icona</string>
@@ -111,6 +116,11 @@
     <string name="title_icons_size_unified">Collega la grandezza delle icone dock e home</string>
     <string name="title_icons_folders_size">Grandezza cartella</string>
     <string name="title_inspire_colors">Inspire colors</string>
+    <string name="title_pageindicator_style">Stile indicatore pagina</string>
+
+    <!-- Page indicators -->
+    <string name="title_pageindicator_squared">Squadrato</string>
+    <string name="title_pageindicator_line">Linea</string>
 
     <!-- Gestures -->
     <string name="title_gestures_title">Gestures</string>
@@ -153,6 +163,7 @@
     <string name="title_header_text_size">Seleziona la grandezza del testo</string>
     <string name="title_header_allapps_style">Seleziona uno stile per l\'icona del drawer</string>
     <string name="title_header_folder_style">Seleziona uno stile per l\'icona delle cartelle</string>
+    <string name="title_header_pageindicator_style">Seleziona uno stile per l\'indicatore di pagina</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -263,6 +274,34 @@
     <string name="interaction_cold">e sarà una giornata molto fredda!</string>
     <string name="interaction_hot">e sarà una giornata molto calda!</string>
     <string name="interaction_no_weather">Attiva il GPS e completa la configurazione per ricevere info sul meteo.</string>
+
+    <!-- Drawer Panel -->
+    <string name="title_drawer_sidepanel">Side panel</string>
+    <string name="title_add_categories">Aggiungi categoria</string>
+    <string name="title_manage_apps">Modifica applicazioni</string>
+    <string name="title_delete_category">Cancella categoria</string>
+    <string name="title_show_all_apps">Tutte le app</string>
+    <string name="title_select_icon">Seleziona un icona</string>
+    <string name="title_category_empty">La categoria selezionata è vuota! Aggiungi qualche app prima!</string>
+
+    <!-- Category icons -->
+    <string name="title_panel_games">Giochi</string>
+    <string name="title_panel_office">Ufficio</string>
+    <string name="title_panel_social">Social</string>
+    <string name="title_panel_tools">Strumenti</string>
+
+    <!-- Overview Panel -->
+    <string name="title_overview">Overview panel</string>
+    <string name="title_show_date">Mostra la data</string>
+    <string name="title_weekday_color">Colore giorni della settimana</string>
+    <string name="title_date_color">Colore della data</string>
+    <string name="title_monday">Lunedì</string>
+    <string name="title_tuesday">Martedì</string>
+    <string name="title_wednesday">Mercoledì</string>
+    <string name="title_thursday">Giovedì</string>
+    <string name="title_friday">Venerdì</string>
+    <string name="title_saturday">Sabato</string>
+    <string name="title_sunday">Domenica</string>
 
     <!-- About -->
     <string name="about_title">About</string>
