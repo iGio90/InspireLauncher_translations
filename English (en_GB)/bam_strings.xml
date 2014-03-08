@@ -14,6 +14,8 @@
     <string name="dialog_pick_icon_title">Select an icon</string>
     <string name="loading">Loading</string>
     <string name="loading_icons">Fetching icons</string>
+    <string name="title_warning">Warning</string>
+    <string name="title_translucent_compatibility">Transparent statusbar is compatible only with Samsung or Sony stock ROM and it\'s not working at 100% on every device/rom</string>
 
     <!-- Settings -->
     <string name="settings_title">Inspire Settings</string>
@@ -35,6 +37,7 @@
 
     <!-- General -->
     <string name="title_fullscreen">Full screen</string>
+    <string name="title_translucent">Translucent statusbar</string>
     <string name="title_orientation">Auto rotate screen</string>
 
     <!-- Homescreen -->
@@ -75,6 +78,7 @@
     <string name="title_animations_close">App close</string>
 
     <!-- Dock -->
+    <string name="title_dock_show">Show dock</string>
     <string name="title_dock_icons_count">Icons count</string>
     
     <!-- Dock style -->
@@ -93,6 +97,7 @@
     <string name="title_allapps_solid_circle">Solid Circle</string>
     <string name="title_allapps_dots">Dots</string>
     <string name="title_allapps_inspire">Inspire</string>
+    <string name="title_allapps_sense">Sense</string>
 
     <!-- Folders -->
     <string name="title_folder_style">Icon style</string>
@@ -114,6 +119,11 @@
     <string name="title_icons_size_unified">Link homescreen and dock icons size</string>
     <string name="title_icons_folders_size">Folders size</string>
     <string name="title_inspire_colors">Inspire colors</string>
+    <string name="title_pageindicator_style">Page indicator style</string>
+
+    <!-- Page indicators -->
+    <string name="title_pageindicator_squared">Squared</string>
+    <string name="title_pageindicator_line">Line</string>
 
     <!-- Gestures -->
     <string name="title_gestures_title">Gestures</string>
@@ -156,6 +166,7 @@
     <string name="title_header_text_size">Select the text size</string>
     <string name="title_header_allapps_style">Select a style for the drawer icon</string>
     <string name="title_header_folder_style">Select a style for the folder icon</string>
+    <string name="title_header_pageindicator_style">Select a style for the page indicator</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -265,6 +276,34 @@
     <string name="interaction_cold">and it will be a very cold day!</string>
     <string name="interaction_hot">and it will be a very hot day!</string>
     <string name="interaction_no_weather">Enable GPS and fill the configurations to get weather informations</string>
+
+    <!-- Drawer Panel -->
+    <string name="title_drawer_sidepanel">Side panel</string>
+    <string name="title_add_categories">Add a category</string>
+    <string name="title_manage_apps">Manage applications</string>
+    <string name="title_delete_category">Delete category</string>
+    <string name="title_show_all_apps">All apps</string>
+    <string name="title_select_icon">Select an icon</string>
+    <string name="title_category_empty">The selected category is empty! Add some apps at first!</string>
+
+    <!-- Category icons -->
+    <string name="title_panel_games">Games</string>
+    <string name="title_panel_office">Office</string>
+    <string name="title_panel_social">Social</string>
+    <string name="title_panel_tools">Tools</string>
+
+    <!-- Overview Panel -->
+    <string name="title_overview">Overview panel</string>
+    <string name="title_show_date">Show date</string>
+    <string name="title_weekday_color">Week day color</string>
+    <string name="title_date_color">Date color</string>
+    <string name="title_monday">Monday</string>
+    <string name="title_tuesday">Tuesday</string>
+    <string name="title_wednesday">Wednesday</string>
+    <string name="title_thursday">Thursday</string>
+    <string name="title_friday">Friday</string>
+    <string name="title_saturday">Saturday</string>
+    <string name="title_sunday">Sunday</string>
 
     <!-- About -->
     <string name="about_title">About</string>
