@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="take_me_there">Take me there</string>
-    <string name="sure">Are you sure?</string>
-    <string name="configurations_reset">Do you want to reset the configurations?</string>
-    <string name="configurations_backup">Do you want to backup the configurations?</string>
-    <string name="choose_wallpaper">Choose a wallpaper</string>
-    <string name="choose_dock_bg">Choose a dock background</string>
-    <string name="choose_image">Image</string>
+    <string name="take_me_there">Llévame allí</string>
+    <string name="sure">¿Estás seguro?</string>
+    <string name="configurations_reset">¿Quieres resetear las configuraciones?</string>
+    <string name="configurations_backup">¿Quieres hacer un backup de las configuraciones?</string>
+    <string name="choose_wallpaper">Elige un fondo de pantalla</string>
+    <string name="choose_dock_bg">Elige un fondo para el dock</string>
+    <string name="choose_image">Imagen</string>
     <string name="choose_color">Color</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
-    <string name="title_prime">Inspire launcher prime</string>
+    <string name="settings_title">Ajustes de Inspire</string>
+    <string name="title_prime">Inspire Launcher prime</string>
     <string name="title_general_settings">General</string>
-    <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
+    <string name="title_homescreen_settings">Pantalla principal</string>
+    <string name="title_drawer_settings">Cajón de Aplicaciones</string>
     <string name="title_dock">Dock</string>
-    <string name="title_folder">Folders</string>
-    <string name="title_animations">Animations</string>
+    <string name="title_folder">Carpetas</string>
+    <string name="title_animations">Animaciones</string>
 
     <!-- Prime -->
-    <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
-    <string name="title_prime_feature">Prime feature</string>
-    <string name="title_prime_feature_message">This feature is available only in Inspire Launcher prime!</string>
+    <string name="title_purchase_prime">Pulsa aquí para comprar y desbloquear las características de Inspire Launcher prime features</string>
+    <string name="title_prime_feature">Características de Inspire Launcher prime</string>
+    <string name="title_prime_feature_message">¡Esta característica sólo está disponible para Inspire Launcher prime!</string>
 
     <!-- General -->
-    <string name="title_fullscreen">Full screen</string>
-    <string name="title_orientation">Auto rotate screen</string>
+    <string name="title_fullscreen">Pantalla completa</string>
+    <string name="title_orientation">Auto rotar pantalla</string>
 
     <!-- Homescreen -->
-    <string name="title_background">Background</string>
-    <string name="title_homescreen_transition_settings">Scroll Effect</string>
+    <string name="title_background">Fondo</string>
+    <string name="title_homescreen_transition_settings">Efecto de Scroll</string>
     <string name="title_homescreen_padding">Padding</string>
     <string name="title_homescreen_gridsize">Grid size</string>
     <string name="title_homescreen_page_indicator">Page indicator</string>
