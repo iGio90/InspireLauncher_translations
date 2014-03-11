@@ -16,6 +16,7 @@
     <string name="loading_icons">Fetching icons</string>
     <string name="title_warning">Warning</string>
     <string name="title_translucent_compatibility">Transparent statusbar is compatible only with Samsung or Sony stock ROM and it\'s not working at 100% on every device/rom</string>
+    <string name="loading_apps">Loading app list... please wait!</string>
 
     <!-- Settings -->
     <string name="settings_title">Inspire Settings</string>
@@ -113,6 +114,10 @@
 
     <!-- Icons and themes -->
     <string name="title_icons">Themes</string>
+    <string name="title_inspire_themer">Inspire themes</string>
+    <string name="title_stock_inspire_theme">Default theme</string>
+    <!-- <string name="title_inspire_themer_download">There isn\'t any Inspire theme in your collection. Please, get some first!</string> -->
+    <string name="title_inspire_themer_download">Coming soon...</string>
     <string name="title_icons_pack">Icons theme</string>
     <string name="title_icons_stock_icon_pack">Default icons</string>
     <string name="title_icons_size">Icons size</string>
@@ -137,6 +142,7 @@
     <string name="title_gestures_preferences">Inspire settings</string>
     <string name="title_gestures_launch_application">Launch application</string>
     <string name="title_gestures_settings">System settings</string>
+    <string name="title_gestures_expand_collapse_statusbar">Expand statusbar</string>
 
     <!-- Advanced -->
     <string name="title_advanced">Advanced</string>
@@ -155,6 +161,7 @@
     <string name="title_header_protect_apps">Check the applications you want to protect</string>
     <string name="title_header_dock_count">Choose how many icons to show in the dock</string>
     <string name="title_header_icons_pack_select">Select an icons pack</string>
+    <string name="title_header_themer_select">Select an inspire theme</string>
     <string name="title_header_icons_size">Slide the bar to increase or decrease the icons size</string>
     <string name="title_header_icons_folder_size">Slide the bar to increase or decrease the folders size</string>
     <string name="title_header_homescreen_gridsize">Setup the size of the grid with custom rows and columns</string>
@@ -218,6 +225,10 @@
     <string name="new_iconpack_notification_title">New icon pack installed</string>
     <string name="new_iconpack_notification_message">A new icon pack was detected and can be applied to the launcher</string>
     <string name="new_iconpack_notification_apply_action_title">Apply icon pack</string>
+    <string name="new_inspiretheme_notification_title">New inspire theme installed</string>
+    <string name="new_inspiretheme_notification_message">A new inspire theme was detected and can be applied to the launcher</string>
+    <string name="new_inspiretheme_notification_apply_action_title">Apply theme</string>
+
     <string name="title_rows">Rows</string>
     <string name="title_cols">Columns</string>
 
@@ -291,6 +302,7 @@
     <string name="title_panel_office">Office</string>
     <string name="title_panel_social">Social</string>
     <string name="title_panel_tools">Tools</string>
+    <string name="title_panel_media">Media</string>
 
     <!-- Overview Panel -->
     <string name="title_overview">Overview panel</string>
