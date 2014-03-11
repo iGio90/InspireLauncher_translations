@@ -16,6 +16,7 @@
     <string name="loading_icons">Carico le icone</string>
     <string name="title_warning">Attenzione</string>
     <string name="title_translucent_compatibility">La statusbar trasparente è compatibile solo con alcune ROM Samsung o Sony ed il suo funzionamento non è garantito al 100%</string>
+    <string name="loading_apps">Carico la lista delle app...</string>
 
     <!-- Settings -->
     <string name="settings_title">Inspire Settings</string>
@@ -98,7 +99,7 @@
     <string name="title_allapps_sense">Sense</string>
 
     <!-- Folders -->
-    <string name="title_folder_style">Stile icona</string>
+    <string name="title_folder_style">Stile icona cartella</string>
     <string name="title_folder_title_color">Colore titolo cartella</string>
     <string name="title_folder_items_color">Colore titolo contenuto</string>
 
@@ -110,8 +111,11 @@
 
     <!-- Icons and themes -->
     <string name="title_icons">Temi</string>
+    <string name="title_inspire_themer">Temi Inspire</string>
+    <string name="title_stock_inspire_theme">Tema di default</string>
+    <string name="title_inspire_themer_download">Non ci sono temi Inspire nella tua collezione. Perfavore, scaricane qualcuno prima!</string>
     <string name="title_icons_pack">Temi icone</string>
-    <string name="title_icons_stock_icon_pack">Default icons</string>
+    <string name="title_icons_stock_icon_pack">Icone di default</string>
     <string name="title_icons_size">Grandezza icone</string>
     <string name="title_icons_size_unified">Collega la grandezza delle icone dock e home</string>
     <string name="title_icons_folders_size">Grandezza cartella</string>
@@ -134,6 +138,7 @@
     <string name="title_gestures_preferences">Inspire settings</string>
     <string name="title_gestures_launch_application">Avvia applicazione</string>
     <string name="title_gestures_settings">Impostazioni di sistema</string>
+    <string name="title_gestures_expand_collapse_statusbar">Espandi statusbar</string>
 
     <!-- Advanced -->
     <string name="title_advanced">Avanzate</string>
@@ -152,6 +157,7 @@
     <string name="title_header_protect_apps">Seleziona le app che vuoi proteggere</string>
     <string name="title_header_dock_count">Scegli il numero di icone per la dock</string>
     <string name="title_header_icons_pack_select">Seleziona un icon pack</string>
+    <string name="title_header_themer_select">Seleziona un tema Inspire</string>
     <string name="title_header_icons_size">Trascina la barra per aumentare o diminuire la grandezza delle icone</string>
     <string name="title_header_icons_folder_size">Trascina la barra per aumentare o diminuire la grandezza delle cartelle</string>
     <string name="title_header_homescreen_gridsize">Personalizza la grandezza della griglia scegliendo il numero di righe e colonne</string>
@@ -215,6 +221,10 @@
     <string name="new_iconpack_notification_title">Nuovo icon pack installato</string>
     <string name="new_iconpack_notification_message">E\' stato rilevato un nuovo icon pack pronto per essere applicato</string>
     <string name="new_iconpack_notification_apply_action_title">Applica icon pack</string>
+    <string name="new_inspiretheme_notification_title">Nuovo tema Inspire installato</string>
+    <string name="new_inspiretheme_notification_message">Un nuovo tema Inspire è stato installato ed è pronto per essere applicato</string>
+    <string name="new_inspiretheme_notification_apply_action_title">Applica tema</string>
+
     <string name="title_rows">Righe</string>
     <string name="title_cols">Colonne</string>
 
@@ -289,7 +299,8 @@
     <string name="title_panel_office">Ufficio</string>
     <string name="title_panel_social">Social</string>
     <string name="title_panel_tools">Strumenti</string>
-
+    <string name="title_panel_media">Media</string>
+    
     <!-- Overview Panel -->
     <string name="title_overview">Overview panel</string>
     <string name="title_show_date">Mostra la data</string>
