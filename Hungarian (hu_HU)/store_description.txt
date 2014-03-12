@@ -1,43 +1,43 @@
-★★ Inspire Launcher is a brand new launcher based on the new KitKat Android Launcher with tons of features and customizations. It combines the major features of the most common Android Launchers with some goodies from iOS and Windows Phone. ★★
+★★ Az Inspire Launcher egy teljesen új Android KitKat-en alapuló kezdőalkalmazás rengeteg szolgáltatással és remek testreszabhatósággal. Egy kezdőalkalmazásban kombináltuk a legelterjedtebb droidos felületeket és kiegészítettük néhány aprósággal, amit az iOS-ből és a Windows Phone-ból merítettünk. ★★
 
-★★ This is not NOVA or APEX so don't expect to meet the same features or ask for them!! If you want features already seen in every launcher use them instead of Inspire! ★★
+★★ Ez nem NOVA vagy APEX, ne várd, hogy ugyanazokat a funkciókat kapod, ne is kérd őket! Ha valami olyan funkció kell, amit másban láttál, használd azt az Inspire helyett! ★★
 
-★★ Inspire Launcher is the most customizable launcher ever created! ★★
+★★ Az Inspire Launcher a legtestreszabhatóbb kezdőalkalmazás, amit valaha készítettek! ★★
 
-★★ Inspire community: https://plus.google.com/u/0/communities/104695304515771826360 ★★
+★★ Inspire közösség: https://plus.google.com/u/0/communities/104695304515771826360 ★★
 
-★ FEATURES ★
-* Flat UI and design
-* Homescreen customizations
-* App drawer customizations
-* Custom icons and folders size
-* Dock bar customizations
-* Background with flat colors or custom images (Also for drawer)
-* Custom opacity control
-* Ability to hide applications
-* Scroll effects and animations
-* Text colors
-* Custom single shortcut icons and rename
-* Gestures
-* Custom dock, appdrawer, icons and folder styles
-* Appdrawer sidepanel for custom appdrawer categories!
-* Genius Page inspired from iOS finder search and Google Now Launcher page!
-* System toggles and Recent applications in genius page
-* Support for Nova, ADW, Apex and all launchers icons pack and theme!
-* Ability to backup, restore and reset own configurations
-* Included flat clock widget with different styles
-* Included a fresh colored theme called inspire colors that will enable a little colorfull icon pack with a drawer and folder custom icon! 
-* Over 500 free customizations
+★ FUNKCIÓK ★
+* Flat UI és design
+* Testreszabható főoldal
+* Testreszabható alkalmazásindító
+* Egyéni ikon- és mappaméretek
+* Testreszabható dokk
+* Háttér saját képekből vagy színből (az alkalmazásindítóban is)
+* Átlátszóság szabályozása
+* Alkalmazások elrejtése
+* Görgetési effektek és animációk
+* Egyéni szövegszínek
+* Saját parancsikonok és elnevezések
+* Gesztusok
+* Egyéni stílusok a dokkhoz, az alkalmazásindítóhoz, az ikonokhoz és a mappákhoz
+* Oldalsó panel az alkalmazásindítóban alkalmazáskategóriák létrehozásához
+* Az iOS keresője és a Google Now Launcher által inspirált Genius oldal!
+* Rendszerkapcsolók és a legutóbbi alkalmazások villámgyors elérése a Genius oldallal
+* Az alkalmazás támogatja a  Nova, ADW, Apex és sok más kezdőalkalmazás ikoncsomagjait és témáit!
+* Lehetőség a saját konfigurációk biztonsági mentésére, visszaállítására és teljes törlésére
+* Tartalmaz egy flat óra widgetet több stílusban
+* Tartalmaz egy színes témát (Inspire), ami megváltoztatja az ikonokat, az alkalmazásindítót és a mappákat is! 
+* Több, mint 500 ingyenes testreszabási lehetőség!
 
 ★ PRIME ★
-* Intelligent UI aka IntelliUI: Automatic change background with great flat colors based on the hour of day
-* Good morning notification with date and weather informations!
-* Password protected applications
-* Genius Bar search through youtube, maps, play store and more!
-* Custom animations on applications launch and close
-* Custom dock background
-* Folders customization
-* Custom folder icon
-* Custom drawer launcher icon
+* Intelligens felhasználói felület - IntelliUI: Automatikusan változtatja a háttér színét a napszaknak megfelelően
+* Jó reggelt!-értesítés a dátummal és időjárási információkkal!
+* Jelszóval védhető alkalmazások
+* A Genius Oldal keresni tud a YouTube-on, a Térképben, a Play Áruházban és máshol is!
+* Egyéni animációk alkalmazás indításánál vagy bezárásánál
+* Egyéni háttér a dokkhoz
+* Testreszabható mappák
+* Egyéni mappa ikon
+* Egyéni ikon az alkalmazásindítóhoz
 
-This launcher is under heavy development and tons of new features will be added on every update!
+A kezdőalkalmazás még fejlesztés alatt áll, rendszeresen frissítjük újabb és újabb funkciókat adva hozzá!
