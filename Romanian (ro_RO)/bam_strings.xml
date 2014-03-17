@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="take_me_there">Take me there</string>
-    <string name="sure">Are you sure?</string>
-    <string name="configurations_reset">Do you want to reset the configurations?</string>
-    <string name="configurations_backup">Do you want to backup the configurations?</string>
-    <string name="choose_wallpaper">Choose a wallpaper</string>
-    <string name="choose_dock_bg">Choose a dock background</string>
-    <string name="choose_image">Image</string>
-    <string name="choose_color">Color</string>
-    <string name="edit_drop_target">Edit</string>
-    <string name="dialog_pick_iconpack_title">Select an icon pack</string>
-    <string name="dialog_pick_icon_title">Select an icon</string>
-    <string name="loading">Loading</string>
-    <string name="loading_icons">Fetching icons</string>
-    <string name="title_warning">Warning</string>
-    <string name="title_translucent_compatibility">Transparent statusbar is compatible only with Samsung or Sony stock ROM and it\'s not working at 100% on every device/rom</string>
-    <string name="loading_apps">Loading app list... please wait!</string>
+    <string name="take_me_there">Mergi acolo</string>
+    <string name="sure">Vă rugăm confirmaţi?</string>
+    <string name="configurations_reset">Doriţi resetarea configuraţiei?</string>
+    <string name="configurations_backup">Doriţi salvarea configuraţiei?</string>
+    <string name="choose_wallpaper">Alege un fundal</string>
+    <string name="choose_dock_bg">Alege un fundal pentru meniu</string>
+    <string name="choose_image">Imagine</string>
+    <string name="choose_color">Culoare</string>
+    <string name="edit_drop_target">Editeayă</string>
+    <string name="dialog_pick_iconpack_title">Alege un grup de icoane</string>
+    <string name="dialog_pick_icon_title">Alege o icoană</string>
+    <string name="loading">Se încarcă</string>
+    <string name="loading_icons">Preluăm icoanele</string>
+    <string name="title_warning">Avertizare</string>
+    <string name="title_translucent_compatibility">Bara de status transparentă este compatibilă doar cu dispozitivele Samsung sau Sony cu sistemele de operare originale și nu funcționează 100% sigur pe toate</string>
+    <string name="loading_apps">Se încarcă lista de aplicații... vă rugăm așteptați!</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
-    <string name="title_prime">Inspire launcher prime</string>
-    <string name="title_ui">User interface</string>
+    <string name="settings_title">Inspire : Setări</string>
+    <string name="title_prime">Inspire : launcher prime (premium)</string>
+    <string name="title_ui">Interfață utilizator</string>
     <string name="title_general_settings">General</string>
-    <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
-    <string name="title_dock">Dock</string>
-    <string name="title_folder">Folders</string>
-    <string name="title_animations">Animations</string>
-    <string name="title_changelog">Changelogs</string>
-    <string name="title_bug_report">BUG report</string>
+    <string name="title_homescreen_settings">Panou principal</string>
+    <string name="title_drawer_settings">Panou aplicații</string>
+    <string name="title_dock">Meniu</string>
+    <string name="title_folder">Foldere</string>
+    <string name="title_animations">Animații</string>
+    <string name="title_changelog">Modificări efectuate</string>
+    <string name="title_bug_report">Raport BUG-uri</string>
 
     <!-- Prime -->
-    <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
-    <string name="title_prime_feature">Prime feature</string>
-    <string name="title_prime_feature_message">This feature is available only in Inspire Launcher prime!</string>
+    <string name="title_purchase_prime">Apăsați aici pentru a cumpăra varianta premium</string>
+    <string name="title_prime_feature">Caracteristici premium</string>
+    <string name="title_prime_feature_message">Această caracteristică este disponibilă doar pe varianta premium!</string>
 
     <!-- General -->
-    <string name="title_fullscreen">Full screen</string>
-    <string name="title_translucent">Translucent statusbar</string>
-    <string name="title_orientation">Auto rotate screen</string>
+    <string name="title_fullscreen">Ecran complet</string>
+    <string name="title_translucent">Bară de status transparentă</string>
+    <string name="title_orientation">Rotește ecranul automat</string>
 
     <!-- Homescreen -->
-    <string name="title_background">Background</string>
-    <string name="title_homescreen_transition_settings">Scroll Effect</string>
-    <string name="title_homescreen_padding">Padding</string>
-    <string name="title_homescreen_gridsize">Grid size</string>
-    <string name="title_homescreen_page_indicator">Page indicator</string>
-    <string name="title_homescreen_bounce_loop">Infinite bounce scroll</string>
+    <string name="title_background">Fundal</string>
+    <string name="title_homescreen_transition_settings">Efecte la scroll</string>
+    <string name="title_homescreen_padding">Margine</string>
+    <string name="title_homescreen_gridsize">Dimensiune grid</string>
+    <string name="title_homescreen_page_indicator">Indicator de pagină</string>
+    <string name="title_homescreen_bounce_loop">Derulare infinită</string>
 
     <!-- Drawer -->
-    <string name="title_drawer_disable_apps">Hide applications</string>
-    <string name="title_drawer_protect_apps">Protect applications</string>
-    <string name="title_drawer_transition_settings">Scroll Effect</string>
-    <string name="title_drawer_sorting">Sort applications</string>
-    <string name="title_drawer_show_text">Hide text</string>
-    <string name="title_drawer_text_color">Text color</string>
-    <string name="title_drawer_text_size">Text size</string>
-    <string name="title_drawer_manage_password">Manage password</string>
-    <string name="title_drawer_insert_new_password">Create a new password</string>
-    <string name="title_drawer_insert_password">Insert password</string>
-    <string name="title_drawer_insert_password_wrong">Wrong password</string>
-    <string name="title_drawer_working">Working</string>
-    <string name="title_drawer_apps_disabling">Hiding application...</string>
-    <string name="title_drawer_show_allapps">Show drawer icon</string>
-    <string name="title_drawer_allapps_style">Drawer icon style</string>
+    <string name="title_drawer_disable_apps">Ascunde aplicații</string>
+    <string name="title_drawer_protect_apps">Protejează aplicații</string>
+    <string name="title_drawer_transition_settings">Efecte la scroll</string>
+    <string name="title_drawer_sorting">Sortare aplicații</string>
+    <string name="title_drawer_show_text">Ascunde text</string>
+    <string name="title_drawer_text_color">Culoare text</string>
+    <string name="title_drawer_text_size">Mărime text</string>
+    <string name="title_drawer_manage_password">Gestionează parole</string>
+    <string name="title_drawer_insert_new_password">Crează o nouă parolă</string>
+    <string name="title_drawer_insert_password">Inserați parola</string>
+    <string name="title_drawer_insert_password_wrong">Parolă greșită</string>
+    <string name="title_drawer_working">Funcționează</string>
+    <string name="title_drawer_apps_disabling">Se ascunde aplicația...</string>
+    <string name="title_drawer_show_allapps">Arată iconița pentru aplicații</string>
+    <string name="title_drawer_allapps_style">Stilul iconiței pentru aplicații</string>
 
     <!-- Text size -->
-    <string name="title_text_size_stock">Stock</string>
-    <string name="title_text_size_extra_small">Extra small</string>
-    <string name="title_text_size_small">Small</string>
-    <string name="title_text_size_medium">Medium</string>
-    <string name="title_text_size_large">Large</string>
-    <string name="title_text_size_extra_large">Extra large</string>
+    <string name="title_text_size_stock">Default</string>
+    <string name="title_text_size_extra_small">Foarte mic</string>
+    <string name="title_text_size_small">Mic</string>
+    <string name="title_text_size_medium">Mediu</string>
+    <string name="title_text_size_large">Mare</string>
+    <string name="title_text_size_extra_large">Foarte mare</string>
 
     <!-- Animations -->
-    <string name="title_animations_launch">App launch</string>
-    <string name="title_animations_close">App close</string>
+    <string name="title_animations_launch">Lansare aplicații</string>
+    <string name="title_animations_close">Închidere aplicații</string>
 
     <!-- Dock -->
-    <string name="title_dock_show">Show dock</string>
-    <string name="title_dock_icons_count">Icons count</string>
+    <string name="title_dock_show">Arată meniu</string>
+    <string name="title_dock_icons_count">Calculare icoane</string>
     
     <!-- Dock style -->
-    <string name="title_dock_transparent">Glass</string>
-    <string name="title_dock_wood">Wood</string>
-    <string name="title_dock_steel">Steel</string>
-    <string name="title_dock_black">Black</string>
+    <string name="title_dock_transparent">Sticlă</string>
+    <string name="title_dock_wood">Lemn</string>
+    <string name="title_dock_steel">Oțel</string>
+    <string name="title_dock_black">Negru</string>
     <string name="title_dock_neon">Neon</string>
-    <string name="title_dock_stone_white">White stone</string>
-    <string name="title_dock_stone_black">Black stone</string>
+    <string name="title_dock_stone_white">Piatră albă</string>
+    <string name="title_dock_stone_black">Piatră neagră</string>
 
     <!-- AllApps style -->
-    <string name="title_allapps_brick">Brick</string>
-    <string name="title_allapps_closet">Closet</string>
-    <string name="title_allapps_house">House</string>
-    <string name="title_allapps_solid_circle">Solid Circle</string>
-    <string name="title_allapps_dots">Dots</string>
+    <string name="title_allapps_brick">Cărămidă</string>
+    <string name="title_allapps_closet">Debara</string>
+    <string name="title_allapps_house">Casă</string>
+    <string name="title_allapps_solid_circle">Cerc</string>
+    <string name="title_allapps_dots">Puncte</string>
     <string name="title_allapps_inspire">Inspire</string>
     <string name="title_allapps_sense">Sense</string>
 
     <!-- Folders -->
-    <string name="title_folder_style">Icon style</string>
-    <string name="title_folder_title_color">Title text color</string>
-    <string name="title_folder_items_color">Items text color</string>
+    <string name="title_folder_style">Stil icoană</string>
+    <string name="title_folder_title_color">Culoare text titlu</string>
+    <string name="title_folder_items_color">Culoare text listă</string>
 
     <!-- Folders icon style -->
     <string name="title_folder_hologram">Hologram</string>
