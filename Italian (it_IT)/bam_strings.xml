@@ -41,6 +41,8 @@
 
     <!-- Homescreen -->
     <string name="title_background">Sfondo</string>
+    <string name="title_homescreen_thin_search_bar">Barra di ricerca sottile</string>
+    <string name="title_homescreen_auto_shortcut">Shortcut nuove applicazioni</string>
     <string name="title_homescreen_transition_settings">Effetto transizioni</string>
     <string name="title_homescreen_padding">Margine</string>
     <string name="title_homescreen_gridsize">Grandezza griglia</string>
@@ -133,12 +135,19 @@
     <string name="title_gestures_swipe_down_title">Swipe giù</string>
     <string name="title_gestures_pinch_in_title">Pinch in</string>
     <string name="title_gestures_pinch_out_title">Pinch out</string>
+    <string name="title_gestures_pinch_in_3_title">Pinch in con 3 dita</string>
+    <string name="title_gestures_pinch_out_3_title">Pinch out con 3 dita</string>
+    <string name="title_gestures_pinch_in_4_title">Pinch in con 4 dita</string>
+    <string name="title_gestures_pinch_out_4_title">Pinch out con 4 dita</string>
+    <string name="title_gestures_pinch_in_5_title">Pinch in con 5 dita</string>
+    <string name="title_gestures_pinch_out_5_title">Pinch out con 5 dita</string>
     <string name="title_gestures_no_action">Nessuna azione</string>
     <string name="title_gestures_open_drawer">Apri il drawer</string>
     <string name="title_gestures_preferences">Inspire settings</string>
     <string name="title_gestures_launch_application">Avvia applicazione</string>
     <string name="title_gestures_settings">Impostazioni di sistema</string>
     <string name="title_gestures_expand_collapse_statusbar">Espandi statusbar</string>
+    <string name="title_gestures_show_recent">Pannello applicazioni recenti</string>
 
     <!-- Advanced -->
     <string name="title_advanced">Avanzate</string>
@@ -232,6 +241,7 @@
     <string name="title_genius">Genius</string>
     <string name="title_genius_page">Genius center</string>
     <string name="title_genius_bar">Genius Bar</string>
+    <string name="title_genius_toggles">Toggles rapidi</string>
     <string name="title_genius_loading">Caricamento...</string>
     <string name="title_genius_apps">Applicazioni</string>
     <string name="title_genius_contacts">Contatti</string>
@@ -300,7 +310,7 @@
     <string name="title_panel_social">Social</string>
     <string name="title_panel_tools">Strumenti</string>
     <string name="title_panel_media">Media</string>
-    
+
     <!-- Overview Panel -->
     <string name="title_overview">Overview panel</string>
     <string name="title_show_date">Mostra la data</string>
