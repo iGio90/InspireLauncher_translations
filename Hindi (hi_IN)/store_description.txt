@@ -1,43 +1,44 @@
-★★ Inspire Launcher is a brand new launcher based on the new KitKat Android Launcher with tons of features and customizations. It combines the major features of the most common Android Launchers with some goodies from iOS and Windows Phone. ★★
+★ ★ Inspire Launcher सुविधाओं और अनुकूलन के टन के साथ नए KitKat Android के Launcher पर आधारित एक ब्रांड नई लांचर है. यह आईओएस और विंडोज फोन से कुछ उपहार के साथ सबसे आम Android के लांचरों की प्रमुख विशेषताओं को जोड़ती है. ★ ★ 
 
-★★ This is not NOVA or APEX so don't expect to meet the same features or ask for them!! If you want features already seen in every launcher use them instead of Inspire! ★★
+★ ★ इस NOVA या APEX इतना ही सुविधाओं मिलने या उनके लिए पूछने के लिए उम्मीद नहीं है नहीं है! यदि आप चाहते हैं पहले से ही हर लांचर में देखा सुविधाओं के बजाय Inspire से उन्हें इस्तेमाल! ★ ★ 
 
-★★ Inspire Launcher is the most customizable launcher ever created! ★★
+★ ★ Inspire Launcher कभी बनाया सबसे अनुकूलन लांचर है! ★ ★
+
 
 ★★ Inspire community: https://plus.google.com/u/0/communities/104695304515771826360 ★★
 
 ★ FEATURES ★
-* Flat UI and design
-* Homescreen customizations
-* App drawer customizations
-* Custom icons and folders size
-* Dock bar customizations
-* Background with flat colors or custom images (Also for drawer)
-* Custom opacity control
-* Ability to hide applications
-* Scroll effects and animations
-* Text colors
-* Custom single shortcut icons and rename
-* Gestures
-* Custom dock, appdrawer, icons and folder styles
-* Appdrawer sidepanel for custom appdrawer categories!
-* Genius Page inspired from iOS finder search and Google Now Launcher page!
-* System toggles and Recent applications in genius page
-* Support for Nova, ADW, Apex and all launchers icons pack and theme!
-* Ability to backup, restore and reset own configurations
-* Included flat clock widget with different styles
-* Included a fresh colored theme called inspire colors that will enable a little colorfull icon pack with a drawer and folder custom icon! 
-* Over 500 free customizations
+* फ्लैट यूआई और डिजाइन 
+* होमस्क्रीन अनुकूलन 
+* अनुप्रयोग दराज अनुकूलन 
+* कस्टम माउस और फ़ोल्डरों आकार 
+* गोदी बार अनुकूलन 
+* फ्लैट रंग या कस्टम छवियों के साथ पृष्ठभूमि (इसके अलावा दराज के लिए) 
+* कस्टम अस्पष्टता नियंत्रण 
+* अनुप्रयोगों को छिपाने की क्षमता 
+* स्क्रॉल प्रभाव और एनिमेशन 
+* पाठ रंग 
+* कस्टम एकल शॉर्टकट चिह्न और नाम बदलने 
+* इशारों 
+* कस्टम गोदी, appdrawer, माउस और फ़ोल्डर शैलियों 
+* कस्टम appdrawer श्रेणियों के लिए Appdrawer sidepanel! 
+* IOS खोजक खोज और गूगल अब लॉन्चर पेज से प्रेरित प्रतिभाशाली पृष्ठ! 
+* सिस्टम टॉगल और प्रतिभाशाली पेज में हाल ही में आवेदन 
+* नोवा, ADW, एपेक्स और पैक और विषय माउस के सभी लांचर के लिए समर्थन! 
+* बैकअप करने की क्षमता, बहाल करने और खुद के विन्यास रीसेट 
+विभिन्न शैलियों के साथ * शामिल फ्लैट घड़ी विजेट 
+* एक दराज के साथ एक छोटी सी colorfull आइकन पैक सक्षम और कस्टम आइकन फ़ोल्डर जाएगा कि रंग की प्रेरणा नामक एक ताजा रंग का विषय शामिल! 
+* 500 से अधिक मुक्त अनुकूलन
 
 ★ PRIME ★
-* Intelligent UI aka IntelliUI: Automatic change background with great flat colors based on the hour of day
-* Good morning notification with date and weather informations!
-* Password protected applications
-* Genius Bar search through youtube, maps, play store and more!
-* Custom animations on applications launch and close
-* Custom dock background
-* Folders customization
-* Custom folder icon
-* Custom drawer launcher icon
+* इंटेलिजेंट यूआई उर्फ IntelliUI: दिन के घंटे के आधार पर महान फ्लैट रंगों के साथ स्वत: परिवर्तन की पृष्ठभूमि 
+* तिथि और मौसम informations के साथ गुड मॉर्निंग अधिसूचना! 
+* पासवर्ड संरक्षित आवेदन पत्र 
+* यूट्यूब के माध्यम से प्रतिभाशाली बार खोज, नक्शे, खेलने की दुकान और अधिक! 
+आवेदनों पर * कस्टम एनिमेशन करीब शुरू करने और 
+* कस्टम गोदी पृष्ठभूमि 
+* फ़ोल्डर अनुकूलन 
+* कस्टम फ़ोल्डर चिह्न 
+* कस्टम दराज लांचर आइकन
 
-This launcher is under heavy development and tons of new features will be added on every update!
+इस लांचर भारी विकास किया जा रहा है और नई सुविधाओं के टन हर अद्यतन पर जोड़ दिया जाएगा!
