@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="take_me_there">Take me there</string>
-    <string name="sure">Are you sure?</string>
-    <string name="configurations_reset">Do you want to reset the configurations?</string>
-    <string name="configurations_backup">Do you want to backup the configurations?</string>
-    <string name="choose_wallpaper">Choose a wallpaper</string>
-    <string name="choose_dock_bg">Choose a dock background</string>
-    <string name="choose_image">Image</string>
-    <string name="choose_color">Color</string>
-    <string name="edit_drop_target">Edit</string>
-    <string name="dialog_pick_iconpack_title">Select an icon pack</string>
-    <string name="dialog_pick_icon_title">Select an icon</string>
+    <string name="take_me_there">मुझे वहाँ ले लो</string>
+    <string name="sure">क्या आपको यकीन है?</string>
+    <string name="configurations_reset">आप विन्यास रीसेट करना चाहते हैं?</string>
+    <string name="configurations_backup">आप बैकअप के लिए विन्यास करना चाहते हैं?</string>
+    <string name="choose_wallpaper">एक चित्र चुनें</string>
+    <string name="choose_dock_bg">एक गोदी पृष्ठभूमि चुनें</string>
+    <string name="choose_image">चित्र</string>
+    <string name="choose_color">रंग</string>
+    <string name="edit_drop_target">संपादित करें</string>
+    <string name="dialog_pick_iconpack_title">एक आइकन पैक का चयन करें</string>
+    <string name="dialog_pick_icon_title">एक आइकन का चयन करें</string>
     <string name="loading">Loading</string>
     <string name="loading_icons">Fetching icons</string>
-    <string name="title_warning">Warning</string>
-    <string name="title_translucent_compatibility">Transparent statusbar is compatible only with Samsung or Sony stock ROM and it\'s not working at 100% on every device/rom</string>
-    <string name="loading_apps">Loading app list... please wait!</string>
+    <string name="title_warning">सावधानी</string>
+    <string name="title_translucent_compatibility">पारदर्शी प्रस्थिति केवल सैमसंग या सोनी शेयर ROM के साथ संगत है और यह हर डिवाइस ROM पर 100% पर काम नहीं कर रहा </string>
+    <string name="loading_apps">App सूची लोड हो रहा है ... कृपया प्रतीक्षा करें!</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
+    <string name="settings_title">Inspire सेटिंग्स</string>
     <string name="title_prime">Inspire launcher prime</string>
-    <string name="title_ui">User interface</string>
-    <string name="title_general_settings">General</string>
-    <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
+    <string name="title_ui">उपयोगकर्ता इंटरफ़ेस</string>
+    <string name="title_general_settings">सामान्य</string>
+    <string name="title_homescreen_settings">होमस्क्रीन</string>
+    <string name="title_drawer_settings">अनुप्रयोग दराज</string>
     <string name="title_dock">Dock</string>
     <string name="title_folder">Folders</string>
     <string name="title_animations">Animations</string>
