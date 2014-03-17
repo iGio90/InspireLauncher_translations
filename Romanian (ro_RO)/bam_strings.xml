@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="take_me_there">Take me there</string>
+    <string name="sure">Are you sure?</string>
+    <string name="configurations_reset">Do you want to reset the configurations?</string>
+    <string name="configurations_backup">Do you want to backup the configurations?</string>
+    <string name="choose_wallpaper">Choose a wallpaper</string>
+    <string name="choose_dock_bg">Choose a dock background</string>
+    <string name="choose_image">Image</string>
+    <string name="choose_color">Color</string>
+    <string name="edit_drop_target">Edit</string>
+    <string name="dialog_pick_iconpack_title">Select an icon pack</string>
+    <string name="dialog_pick_icon_title">Select an icon</string>
+    <string name="loading">Loading</string>
+    <string name="loading_icons">Fetching icons</string>
+    <string name="title_warning">Warning</string>
+    <string name="title_translucent_compatibility">Transparent statusbar is compatible only with Samsung or Sony stock ROM and it\'s not working at 100% on every device/rom</string>
+    <string name="loading_apps">Loading app list... please wait!</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Inspire Settings</string>
+    <string name="title_prime">Inspire launcher prime</string>
+    <string name="title_ui">User interface</string>
+    <string name="title_general_settings">General</string>
+    <string name="title_homescreen_settings">Homescreen</string>
+    <string name="title_drawer_settings">Applications drawer</string>
+    <string name="title_dock">Dock</string>
+    <string name="title_folder">Folders</string>
+    <string name="title_animations">Animations</string>
+    <string name="title_changelog">Changelogs</string>
+    <string name="title_bug_report">BUG report</string>
+
+    <!-- Prime -->
+    <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
+    <string name="title_prime_feature">Prime feature</string>
+    <string name="title_prime_feature_message">This feature is available only in Inspire Launcher prime!</string>
+
+    <!-- General -->
+    <string name="title_fullscreen">Full screen</string>
+    <string name="title_translucent">Translucent statusbar</string>
+    <string name="title_orientation">Auto rotate screen</string>
+
+    <!-- Homescreen -->
+    <string name="title_background">Background</string>
+    <string name="title_homescreen_transition_settings">Scroll Effect</string>
+    <string name="title_homescreen_padding">Padding</string>
+    <string name="title_homescreen_gridsize">Grid size</string>
+    <string name="title_homescreen_page_indicator">Page indicator</string>
+    <string name="title_homescreen_bounce_loop">Infinite bounce scroll</string>
+
+    <!-- Drawer -->
+    <string name="title_drawer_disable_apps">Hide applications</string>
+    <string name="title_drawer_protect_apps">Protect applications</string>
+    <string name="title_drawer_transition_settings">Scroll Effect</string>
+    <string name="title_drawer_sorting">Sort applications</string>
+    <string name="title_drawer_show_text">Hide text</string>
+    <string name="title_drawer_text_color">Text color</string>
+    <string name="title_drawer_text_size">Text size</string>
+    <string name="title_drawer_manage_password">Manage password</string>
+    <string name="title_drawer_insert_new_password">Create a new password</string>
+    <string name="title_drawer_insert_password">Insert password</string>
+    <string name="title_drawer_insert_password_wrong">Wrong password</string>
+    <string name="title_drawer_working">Working</string>
+    <string name="title_drawer_apps_disabling">Hiding application...</string>
+    <string name="title_drawer_show_allapps">Show drawer icon</string>
+    <string name="title_drawer_allapps_style">Drawer icon style</string>
+
+    <!-- Text size -->
+    <string name="title_text_size_stock">Stock</string>
+    <string name="title_text_size_extra_small">Extra small</string>
+    <string name="title_text_size_small">Small</string>
+    <string name="title_text_size_medium">Medium</string>
+    <string name="title_text_size_large">Large</string>
+    <string name="title_text_size_extra_large">Extra large</string>
+
+    <!-- Animations -->
+    <string name="title_animations_launch">App launch</string>
+    <string name="title_animations_close">App close</string>
+
+    <!-- Dock -->
+    <string name="title_dock_show">Show dock</string>
+    <string name="title_dock_icons_count">Icons count</string>
+    
+    <!-- Dock style -->
+    <string name="title_dock_transparent">Glass</string>
+    <string name="title_dock_wood">Wood</string>
+    <string name="title_dock_steel">Steel</string>
+    <string name="title_dock_black">Black</string>
+    <string name="title_dock_neon">Neon</string>
+    <string name="title_dock_stone_white">White stone</string>
+    <string name="title_dock_stone_black">Black stone</string>
+
+    <!-- AllApps style -->
+    <string name="title_allapps_brick">Brick</string>
+    <string name="title_allapps_closet">Closet</string>
+    <string name="title_allapps_house">House</string>
+    <string name="title_allapps_solid_circle">Solid Circle</string>
+    <string name="title_allapps_dots">Dots</string>
+    <string name="title_allapps_inspire">Inspire</string>
+    <string name="title_allapps_sense">Sense</string>
+
+    <!-- Folders -->
+    <string name="title_folder_style">Icon style</string>
+    <string name="title_folder_title_color">Title text color</string>
+    <string name="title_folder_items_color">Items text color</string>
+
+    <!-- Folders icon style -->
+    <string name="title_folder_hologram">Hologram</string>
+    <string name="title_folder_circle_black">Circle black</string>
+    <string name="title_folder_ring">Ring</string>
+    <string name="title_folder_inspire">Inspire</string>
+    <string name="title_folder_none">None</string>
+
+    <!-- Icons and themes -->
+    <string name="title_icons">Themes</string>
+    <string name="title_inspire_themer">Inspire themes</string>
+    <string name="title_stock_inspire_theme">Default theme</string>
+    <!-- <string name="title_inspire_themer_download">There isn\'t any Inspire theme in your collection. Please, get some first!</string> -->
+    <string name="title_inspire_themer_download">Coming soon...</string>
+    <string name="title_icons_pack">Icons theme</string>
+    <string name="title_icons_stock_icon_pack">Default icons</string>
+    <string name="title_icons_size">Icons size</string>
+    <string name="title_icons_size_unified">Link homescreen and dock icons size</string>
+    <string name="title_icons_folders_size">Folders size</string>
+    <string name="title_inspire_colors">Inspire colors</string>
+    <string name="title_pageindicator_style">Page indicator style</string>
+
+    <!-- Page indicators -->
+    <string name="title_pageindicator_squared">Squared</string>
+    <string name="title_pageindicator_line">Line</string>
+
+    <!-- Gestures -->
+    <string name="title_gestures_title">Gestures</string>
+    <string name="title_gestures_double_tap_title">Double tap</string>
+    <string name="title_gestures_swipe_up_title">Swipe up</string>
+    <string name="title_gestures_swipe_down_title">Swipe down</string>
+    <string name="title_gestures_pinch_in_title">Pinch in</string>
+    <string name="title_gestures_pinch_out_title">Pinch out</string>
+    <string name="title_gestures_no_action">No action</string>
+    <string name="title_gestures_open_drawer">Open drawer</string>
+    <string name="title_gestures_preferences">Inspire settings</string>
+    <string name="title_gestures_launch_application">Launch application</string>
+    <string name="title_gestures_settings">System settings</string>
+    <string name="title_gestures_expand_collapse_statusbar">Expand statusbar</string>
+
+    <!-- Advanced -->
+    <string name="title_advanced">Advanced</string>
+    <string name="title_advanced_default_launcher">Default launcher</string>
+    <string name="title_advanced_reset">Reset configurations</string>
+    <string name="title_advanced_backup">Backup configurations</string>
+    <string name="title_advanced_restore">Restore configurations</string>
+
+    <!-- Headers -->
+    <string name="title_header_transition">Select a scroll effect</string>
+    <string name="title_header_sorting">Choose a sorting method</string>
+    <string name="title_header_padding">Slide the bars to increase or decrease the homescreen padding</string>
+    <string name="title_header_vertical_padding">Vertical padding</string>
+    <string name="title_header_horizontal_padding">Horizontal padding</string>
+    <string name="title_header_disable_apps">Check the applications you want to hide</string>
+    <string name="title_header_protect_apps">Check the applications you want to protect</string>
+    <string name="title_header_dock_count">Choose how many icons to show in the dock</string>
+    <string name="title_header_icons_pack_select">Select an icons pack</string>
+    <string name="title_header_themer_select">Select an inspire theme</string>
+    <string name="title_header_icons_size">Slide the bar to increase or decrease the icons size</string>
+    <string name="title_header_icons_folder_size">Slide the bar to increase or decrease the folders size</string>
+    <string name="title_header_homescreen_gridsize">Setup the size of the grid with custom rows and columns</string>
+    <string name="title_header_homescreen_gridsize_linked">Setup the size of the grid with custom rows and columns. The minimum number of columns is linked with the dock items count!</string>
+    <string name="title_header_intelliui_configure">Configure intelliUI</string>
+    <string name="title_header_animations">Select an animation</string>
+    <string name="title_header_gestures">Select a gesture</string>
+    <string name="title_header_app">Select an application</string>
+    <string name="title_header_text_size">Select the text size</string>
+    <string name="title_header_allapps_style">Select a style for the drawer icon</string>
+    <string name="title_header_folder_style">Select a style for the folder icon</string>
+    <string name="title_header_pageindicator_style">Select a style for the page indicator</string>
+
+    <!-- Colors DO-NOT TRANSLATE -->
+    <string name="select_color">Select a color</string>
+    <string name="select_image">Select an image</string>
+    <string name="opacity">Slide the bar to set the opacity</string>
+    <string name="color_white_pearl">Pearl white</string>
+    <string name="color_alizarin">Alizarin</string>
+    <string name="color_pomegranate">Pomegranate</string>
+    <string name="color_turquoise">Turquoise</string>
+    <string name="color_green_sea">Green sea</string>
+    <string name="color_emerald">Emerald</string>
+    <string name="color_nephritis">Nephritis</string>
+    <string name="color_peter_river">Peter river</string>
+    <string name="color_belize_hole">Belize hole</string>
+    <string name="color_amethyst">Amethyst</string>
+    <string name="color_wisteria">Wisteria</string>
+    <string name="color_wet_asphalt">Wet asphalt</string>
+    <string name="color_midnight_blue">Midnight blue</string>
+    <string name="color_carrot">Carrot</string>
+    <string name="color_pumpkin">Pumpkin</string>
+    <string name="color_sunglo">Sunglo</string>
+    <string name="color_monza">Monza</string>
+    <string name="color_old_brick">Old brick</string>
+    <string name="color_green_haze">Green haze</string>
+    <string name="color_acquamarine">Acquamarine</string>
+    <string name="color_new_york_pink">New York pink</string>
+    <string name="color_plum">Plum</string>
+    <string name="color_ebony_clay">Ebony clay</string>
+    <string name="color_jackson_purple">Jackson purple</string>
+    <string name="color_steelblue">Steelblue</string>
+    <string name="color_chambray">Chambray</string>
+    <string name="color_saffron">Saffron</string>
+    <string name="color_casablanca">Casablanca</string>
+    <string name="color_cascade">Cascade</string>
+    <string name="color_midnight_black">Midnight black</string>
+    <string name="color_transparency">Transparency</string>
+    <string name="color_opacity">Opacity</string>
+
+    <!-- Animations -->
+    <string name="animations_none">None</string>
+    <string name="animations_fade">Fade</string>
+    <string name="animations_push_down">Push down</string>
+    <string name="animations_push_left">Push left</string>
+    <string name="animations_push_right">Push right</string>
+    <string name="animations_push_up">Push up</string>
+
+    <string name="title_empty"></string>
+
+    <string name="new_iconpack_notification_title">New icon pack installed</string>
+    <string name="new_iconpack_notification_message">A new icon pack was detected and can be applied to the launcher</string>
+    <string name="new_iconpack_notification_apply_action_title">Apply icon pack</string>
+    <string name="new_inspiretheme_notification_title">New inspire theme installed</string>
+    <string name="new_inspiretheme_notification_message">A new inspire theme was detected and can be applied to the launcher</string>
+    <string name="new_inspiretheme_notification_apply_action_title">Apply theme</string>
+
+    <string name="title_rows">Rows</string>
+    <string name="title_cols">Columns</string>
+
+    <!-- Genius Center -->
+    <string name="title_genius">Genius</string>
+    <string name="title_genius_page">Genius center</string>
+    <string name="title_genius_bar">Genius Bar</string>
+    <string name="title_genius_loading">Loading...</string>
+    <string name="title_genius_apps">Applications</string>
+    <string name="title_genius_contacts">Contacts</string>
+    <string name="title_genius_music">Music</string>
+    <string name="title_genius_maps">Maps</string>
+    <string name="title_genius_youtube">YouTube</string>
+    <string name="title_genius_store">Play Store</string>
+    <string name="title_genius_websearch">Search on Google</string>
+    <string name="title_genius_maps_search">Search on Maps</string>
+    <string name="title_genius_youtube_search">Search on Youtube</string>
+    <string name="title_genius_store_search">Search on Play Store</string>
+    <string name="title_genius_recent">Recent apps</string>
+    <string name="title_genius_no_recent">No recent apps</string>
+
+    <string name="settings_cling_usage">Tap the menu button or swipe on the right to access settings categories</string>
+    <string name="geniusbar_cling_usage">Quickly search for applications or contacts in your device, a video on youtube, an address, an application in the store and much more!</string>
+    <string name="intelliui_background_cling">IntelliUI will change your background with different flat colors based on the phases of the day</string>
+    <string name="intelliui_goodmorning_cling">IntelliUI will send you a goodmorning notification with some informations customizable in the configuration</string>
+
+    <!-- IntelliUI -->
+    <string name="intelliui_title">IntelliUI</string>
+    <string name="intelliui_configure">Configure</string>
+    <string name="intelliui_configure_msg">Good morning require configurations!</string>
+    <string name="intelliui_name">How should i call you?</string>
+    <string name="intelliui_name_hint">Enter your name</string>
+    <string name="intelliui_age">When were you born?</string>
+    <string name="intelliui_month_hint">MM</string>
+    <string name="intelliui_day_hint">DD</string>
+    <string name="intelliui_year_hint">YYYY</string>
+    <string name="intelliui_weather_info">How should i fetch weather informations?</string>
+    <string name="intelliui_weather_use_gps">Use gps when possible</string>
+    <string name="intelliui_weather_use_fahrenheit">Fahrenheit</string>
+    <string name="intelliui_custom_location_hint">\'London, UK\'</string>
+    <string name="intelliui_background">Auto background</string>
+    <string name="intelliui_goodmorning">Good morning!</string>
+    <string name="intelliui_goodmorning_time_picker">When would you like to get the good morning?</string>
+
+    <!-- IntelliUI Interactions -->
+    <string name="interactions_goodmorning">Good morning</string>
+    <string name="interactions_today">Today is</string>
+    <string name="interaction_temperature">The outside temperature is</string>
+    <string name="interaction_sunny">and it will be a sunny day!</string>
+    <string name="interaction_cloudy">and it will be a cloudy day!</string>
+    <string name="interaction_rain">and it will be a rainy day!</string>
+    <string name="interaction_snow">and it will be a snowy day!</string>
+    <string name="interaction_wind">and it will be a windy day!</string>
+    <string name="interaction_storm">and it will be a strong thunderstorm</string>
+    <string name="interaction_foggy">and it will be a foggy day!</string>
+    <string name="interaction_cold">and it will be a very cold day!</string>
+    <string name="interaction_hot">and it will be a very hot day!</string>
+    <string name="interaction_no_weather">Enable GPS and fill the configurations to get weather informations</string>
+
+    <!-- Drawer Panel -->
+    <string name="title_drawer_sidepanel">Side panel</string>
+    <string name="title_add_categories">Add a category</string>
+    <string name="title_manage_apps">Manage applications</string>
+    <string name="title_delete_category">Delete category</string>
+    <string name="title_show_all_apps">All apps</string>
+    <string name="title_select_icon">Select an icon</string>
+    <string name="title_category_empty">The selected category is empty! Add some apps at first!</string>
+
+    <!-- Category icons -->
+    <string name="title_panel_games">Games</string>
+    <string name="title_panel_office">Office</string>
+    <string name="title_panel_social">Social</string>
+    <string name="title_panel_tools">Tools</string>
+    <string name="title_panel_media">Media</string>
+
+    <!-- Overview Panel -->
+    <string name="title_overview">Overview panel</string>
+    <string name="title_show_date">Show date</string>
+    <string name="title_weekday_color">Week day color</string>
+    <string name="title_date_color">Date color</string>
+    <string name="title_monday">Monday</string>
+    <string name="title_tuesday">Tuesday</string>
+    <string name="title_wednesday">Wednesday</string>
+    <string name="title_thursday">Thursday</string>
+    <string name="title_friday">Friday</string>
+    <string name="title_saturday">Saturday</string>
+    <string name="title_sunday">Sunday</string>
+
+    <!-- About -->
+    <string name="about_title">About</string>
+    <string name="title_developed">Developed by iGio90</string>
+    <string name="title_graphics">Graphics by Bliss91</string>
+    <string name="title_plus_communtiy">Google+ community</string>
+    <string name="title_git_translations">Translations</string>
+</resources>
