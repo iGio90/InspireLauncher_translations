@@ -106,48 +106,48 @@
     <string name="title_folder_items_color">Culoare text listă</string>
 
     <!-- Folders icon style -->
-    <string name="title_folder_hologram">Hologram</string>
-    <string name="title_folder_circle_black">Circle black</string>
-    <string name="title_folder_ring">Ring</string>
+    <string name="title_folder_hologram">Hologramă</string>
+    <string name="title_folder_circle_black">Cerc negru</string>
+    <string name="title_folder_ring">Inel</string>
     <string name="title_folder_inspire">Inspire</string>
-    <string name="title_folder_none">None</string>
+    <string name="title_folder_none">Nimic</string>
 
     <!-- Icons and themes -->
-    <string name="title_icons">Themes</string>
-    <string name="title_inspire_themer">Inspire themes</string>
-    <string name="title_stock_inspire_theme">Default theme</string>
+    <string name="title_icons">Teme</string>
+    <string name="title_inspire_themer">Tema Inspire</string>
+    <string name="title_stock_inspire_theme">Tema default</string>
     <!-- <string name="title_inspire_themer_download">There isn\'t any Inspire theme in your collection. Please, get some first!</string> -->
-    <string name="title_inspire_themer_download">Coming soon...</string>
-    <string name="title_icons_pack">Icons theme</string>
-    <string name="title_icons_stock_icon_pack">Default icons</string>
-    <string name="title_icons_size">Icons size</string>
-    <string name="title_icons_size_unified">Link homescreen and dock icons size</string>
-    <string name="title_icons_folders_size">Folders size</string>
-    <string name="title_inspire_colors">Inspire colors</string>
-    <string name="title_pageindicator_style">Page indicator style</string>
+    <string name="title_inspire_themer_download">În curând...</string>
+    <string name="title_icons_pack">Teme icoane</string>
+    <string name="title_icons_stock_icon_pack">Icoane default</string>
+    <string name="title_icons_size">Mărime icoane</string>
+    <string name="title_icons_size_unified">Legătură între mărimea icoanelor</string>
+    <string name="title_icons_folders_size">Mărime foldere</string>
+    <string name="title_inspire_colors">Culori Inspire</string>
+    <string name="title_pageindicator_style">Stil pentru paginator</string>
 
     <!-- Page indicators -->
-    <string name="title_pageindicator_squared">Squared</string>
-    <string name="title_pageindicator_line">Line</string>
+    <string name="title_pageindicator_squared">Pătrat</string>
+    <string name="title_pageindicator_line">Linie</string>
 
     <!-- Gestures -->
-    <string name="title_gestures_title">Gestures</string>
-    <string name="title_gestures_double_tap_title">Double tap</string>
-    <string name="title_gestures_swipe_up_title">Swipe up</string>
-    <string name="title_gestures_swipe_down_title">Swipe down</string>
-    <string name="title_gestures_pinch_in_title">Pinch in</string>
-    <string name="title_gestures_pinch_out_title">Pinch out</string>
-    <string name="title_gestures_no_action">No action</string>
-    <string name="title_gestures_open_drawer">Open drawer</string>
-    <string name="title_gestures_preferences">Inspire settings</string>
-    <string name="title_gestures_launch_application">Launch application</string>
-    <string name="title_gestures_settings">System settings</string>
-    <string name="title_gestures_expand_collapse_statusbar">Expand statusbar</string>
+    <string name="title_gestures_title">Gesturi</string>
+    <string name="title_gestures_double_tap_title">Dublu click</string>
+    <string name="title_gestures_swipe_up_title">În sus</string>
+    <string name="title_gestures_swipe_down_title">În jos</string>
+    <string name="title_gestures_pinch_in_title">Zoom interior</string>
+    <string name="title_gestures_pinch_out_title">Zoom exterior</string>
+    <string name="title_gestures_no_action">Nici o acțiune</string>
+    <string name="title_gestures_open_drawer">Deschide listă aplicații</string>
+    <string name="title_gestures_preferences">Setări Inspire</string>
+    <string name="title_gestures_launch_application">Deschide aplicația</string>
+    <string name="title_gestures_settings">Setări de sistem</string>
+    <string name="title_gestures_expand_collapse_statusbar">Afișare bară de status</string>
 
     <!-- Advanced -->
-    <string name="title_advanced">Advanced</string>
-    <string name="title_advanced_default_launcher">Default launcher</string>
-    <string name="title_advanced_reset">Reset configurations</string>
+    <string name="title_advanced">Avansat</string>
+    <string name="title_advanced_default_launcher">Lansator default</string>
+    <string name="title_advanced_reset">Resetează configurația</string>
     <string name="title_advanced_backup">Backup configurations</string>
     <string name="title_advanced_restore">Restore configurations</string>
 
