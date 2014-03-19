@@ -17,6 +17,8 @@
     <string name="title_warning">Attenzione</string>
     <string name="title_translucent_compatibility">La statusbar trasparente è compatibile solo con alcune ROM Samsung o Sony ed il suo funzionamento non è garantito al 100%</string>
     <string name="loading_apps">Carico la lista delle app...</string>
+    <string name="title_play_store">Play Store</string>
+    <string name="title_hint_appsearch">Ricerca applicazioni</string>
 
     <!-- Settings -->
     <string name="settings_title">Inspire Settings</string>
@@ -50,6 +52,7 @@
     <string name="title_homescreen_bounce_loop">Scroll continuo a rimbalzo</string>
 
     <!-- Drawer -->
+    <string name="title_drawer_save_page">Salva ultima pagina</string>
     <string name="title_drawer_disable_apps">Nascondi applicazioni</string>
     <string name="title_drawer_protect_apps">Proteggi applicazioni</string>
     <string name="title_drawer_transition_settings">Effetto transizioni</string>
@@ -123,6 +126,7 @@
     <string name="title_icons_folders_size">Grandezza cartella</string>
     <string name="title_inspire_colors">Inspire colors</string>
     <string name="title_pageindicator_style">Stile indicatore pagina</string>
+    <string name="title_genius_toggles_style">Stile Genius toggles</string>
 
     <!-- Page indicators -->
     <string name="title_pageindicator_squared">Squadrato</string>
@@ -148,6 +152,7 @@
     <string name="title_gestures_settings">Impostazioni di sistema</string>
     <string name="title_gestures_expand_collapse_statusbar">Espandi statusbar</string>
     <string name="title_gestures_show_recent">Pannello applicazioni recenti</string>
+    <string name="title_gestures_overview_panel">Pannello overview</string>
 
     <!-- Advanced -->
     <string name="title_advanced">Avanzate</string>
@@ -179,6 +184,7 @@
     <string name="title_header_allapps_style">Seleziona uno stile per l\'icona del drawer</string>
     <string name="title_header_folder_style">Seleziona uno stile per l\'icona delle cartelle</string>
     <string name="title_header_pageindicator_style">Seleziona uno stile per l\'indicatore di pagina</string>
+    <string name="title_header_geniustoggles_style">Seleziona uno stile per i Genius toggles</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -240,7 +246,9 @@
     <!-- Genius Center -->
     <string name="title_genius">Genius</string>
     <string name="title_genius_page">Genius center</string>
+    <string name="title_genius_google_now">Google now</string>
     <string name="title_genius_bar">Genius Bar</string>
+    <string name="title_genius_keyboard">Mostra tasiera</string>
     <string name="title_genius_toggles">Toggles rapidi</string>
     <string name="title_genius_loading">Caricamento...</string>
     <string name="title_genius_apps">Applicazioni</string>
@@ -261,6 +269,10 @@
     <string name="geniusbar_cling_usage">Ricerca rapida per Applicazioni installate o Contatti, video su YouTube, indirizzo su Google Maps o App sullo Store e molto altro!</string>
     <string name="intelliui_background_cling">IntelliUI cambierà il tuo sfondo con diversi colori flat in base alla fase della giornata</string>
     <string name="intelliui_goodmorning_cling">IntelliUI ti iniverà un Buon Giorno con alcune info personalizzabili nelle configurazioni</string>
+
+    <!-- Genius toggles style -->
+    <string name="title_genius_toggles_default">Default</string>
+    <string name="title_genius_toggles_clean">Clean</string>
 
     <!-- IntelliUI -->
     <string name="intelliui_title">IntelliUI</string>
@@ -326,6 +338,7 @@
 
     <!-- About -->
     <string name="about_title">About</string>
+    <string name="title_inspire_wallpapers">Wallpapers Inspire</string>
     <string name="title_developed">Sviluppato da iGio90</string>
     <string name="title_graphics">Design di Bliss91</string>
     <string name="title_plus_communtiy">Google+ community</string>
