@@ -140,7 +140,7 @@
     <string name="title_gestures_pinch_in_3_title">Háromujjas összehúzás</string>
     <string name="title_gestures_pinch_out_3_title">Háromujjas széthúzás</string>
     <string name="title_gestures_pinch_in_4_title">Négyujjas összehúzás</string>
-    <string name="title_gestures_pinch_out_4_title">Négyujjas széthúzás</string></string>
+    <string name="title_gestures_pinch_out_4_title">Négyujjas széthúzás</string>
     <string name="title_gestures_pinch_in_5_title">Ötujjas összehúzás</string>
     <string name="title_gestures_pinch_out_5_title">Ötujjas széthúzás</string>
     <string name="title_gestures_no_action">Nincs művelet</string>
