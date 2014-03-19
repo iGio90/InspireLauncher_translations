@@ -43,6 +43,8 @@
 
     <!-- Homescreen -->
     <string name="title_background">Háttér</string>
+    <string name="title_homescreen_thin_search_bar">Vékonyabb keresősáv</string>
+    <string name="title_homescreen_auto_shortcut">Új alkalmazás parancsikonja</string>
     <string name="title_homescreen_transition_settings">Görgetés animációja</string>
     <string name="title_homescreen_padding">Kitöltés</string>
     <string name="title_homescreen_gridsize">Rácsméret</string>
@@ -115,9 +117,7 @@
     <!-- Icons and themes -->
     <string name="title_icons">Témák</string>
     <string name="title_inspire_themer">Inspire témák</string>
-    <string name="title_stock_inspire_theme">Alapértelmezett téma</string>
-    <!-- <string name="title_inspire_themer_download">Még egy Inspire téma sincs a gyűjteményedben. Válassz egyet kezdésnek!</string> -->
-    <string name="title_inspire_themer_download">Hamarosan...</string>
+    <string name="title_inspire_themer_download">Nincs egy Inspire téma sem a gyűjteményedben. Először tölts le néhányat!</string>
     <string name="title_icons_pack">Ikontémák</string>
     <string name="title_icons_stock_icon_pack">Alapértelmezett ikonok</string>
     <string name="title_icons_size">Ikonok mérete</string>
@@ -137,12 +137,19 @@
     <string name="title_gestures_swipe_down_title">Simítás lefelé</string>
     <string name="title_gestures_pinch_in_title">Összehúzás</string>
     <string name="title_gestures_pinch_out_title">Széthúzás</string>
+    <string name="title_gestures_pinch_in_3_title">Háromujjas összehúzás</string>
+    <string name="title_gestures_pinch_out_3_title">Háromujjas széthúzás</string>
+    <string name="title_gestures_pinch_in_4_title">Négyujjas összehúzás</string>
+    <string name="title_gestures_pinch_out_4_title">Négyujjas széthúzás</string></string>
+    <string name="title_gestures_pinch_in_5_title">Ötujjas összehúzás</string>
+    <string name="title_gestures_pinch_out_5_title">Ötujjas széthúzás</string>
     <string name="title_gestures_no_action">Nincs művelet</string>
     <string name="title_gestures_open_drawer">Alkalmazásindító megnyitása</string>
     <string name="title_gestures_preferences">Inspire beállítások</string>
     <string name="title_gestures_launch_application">Alkalmazás indítása</string>
     <string name="title_gestures_settings">Rendszerbeállítások</string>
     <string name="title_gestures_expand_collapse_statusbar">Értesítése sáv kinyitása</string>
+    <string name="title_gestures_show_recent">Legutóbbi alkalmazások panel</string>
 
     <!-- Advanced -->
     <string name="title_advanced">Haladó</string>
@@ -236,6 +243,7 @@
     <string name="title_genius">Genius</string>
     <string name="title_genius_page">Genius központ</string>
     <string name="title_genius_bar">Genius Bar</string>
+    <string name="title_genius_toggles">Gyorsbeállítások</string>
     <string name="title_genius_loading">Töltés...</string>
     <string name="title_genius_apps">Alkalmazások</string>
     <string name="title_genius_contacts">Kapcsolatok</string>
