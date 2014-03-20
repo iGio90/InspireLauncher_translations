@@ -108,7 +108,7 @@
     <string name="title_folder_items_color">لون بنود النص</string>
 
     <!-- Folders icon style -->
-    <string name="title_folder_hologram"هولوجرام</string>
+    <string name="title_folder_hologram">هولوجرام</string>
     <string name="title_folder_circle_black">دائرة سوداء</string>
     <string name="title_folder_ring">حلقة</string>
     <string name="title_folder_inspire">Inspire</string>
