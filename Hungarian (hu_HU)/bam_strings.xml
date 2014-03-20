@@ -17,6 +17,8 @@
     <string name="title_warning">Figyelmeztetés</string>
     <string name="title_translucent_compatibility">Az átlátszó értesítési sáv csak Samsung és Sony gyári ROM-okkal kompatibilis, más eszközökön és ROM-okon nem biztos, hogy megfelelően fog működni</string>
     <string name="loading_apps">Alkalmazáslista betöltése... várj egy kicsit!</string>
+    <string name="title_play_store">Play Áruház</string>
+    <string name="title_hint_appsearch">Alkalmazások keresése</string>
 
     <!-- Settings -->
     <string name="settings_title">Inspire Beállítások</string>
@@ -52,6 +54,7 @@
     <string name="title_homescreen_bounce_loop">Végtelen görgetés</string>
 
     <!-- Drawer -->
+    <string name="title_drawer_save_page">Legutóbbi oldal megjegyzése</string>
     <string name="title_drawer_disable_apps">Alkalmazások elrejtése</string>
     <string name="title_drawer_protect_apps">Alkalmazások védelme</string>
     <string name="title_drawer_transition_settings">Görgetés animációja</string>
@@ -103,7 +106,7 @@
     <string name="title_allapps_sense">Sense</string>
 
     <!-- Folders -->
-    <string name="title_folder_style">Ikon stílusa</string>
+    <string name="title_folder_style">Mappaikon stílusa</string>
     <string name="title_folder_title_color">Mappanév szövegének színe</string>
     <string name="title_folder_items_color">Elemek szövegének színe</string>
 
@@ -117,6 +120,7 @@
     <!-- Icons and themes -->
     <string name="title_icons">Témák</string>
     <string name="title_inspire_themer">Inspire témák</string>
+    <string name="title_stock_inspire_theme">Alapértelmezett téma</string>
     <string name="title_inspire_themer_download">Nincs egy Inspire téma sem a gyűjteményedben. Először tölts le néhányat!</string>
     <string name="title_icons_pack">Ikontémák</string>
     <string name="title_icons_stock_icon_pack">Alapértelmezett ikonok</string>
@@ -125,6 +129,7 @@
     <string name="title_icons_folders_size">Mappák mérete</string>
     <string name="title_inspire_colors">Inspire színek</string>
     <string name="title_pageindicator_style">Oldaljelző stílusa</string>
+    <string name="title_genius_toggles_style">Genius gyorskapcsolók stílusa</string>
 
     <!-- Page indicators -->
     <string name="title_pageindicator_squared">Kockák</string>
@@ -150,6 +155,7 @@
     <string name="title_gestures_settings">Rendszerbeállítások</string>
     <string name="title_gestures_expand_collapse_statusbar">Értesítése sáv kinyitása</string>
     <string name="title_gestures_show_recent">Legutóbbi alkalmazások panel</string>
+    <string name="title_gestures_overview_panel">Áttekintő panel</string>
 
     <!-- Advanced -->
     <string name="title_advanced">Haladó</string>
@@ -181,6 +187,7 @@
     <string name="title_header_allapps_style">Válaszd ki az alkalmazásindító ikonjának stílusát</string>
     <string name="title_header_folder_style">Válaszd ki a mappaikon stílusát</string>
     <string name="title_header_pageindicator_style">Válaszd ki az oldaljelző stílusát</string>
+    <string name="title_header_geniustoggles_style">Válaszd ki a Genius gyorskapcsolóinak stílusát</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -242,7 +249,9 @@
     <!-- Genius Center -->
     <string name="title_genius">Genius</string>
     <string name="title_genius_page">Genius központ</string>
+    <string name="title_genius_google_now">Google Now</string>
     <string name="title_genius_bar">Genius Bar</string>
+    <string name="title_genius_keyboard">Billentyűzet megjelenítése</string>
     <string name="title_genius_toggles">Gyorsbeállítások</string>
     <string name="title_genius_loading">Töltés...</string>
     <string name="title_genius_apps">Alkalmazások</string>
@@ -263,6 +272,10 @@
     <string name="intelliui_background_cling">IntelliUI automatikusan változtatni fogja a háttérképedet a napszaknak megfelelően</string>
     <string name="intelliui_goodmorning_cling">IntelliUI küldeni fog neked egy Jó reggelt!-értesítést, tele a beállításokban testreszabható nformációkkal</string>
 
+    <!-- Genius toggles style -->
+    <string name="title_genius_toggles_default">Alapértelmezett</string>
+    <string name="title_genius_toggles_clear">Letisztult</string>
+    
     <!-- IntelliUI -->
     <string name="intelliui_title">IntelliUI</string>
     <string name="intelliui_configure">Beállítás</string>
@@ -327,8 +340,31 @@
 
     <!-- About -->
     <string name="about_title">Infó</string>
+    <string name="title_inspire_wallpapers">Inspire háttérképek</string>
     <string name="title_developed">Fejlesztette iGio90</string>
     <string name="title_graphics">A grafikát készítette Bliss91</string>
     <string name="title_plus_communtiy">Google+ közösség</string>
     <string name="title_git_translations">Fordítások</string>
+    
+    <!-- Missing code -->
+    <string name="application_copyright">Copyright © 2014 CyanogenMod Projekt</string>
+    <string name="default_iconpack_title">Alapértelmezett ikonok</string>
+    <string name="filter_button_text">Szűrő</string>
+    <string name="icon_packs_title">Ikonszettek</string>
+    <string name="no_iconpacks_summary">Az ikonszett nincs telepítve</string>
+    <string name="preferences_application_title">Alkalmazás</string>
+    <string name="preferences_interface_dock_title">Dokk panel</string>
+    <string name="preferences_interface_drawer_title">Alkalmazások menü</string>
+    <string name="preferences_interface_general_icons_category">Ikon</string>
+    <string name="preferences_interface_general_icons_large_summary">Nagyméretű ikonok használata a főképernyőn és az alkalmazások menüben</string>
+    <string name="preferences_interface_general_icons_large_title">Nagyméretű ikon</string>
+    <string name="preferences_interface_general_icons_text_style_summary">Betűtípus választása az aláírásokhoz</string>
+    <string name="preferences_interface_general_icons_text_style_title">Betűtípus</string>
+    <string name="preferences_interface_general_title">Általános</string>
+    <string name="preferences_interface_homescreen_search_summary">Keresősáv megjelenítése a képernyő tetején</string>
+    <string name="preferences_interface_homescreen_title">Főoldal</string>
+    <string name="preferences_title">Beállítások</string>
+    <string name="transition_effect_button_text">Oldalváltás effektusai</string>
+    <string name="title_genius_hint">Nézz utána valaminek...</string>
+    <string name="title_genius_kill_all">Összes bezárása</string>
 </resources>
