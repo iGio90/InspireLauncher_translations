@@ -153,7 +153,7 @@
     <string name="title_folder_items_color">Цвет текста названия приложения в папке</string>
     <string name="title_folder_none">Нет</string>
     <string name="title_folder_ring">Кольцо</string>
-    <string name="title_folder_style">Стиль иконки</string>
+    <string name="title_folder_style">Стиль иконки Папки</string>
     <string name="title_folder_title_color">Цвет текста названия папки</string>
     <string name="title_friday">Пятница</string>
     <string name="title_fullscreen">Полный экран</string>
@@ -279,4 +279,17 @@
     <string name="application_copyright">© Проект Inspire, 2014</string>
     <string name="title_genius_hint">Искать что-то…</string>
     <string name="title_genius_kill_all">Закрыть все</string>
+    
+    <!-- This code was deleted iGio90, but it is present in the project 7.1.0 - this new translation code -->
+    <string name="title_purchase_prime">Приобрести и разблокировать Премиум функции</string>
+    
+    <!-- This new functionality from v 7.0.0, which has not previously been -->
+    <string name="title_drawer_save_page">Запоминать последнюю страницу</string>
+    <string name="title_genius_toggles_clean">Очистить</string>
+    <string name="title_genius_toggles_default">По умолчанию</string>
+    <string name="title_genius_toggles_style">Genius стиль переключателей</string>
+	<string name="title_gestures_overview_panel">Обзор панели</string>
+    <string name="title_play_store">Play Маркет</string>
+    <string name="title_header_geniustoggles_style">Выберите стиль для Genius переключателей</string>
+    <string name="title_hint_appsearch">Поиск приложений</string>    
 </resources>
