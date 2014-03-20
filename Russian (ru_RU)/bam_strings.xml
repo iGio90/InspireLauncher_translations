@@ -287,7 +287,7 @@
     <string name="title_genius_toggles_clean">Очистить</string>
     <string name="title_genius_toggles_default">По умолчанию</string>
     <string name="title_genius_toggles_style">Genius стиль переключателей</string>
-	<string name="title_gestures_overview_panel">Обзор панели</string>
+    <string name="title_gestures_overview_panel">Обзор панели</string>
     <string name="title_play_store">Play Маркет</string>
     <string name="title_header_geniustoggles_style">Выберите стиль для Genius переключателей</string>
     <string name="title_hint_appsearch">Поиск приложений</string>    
