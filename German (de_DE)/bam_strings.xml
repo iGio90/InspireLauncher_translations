@@ -10,8 +10,6 @@
     <string name="choose_image">Bild</string>
     <string name="choose_color">Farbe</string>
     <string name="edit_drop_target">Ändern</string>
-    <string name="dialog_pick_iconpack_title">Wähle ein Icon Pack</string>
-    <string name="dialog_pick_icon_title">Wähle ein Icon</string>
     <string name="loading">Laden</string>
     <string name="loading_icons">Rufe Icons ab</string>
     <string name="title_warning">Warnung</string>
@@ -347,24 +345,6 @@
     <string name="title_git_translations">Übersetzungen</string>
     
     <!-- Missing code -->    
-    <string name="application_copyright">Copyright © 2014 CyanogenMod Projekt</string>
-    <string name="default_iconpack_title">Standard Icons</string>
-    <string name="filter_button_text">Filter</string>
-    <string name="icon_packs_title">Icon Sets</string>
-    <string name="no_iconpacks_summary">Icon Set ist nicht installiert</string>
-    <string name="preferences_application_title">App</string>
-    <string name="preferences_interface_dock_title">Dok Leiste</string>
-    <string name="preferences_interface_drawer_title">App Menü</string>
-    <string name="preferences_interface_general_icons_category">Icon</string>
-    <string name="preferences_interface_general_icons_large_summary">Verwende große Icons der Applikationen auf dem Startbildschirm und im Applikationsmenü</string>
-    <string name="preferences_interface_general_icons_large_title">Großes Icon</string>
-    <string name="preferences_interface_general_icons_text_style_summary">The choice of font style for signature badges</string>
-    <string name="preferences_interface_general_icons_text_style_title">Type font</string>
-    <string name="preferences_interface_general_title">Allgemein</string>
-    <string name="preferences_interface_homescreen_search_summary">Suchleiste anzeigen</string>
-    <string name="preferences_interface_homescreen_title">Startbildschirm</string>
-    <string name="preferences_title">Einstellungen</string>
-    <string name="transition_effect_button_text">Übergangseffekt</string>
     <string name="title_genius_hint">Suche nach etwas...</string>
     <string name="title_genius_kill_all">Alle schließen</string>
 </resources>
