@@ -1,193 +1,193 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="take_me_there">Take me there</string>
-    <string name="sure">Are you sure?</string>
-    <string name="configurations_reset">Do you want to reset the configurations?</string>
-    <string name="configurations_backup">Do you want to backup the configurations?</string>
-    <string name="choose_wallpaper">Choose a wallpaper</string>
-    <string name="choose_dock_bg">Choose a dock background</string>
-    <string name="choose_image">Image</string>
-    <string name="choose_color">Color</string>
-    <string name="edit_drop_target">Edit</string>
-    <string name="dialog_pick_iconpack_title">Select an icon pack</string>
-    <string name="dialog_pick_icon_title">Select an icon</string>
-    <string name="loading">Loading</string>
-    <string name="loading_icons">Fetching icons</string>
-    <string name="title_warning">Warning</string>
-    <string name="title_translucent_compatibility">Transparent statusbar is compatible only with Samsung or Sony stock ROM and it\'s not working at 100% on every device/rom</string>
-    <string name="loading_apps">Loading app list... please wait!</string>
+    <string name="take_me_there">Bring mich hin</string>
+    <string name="sure">Bist Du sicher?</string>
+    <string name="configurations_reset">Willst Du die Konfiguration wirklich zurücksetzen?</string>
+    <string name="configurations_backup">Willst Du die Konfiguration wirklich speichern?</string>
+    <string name="choose_wallpaper">Wähle einen Hintergrund</string>
+    <string name="choose_dock_bg">Wähle einen Dock Hintergrund</string>
+    <string name="choose_image">Bild</string>
+    <string name="choose_color">Farbe</string>
+    <string name="edit_drop_target">Ändern</string>
+    <string name="dialog_pick_iconpack_title">Wähle ein Icon Pack</string>
+    <string name="dialog_pick_icon_title">Wähle ein Icon</string>
+    <string name="loading">Laden</string>
+    <string name="loading_icons">Rufe Icons ab</string>
+    <string name="title_warning">Warnung</string>
+    <string name="title_translucent_compatibility">Die transparente Statusbar ist nur mit Stock ROMs von Samsung oder Sony kompatibel und funktioniert möglicherweise nicht auf jedem Gerät/ROM</string>
+    <string name="loading_apps">Lade App Liste... Bitte warte!</string>
     <string name="title_play_store">Play Store</string>
-    <string name="title_hint_appsearch">Search applications</string>
+    <string name="title_hint_appsearch">Durchsuche Applikationen</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
-    <string name="title_prime">Inspire launcher prime</string>
-    <string name="title_ui">User interface</string>
-    <string name="title_general_settings">General</string>
-    <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
+    <string name="settings_title">Inspire Einstellungen</string>
+    <string name="title_prime">Inspire Launcher Prime</string>
+    <string name="title_ui">Bedienoberfläche</string>
+    <string name="title_general_settings">Allgemein</string>
+    <string name="title_homescreen_settings">Startbildschirm</string>
+    <string name="title_drawer_settings">Anwendungsübersicht</string>
     <string name="title_dock">Dock</string>
-    <string name="title_folder">Folders</string>
-    <string name="title_animations">Animations</string>
+    <string name="title_folder">Ordner</string>
+    <string name="title_animations">Animationen</string>
     <string name="title_changelog">Changelogs</string>
-    <string name="title_bug_report">BUG report</string>
+    <string name="title_bug_report">Fehler melden</string>
 
     <!-- Prime -->
-    <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
-    <string name="title_prime_feature">Prime feature</string>
-    <string name="title_prime_feature_message">This feature is available only in Inspire Launcher prime!</string>
+    <string name="title_purchase_prime">Tippe hier um Prime Funktionen zu erwerben und freizuschalten</string>
+    <string name="title_prime_feature">Prime Funktion</string>
+    <string name="title_prime_feature_message">Diese Funktion ist nur im Inspire Launcher Prime erhältlich!</string>
 
     <!-- General -->
-    <string name="title_fullscreen">Full screen</string>
-    <string name="title_translucent">Translucent statusbar</string>
-    <string name="title_orientation">Auto rotate screen</string>
+    <string name="title_fullscreen">Vollbild</string>
+    <string name="title_translucent">Transparente Statusleiste</string>
+    <string name="title_orientation">Bildschirm automatisch drehen</string>
 
     <!-- Homescreen -->
-    <string name="title_background">Background</string>
-    <string name="title_homescreen_thin_search_bar">Thin search bar</string>
-    <string name="title_homescreen_auto_shortcut">New app shortcut</string>
-    <string name="title_homescreen_transition_settings">Scroll Effect</string>
-    <string name="title_homescreen_padding">Padding</string>
-    <string name="title_homescreen_gridsize">Grid size</string>
-    <string name="title_homescreen_page_indicator">Page indicator</string>
-    <string name="title_homescreen_bounce_loop">Infinite bounce scroll</string>
+    <string name="title_background">Hintergrund</string>
+    <string name="title_homescreen_thin_search_bar">Schmale Suchleiste</string>
+    <string name="title_homescreen_auto_shortcut">Neue App Verknüpfung</string>
+    <string name="title_homescreen_transition_settings">Scrolleffect</string>
+    <string name="title_homescreen_padding">Abstand</string>
+    <string name="title_homescreen_gridsize">Gittergröße</string>
+    <string name="title_homescreen_page_indicator">Seitenindikator</string>
+    <string name="title_homescreen_bounce_loop">Unendliches Scrollen</string>
 
     <!-- Drawer -->
-    <string name="title_drawer_save_page">Save last page</string>
-    <string name="title_drawer_disable_apps">Hide applications</string>
-    <string name="title_drawer_protect_apps">Protect applications</string>
-    <string name="title_drawer_transition_settings">Scroll Effect</string>
-    <string name="title_drawer_sorting">Sort applications</string>
-    <string name="title_drawer_show_text">Hide text</string>
-    <string name="title_drawer_text_color">Text color</string>
-    <string name="title_drawer_text_size">Text size</string>
-    <string name="title_drawer_manage_password">Manage password</string>
-    <string name="title_drawer_insert_new_password">Create a new password</string>
-    <string name="title_drawer_insert_password">Insert password</string>
-    <string name="title_drawer_insert_password_wrong">Wrong password</string>
-    <string name="title_drawer_working">Working</string>
-    <string name="title_drawer_apps_disabling">Hiding application...</string>
-    <string name="title_drawer_show_allapps">Show drawer icon</string>
-    <string name="title_drawer_allapps_style">Drawer icon style</string>
+    <string name="title_drawer_save_page">Letzte Seite speichern</string>
+    <string name="title_drawer_disable_apps">Applikationen ausblenden</string>
+    <string name="title_drawer_protect_apps">Schütze Applikationen</string>
+    <string name="title_drawer_transition_settings">Scrolleffekt</string>
+    <string name="title_drawer_sorting">Sortiere Applikationen</string>
+    <string name="title_drawer_show_text">Beschriftung ausblenden</string>
+    <string name="title_drawer_text_color">Textfarbe</string>
+    <string name="title_drawer_text_size">Textgröße</string>
+    <string name="title_drawer_manage_password">Passwort verwalten</string>
+    <string name="title_drawer_insert_new_password">Ein neues Passwort erstellen</string>
+    <string name="title_drawer_insert_password">Passwort einfügen</string>
+    <string name="title_drawer_insert_password_wrong">Falsches Passwort</string>
+    <string name="title_drawer_working">Verarbeite</string>
+    <string name="title_drawer_apps_disabling">Verstecke Applikation...</string>
+    <string name="title_drawer_show_allapps">Zeige Drawer Icon</string>
+    <string name="title_drawer_allapps_style">Drawer Icon Stil</string>
 
     <!-- Text size -->
     <string name="title_text_size_stock">Stock</string>
-    <string name="title_text_size_extra_small">Extra small</string>
-    <string name="title_text_size_small">Small</string>
+    <string name="title_text_size_extra_small">Extra klein</string>
+    <string name="title_text_size_small">Klein</string>
     <string name="title_text_size_medium">Medium</string>
-    <string name="title_text_size_large">Large</string>
-    <string name="title_text_size_extra_large">Extra large</string>
+    <string name="title_text_size_large">Groß</string>
+    <string name="title_text_size_extra_large">Extra groß</string>
 
     <!-- Animations -->
-    <string name="title_animations_launch">App launch</string>
-    <string name="title_animations_close">App close</string>
+    <string name="title_animations_launch">App starten</string>
+    <string name="title_animations_close">App schließen</string>
 
     <!-- Dock -->
-    <string name="title_dock_show">Show dock</string>
-    <string name="title_dock_icons_count">Icons count</string>
+    <string name="title_dock_show">Zeige Dock</string>
+    <string name="title_dock_icons_count">Anzahl der Icons</string>
     
     <!-- Dock style -->
-    <string name="title_dock_transparent">Glass</string>
-    <string name="title_dock_wood">Wood</string>
-    <string name="title_dock_steel">Steel</string>
-    <string name="title_dock_black">Black</string>
+    <string name="title_dock_transparent">Glas</string>
+    <string name="title_dock_wood">Holz</string>
+    <string name="title_dock_steel">Stahl</string>
+    <string name="title_dock_black">Schwarz</string>
     <string name="title_dock_neon">Neon</string>
-    <string name="title_dock_stone_white">White stone</string>
-    <string name="title_dock_stone_black">Black stone</string>
+    <string name="title_dock_stone_white">Weißes Gestein</string>
+    <string name="title_dock_stone_black">Schwarzes Gestein</string>
 
     <!-- AllApps style -->
-    <string name="title_allapps_brick">Brick</string>
-    <string name="title_allapps_closet">Closet</string>
-    <string name="title_allapps_house">House</string>
-    <string name="title_allapps_solid_circle">Solid Circle</string>
-    <string name="title_allapps_dots">Dots</string>
+    <string name="title_allapps_brick">Ziegeln</string>
+    <string name="title_allapps_closet">Schrank</string>
+    <string name="title_allapps_house">Haus</string>
+    <string name="title_allapps_solid_circle">Starrer Kreis</string>
+    <string name="title_allapps_dots">Punkte</string>
     <string name="title_allapps_inspire">Inspire</string>
     <string name="title_allapps_sense">Sense</string>
 
     <!-- Folders -->
-    <string name="title_folder_style">Folder icon style</string>
-    <string name="title_folder_title_color">Title text color</string>
-    <string name="title_folder_items_color">Items text color</string>
+    <string name="title_folder_style">Ordner Icon Stil</string>
+    <string name="title_folder_title_color">Textfarbe des Titels</string>
+    <string name="title_folder_items_color">Textfarbe des Inhalts</string>
 
     <!-- Folders icon style -->
-    <string name="title_folder_hologram">Hologram</string>
-    <string name="title_folder_circle_black">Circle black</string>
+    <string name="title_folder_hologram">Hologramm</string>
+    <string name="title_folder_circle_black">Schwarzer Kreis</string>
     <string name="title_folder_ring">Ring</string>
     <string name="title_folder_inspire">Inspire</string>
-    <string name="title_folder_none">None</string>
+    <string name="title_folder_none">Kein</string>
 
     <!-- Icons and themes -->
-    <string name="title_icons">Themes</string>
-    <string name="title_inspire_themer">Inspire themes</string>
-    <string name="title_stock_inspire_theme">Default theme</string>
-    <string name="title_inspire_themer_download">There isn\'t any Inspire theme in your collection. Please, get some first!</string>
-    <string name="title_icons_pack">Icons theme</string>
-    <string name="title_icons_stock_icon_pack">Default icons</string>
-    <string name="title_icons_size">Icons size</string>
-    <string name="title_icons_size_unified">Link homescreen and dock icons size</string>
-    <string name="title_icons_folders_size">Folders size</string>
-    <string name="title_inspire_colors">Inspire colors</string>
-    <string name="title_pageindicator_style">Page indicator style</string>
-    <string name="title_genius_toggles_style">Genius toggles style</string>
+    <string name="title_icons">Themen</string>
+    <string name="title_inspire_themer">Inspire Themen</string>
+    <string name="title_stock_inspire_theme">Standard Thema</string>
+    <string name="title_inspire_themer_download">Es wurde kein Inspire Thema gefunden. Bitte besorge Dir erst welche!</string>
+    <string name="title_icons_pack">Icon Thema</string>
+    <string name="title_icons_stock_icon_pack">Standard Icons</string>
+    <string name="title_icons_size">Icongröße</string>
+    <string name="title_icons_size_unified">Verknüpfe die Icongröße von Startbildschirm und Dock</string>
+    <string name="title_icons_folders_size">Ordnergröße</string>
+    <string name="title_inspire_colors">Inspire Farben</string>
+    <string name="title_pageindicator_style">Seitenindikator Stil</string>
+    <string name="title_genius_toggles_style">Genius Schalter Stil</string>
 
     <!-- Page indicators -->
-    <string name="title_pageindicator_squared">Squared</string>
-    <string name="title_pageindicator_line">Line</string>
+    <string name="title_pageindicator_squared">Quadratisch</string>
+    <string name="title_pageindicator_line">Linie</string>
 
     <!-- Gestures -->
-    <string name="title_gestures_title">Gestures</string>
-    <string name="title_gestures_double_tap_title">Double tap</string>
-    <string name="title_gestures_swipe_up_title">Swipe up</string>
-    <string name="title_gestures_swipe_down_title">Swipe down</string>
-    <string name="title_gestures_pinch_in_title">Pinch in</string>
-    <string name="title_gestures_pinch_out_title">Pinch out</string>
-    <string name="title_gestures_pinch_in_3_title">3 finger pinch in</string>
-    <string name="title_gestures_pinch_out_3_title">3 finger pinch out</string>
-    <string name="title_gestures_pinch_in_4_title">4 finger pinch in</string>
-    <string name="title_gestures_pinch_out_4_title">4 finger pinch out</string>
-    <string name="title_gestures_pinch_in_5_title">5 finger pinch in</string>
-    <string name="title_gestures_pinch_out_5_title">5 finger pinch out</string>
-    <string name="title_gestures_no_action">No action</string>
-    <string name="title_gestures_open_drawer">Open drawer</string>
-    <string name="title_gestures_preferences">Inspire settings</string>
-    <string name="title_gestures_launch_application">Launch application</string>
-    <string name="title_gestures_settings">System settings</string>
-    <string name="title_gestures_expand_collapse_statusbar">Expand statusbar</string>
-    <string name="title_gestures_show_recent">Recent apps panel</string>
-    <string name="title_gestures_overview_panel">Overview panel</string>
+    <string name="title_gestures_title">Gesten</string>
+    <string name="title_gestures_double_tap_title">Doppelt tippen</string>
+    <string name="title_gestures_swipe_up_title">Wisch nach oben</string>
+    <string name="title_gestures_swipe_down_title">Wisch nach unten</string>
+    <string name="title_gestures_pinch_in_title">Zusammenschieben</string>
+    <string name="title_gestures_pinch_out_title">Auseinanderziehen</string>
+    <string name="title_gestures_pinch_in_3_title">3 Finger zusammenschieben</string>
+    <string name="title_gestures_pinch_out_3_title">3 Finger auseinanderziehen</string>
+    <string name="title_gestures_pinch_in_4_title">4 Finger zusammenschieben</string>
+    <string name="title_gestures_pinch_out_4_title">4 Finger auseinanderziehen</string>
+    <string name="title_gestures_pinch_in_5_title">5 Finger zusammenschieben</string>
+    <string name="title_gestures_pinch_out_5_title">5 Finger auseinanderziehen</string>
+    <string name="title_gestures_no_action">Keine Aktion</string>
+    <string name="title_gestures_open_drawer">Anwendungsübersicht öffnen</string>
+    <string name="title_gestures_preferences">Inspire Einstellungen</string>
+    <string name="title_gestures_launch_application">Starte Applikation</string>
+    <string name="title_gestures_settings">Systemeinstellungen</string>
+    <string name="title_gestures_expand_collapse_statusbar">Statusleiste aufklappen</string>
+    <string name="title_gestures_show_recent">Kürzlich geöffnet</string>
+    <string name="title_gestures_overview_panel">Übersicht</string>
 
     <!-- Advanced -->
-    <string name="title_advanced">Advanced</string>
-    <string name="title_advanced_default_launcher">Default launcher</string>
-    <string name="title_advanced_reset">Reset configurations</string>
-    <string name="title_advanced_backup">Backup configurations</string>
-    <string name="title_advanced_restore">Restore configurations</string>
+    <string name="title_advanced">Erweitert</string>
+    <string name="title_advanced_default_launcher">Standard Launcher</string>
+    <string name="title_advanced_reset">Konfiguration zurücksetzen</string>
+    <string name="title_advanced_backup">Konfiguration sichern</string>
+    <string name="title_advanced_restore">Konfiguration wiederherstellen</string>
 
     <!-- Headers -->
-    <string name="title_header_transition">Select a scroll effect</string>
-    <string name="title_header_sorting">Choose a sorting method</string>
-    <string name="title_header_padding">Slide the bars to increase or decrease the homescreen padding</string>
-    <string name="title_header_vertical_padding">Vertical padding</string>
-    <string name="title_header_horizontal_padding">Horizontal padding</string>
-    <string name="title_header_disable_apps">Check the applications you want to hide</string>
-    <string name="title_header_protect_apps">Check the applications you want to protect</string>
-    <string name="title_header_dock_count">Choose how many icons to show in the dock</string>
-    <string name="title_header_icons_pack_select">Select an icons pack</string>
-    <string name="title_header_themer_select">Select an inspire theme</string>
-    <string name="title_header_icons_size">Slide the bar to increase or decrease the icons size</string>
-    <string name="title_header_icons_folder_size">Slide the bar to increase or decrease the folders size</string>
-    <string name="title_header_homescreen_gridsize">Setup the size of the grid with custom rows and columns</string>
-    <string name="title_header_homescreen_gridsize_linked">Setup the size of the grid with custom rows and columns. The minimum number of columns is linked with the dock items count!</string>
-    <string name="title_header_intelliui_configure">Configure intelliUI</string>
-    <string name="title_header_animations">Select an animation</string>
-    <string name="title_header_gestures">Select a gesture</string>
-    <string name="title_header_app">Select an application</string>
+    <string name="title_header_transition">Scrolleffekt wählen</string>
+    <string name="title_header_sorting">Sortiermethode wählen</string>
+    <string name="title_header_padding">Verschiebe die Regler um den Abstand des Homescreen zu erhöhen oder zu verringern</string>
+    <string name="title_header_vertical_padding">Vertikaler Abstand</string>
+    <string name="title_header_horizontal_padding">Horizontaler Abstand</string>
+    <string name="title_header_disable_apps">Markiere die Anwendungen, die Du ausblenden willst</string>
+    <string name="title_header_protect_apps">Markiere die Anwendungen, die Du schützen willst</string>
+    <string name="title_header_dock_count">Wähle, wieviele Icons im Dock angezeigt werden sollen</string>
+    <string name="title_header_icons_pack_select">Wähle ein Icon Pack</string>
+    <string name="title_header_themer_select">Wähle ein Inspire Theme</string>
+    <string name="title_header_icons_size">Verschiebe den Regler um die Icongröße zu erhöhen oder zu verringern</string>
+    <string name="title_header_icons_folder_size">Verschiebe den Regler um die Ordnergröße zu erhöhen oder zu verringern</string>
+    <string name="title_header_homescreen_gridsize">Lege die Gittergröße anhand der Spalten und Reihen fest</string>
+    <string name="title_header_homescreen_gridsize_linked">Lege die Gittergröße anhand der Spalten und Reihen fest. Die minimale Anzahl der Spalten ist abhängig von der Anzahl der Dock Icons!</string>
+    <string name="title_header_intelliui_configure">Konfiguriere intelliUI</string>
+    <string name="title_header_animations">Wähle eine Animation</string>
+    <string name="title_header_gestures">Wähle eine Geste</string>
+    <string name="title_header_app">Wähle eine Applikation</string>
     <string name="title_header_text_size">Select the text size</string>
-    <string name="title_header_allapps_style">Select a style for the drawer icon</string>
-    <string name="title_header_folder_style">Select a style for the folder icon</string>
-    <string name="title_header_pageindicator_style">Select a style for the page indicator</string>
-    <string name="title_header_geniustoggles_style">Select a style for the Genius toggles</string>
+    <string name="title_header_allapps_style">Wähle einen Stil für die Anwendungsübersicht</string>
+    <string name="title_header_folder_style">Wähle einen Stil für das Ordner Icon</string>
+    <string name="title_header_pageindicator_style">Wähle einen Stil für den Seitenindikator</string>
+    <string name="title_header_geniustoggles_style">Wähle einen Stil für die Genius Schalter</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -227,96 +227,96 @@
     <string name="color_opacity">Opacity</string>
 
     <!-- Animations -->
-    <string name="animations_none">None</string>
-    <string name="animations_fade">Fade</string>
-    <string name="animations_push_down">Push down</string>
-    <string name="animations_push_left">Push left</string>
-    <string name="animations_push_right">Push right</string>
-    <string name="animations_push_up">Push up</string>
+    <string name="animations_none">Keine</string>
+    <string name="animations_fade">Fading</string>
+    <string name="animations_push_down">Nach unten schieben</string>
+    <string name="animations_push_left">Nach links schieben</string>
+    <string name="animations_push_right">Nach rechts schieben</string>
+    <string name="animations_push_up">Nach oben schieben</string>
 
     <string name="title_empty"></string>
 
-    <string name="new_iconpack_notification_title">New icon pack installed</string>
-    <string name="new_iconpack_notification_message">A new icon pack was detected and can be applied to the launcher</string>
-    <string name="new_iconpack_notification_apply_action_title">Apply icon pack</string>
-    <string name="new_inspiretheme_notification_title">New inspire theme installed</string>
-    <string name="new_inspiretheme_notification_message">A new inspire theme was detected and can be applied to the launcher</string>
-    <string name="new_inspiretheme_notification_apply_action_title">Apply theme</string>
+    <string name="new_iconpack_notification_title">Neues Icon Pack installiert</string>
+    <string name="new_iconpack_notification_message">Ein neues Icon Pack wurde erkannt und kann auf den Launcher angewendet werden</string>
+    <string name="new_iconpack_notification_apply_action_title">Icon Pack anwenden</string>
+    <string name="new_inspiretheme_notification_title">Neues Inspire Thema installiert</string>
+    <string name="new_inspiretheme_notification_message">Ein neues Inspire Thema wurde erkannt und kann auf den Launcher angewendet werden</string>
+    <string name="new_inspiretheme_notification_apply_action_title">Thema anwenden</string>
 
-    <string name="title_rows">Rows</string>
-    <string name="title_cols">Columns</string>
+    <string name="title_rows">Reihen</string>
+    <string name="title_cols">Spalten</string>
 
     <!-- Genius Center -->
     <string name="title_genius">Genius</string>
-    <string name="title_genius_page">Genius center</string>
-    <string name="title_genius_google_now">Google now</string>
+    <string name="title_genius_page">Genius Center</string>
+    <string name="title_genius_google_now">Google Now</string>
     <string name="title_genius_bar">Genius Bar</string>
-    <string name="title_genius_keyboard">Show keyboard</string>
-    <string name="title_genius_toggles">Quick toggles</string>
-    <string name="title_genius_loading">Loading...</string>
-    <string name="title_genius_apps">Applications</string>
-    <string name="title_genius_contacts">Contacts</string>
-    <string name="title_genius_music">Music</string>
+    <string name="title_genius_keyboard">Zeige Tastatur</string>
+    <string name="title_genius_toggles">Schnellschalter</string>
+    <string name="title_genius_loading">Laden...</string>
+    <string name="title_genius_apps">Applikationen</string>
+    <string name="title_genius_contacts">Kontakte</string>
+    <string name="title_genius_music">Musik</string>
     <string name="title_genius_maps">Maps</string>
     <string name="title_genius_youtube">YouTube</string>
     <string name="title_genius_store">Play Store</string>
-    <string name="title_genius_websearch">Search on Google</string>
-    <string name="title_genius_maps_search">Search on Maps</string>
-    <string name="title_genius_youtube_search">Search on Youtube</string>
-    <string name="title_genius_store_search">Search on Play Store</string>
-    <string name="title_genius_recent">Recent apps</string>
-    <string name="title_genius_no_recent">No recent apps</string>
+    <string name="title_genius_websearch">In Google suchen</string>
+    <string name="title_genius_maps_search">In Maps suchen</string>
+    <string name="title_genius_youtube_search">Auf YouTube suchen</string>
+    <string name="title_genius_store_search">Im Play Store suchen</string>
+    <string name="title_genius_recent">Kürzlich verwendete Apps</string>
+    <string name="title_genius_no_recent">Keine kürzlich verwendeten Apps</string>
 
-    <string name="settings_cling_usage">Tap the menu button or swipe on the right to access settings categories</string>
-    <string name="geniusbar_cling_usage">Quickly search for applications or contacts in your device, a video on youtube, an address, an application in the store and much more!</string>
-    <string name="intelliui_background_cling">IntelliUI will change your background with different flat colors based on the phases of the day</string>
-    <string name="intelliui_goodmorning_cling">IntelliUI will send you a goodmorning notification with some informations customizable in the configuration</string>
+    <string name="settings_cling_usage">Tippe auf den Menü Button oder wische nach rechts um auf die Einstellungs Kategorien zuzugreifen</string>
+    <string name="geniusbar_cling_usage">Suche schnell nach Applikationen oder Kontakten auf Deinem Gerät, einem Video auf YouTube, einer Adresse, einer Applikation im Store und vieles mehr!</string>
+    <string name="intelliui_background_cling">IntelliUI ändert Deinen Hintergrund mit verschiedenen Farben abhängig von der Tageszeit</string>
+    <string name="intelliui_goodmorning_cling">IntelliUI sendet Dir eine Guten-Morgen-Nachricht mit einigen Informationen die sich einstellen lassen</string>
 
     <!-- Genius toggles style -->
-    <string name="title_genius_toggles_default">Default</string>
+    <string name="title_genius_toggles_default">Standard</string>
     <string name="title_genius_toggles_clean">Clean</string>
 
     <!-- IntelliUI -->
     <string name="intelliui_title">IntelliUI</string>
-    <string name="intelliui_configure">Configure</string>
-    <string name="intelliui_configure_msg">Good morning require configurations!</string>
-    <string name="intelliui_name">How should i call you?</string>
-    <string name="intelliui_name_hint">Enter your name</string>
-    <string name="intelliui_age">When were you born?</string>
+    <string name="intelliui_configure">Konfigurieren</string>
+    <string name="intelliui_configure_msg">Guten Morgen muss konfiguriert werden!</string>
+    <string name="intelliui_name">Wie soll ich Dich anreden?</string>
+    <string name="intelliui_name_hint">Gib Deinen Namen ein</string>
+    <string name="intelliui_age">Wann wurdest Du geboren?</string>
     <string name="intelliui_month_hint">MM</string>
-    <string name="intelliui_day_hint">DD</string>
-    <string name="intelliui_year_hint">YYYY</string>
-    <string name="intelliui_weather_info">How should i fetch weather informations?</string>
-    <string name="intelliui_weather_use_gps">Use gps when possible</string>
+    <string name="intelliui_day_hint">TT</string>
+    <string name="intelliui_year_hint">JJJJ</string>
+    <string name="intelliui_weather_info">Wie soll ich Wetterinformationen bereitstellen?</string>
+    <string name="intelliui_weather_use_gps">Benutze GPS wenn möglich</string>
     <string name="intelliui_weather_use_fahrenheit">Fahrenheit</string>
     <string name="intelliui_custom_location_hint">\'London, UK\'</string>
-    <string name="intelliui_background">Auto background</string>
-    <string name="intelliui_goodmorning">Good morning!</string>
-    <string name="intelliui_goodmorning_time_picker">When would you like to get the good morning?</string>
+    <string name="intelliui_background">Auto Hintergrund</string>
+    <string name="intelliui_goodmorning">Guten Morgen!</string>
+    <string name="intelliui_goodmorning_time_picker">Wann möchtest Du die Guten-Morgen-Nachricht erhalten?</string>
 
     <!-- IntelliUI Interactions -->
-    <string name="interactions_goodmorning">Good morning</string>
-    <string name="interactions_today">Today is</string>
-    <string name="interaction_temperature">The outside temperature is</string>
-    <string name="interaction_sunny">and it will be a sunny day!</string>
-    <string name="interaction_cloudy">and it will be a cloudy day!</string>
-    <string name="interaction_rain">and it will be a rainy day!</string>
-    <string name="interaction_snow">and it will be a snowy day!</string>
-    <string name="interaction_wind">and it will be a windy day!</string>
-    <string name="interaction_storm">and it will be a strong thunderstorm</string>
-    <string name="interaction_foggy">and it will be a foggy day!</string>
-    <string name="interaction_cold">and it will be a very cold day!</string>
-    <string name="interaction_hot">and it will be a very hot day!</string>
-    <string name="interaction_no_weather">Enable GPS and fill the configurations to get weather informations</string>
+    <string name="interactions_goodmorning">Guten Morgen</string>
+    <string name="interactions_today">Heute ist</string>
+    <string name="interaction_temperature">Die Außentemperatur beträgt</string>
+    <string name="interaction_sunny">und es wird ein sonniger Tag!</string>
+    <string name="interaction_cloudy">und es wird ein bewölkter Tag!</string>
+    <string name="interaction_rain">und es wird ein verregneter Tag!</string>
+    <string name="interaction_snow">und es wird ein verschneiter Tag!</string>
+    <string name="interaction_wind">und es wird ein windiger Tag!</string>
+    <string name="interaction_storm">und es wird Gewitter geben!</string>
+    <string name="interaction_foggy">und es wird ein vernebelter Tag!</string>
+    <string name="interaction_cold">und es wird ein arschkalter Tag!</string>
+    <string name="interaction_hot">und es wird ein sehr heißer Tag!</string>
+    <string name="interaction_no_weather">Aktiviere GPS und bearbeite die Konfiguration um Wetterinformationen zu erhalten</string>
 
     <!-- Drawer Panel -->
-    <string name="title_drawer_sidepanel">Side panel</string>
-    <string name="title_add_categories">Add a category</string>
-    <string name="title_manage_apps">Manage applications</string>
-    <string name="title_delete_category">Delete category</string>
-    <string name="title_show_all_apps">All apps</string>
-    <string name="title_select_icon">Select an icon</string>
-    <string name="title_category_empty">The selected category is empty! Add some apps at first!</string>
+    <string name="title_drawer_sidepanel">Seitenleiste</string>
+    <string name="title_add_categories">Kategorie hinzufügen</string>
+    <string name="title_manage_apps">Verwalte Applikationen</string>
+    <string name="title_delete_category">Kategorie löschen</string>
+    <string name="title_show_all_apps">Alle Apps</string>
+    <string name="title_select_icon">Icon wählen</string>
+    <string name="title_category_empty">Die gewählte Kategorie ist leer! Füge erst einige Apps hinzu!</string>
 
     <!-- Category icons -->
     <string name="title_panel_games">Games</string>
@@ -326,45 +326,45 @@
     <string name="title_panel_media">Media</string>
 
     <!-- Overview Panel -->
-    <string name="title_overview">Overview panel</string>
-    <string name="title_show_date">Show date</string>
-    <string name="title_weekday_color">Week day color</string>
-    <string name="title_date_color">Date color</string>
-    <string name="title_monday">Monday</string>
-    <string name="title_tuesday">Tuesday</string>
-    <string name="title_wednesday">Wednesday</string>
-    <string name="title_thursday">Thursday</string>
-    <string name="title_friday">Friday</string>
-    <string name="title_saturday">Saturday</string>
-    <string name="title_sunday">Sunday</string>
+    <string name="title_overview">Übersichtsleiste</string>
+    <string name="title_show_date">Datum anzeigen</string>
+    <string name="title_weekday_color">Farbe Wochentag</string>
+    <string name="title_date_color">Farbe Datum</string>
+    <string name="title_monday">Montag</string>
+    <string name="title_tuesday">Dienstag</string>
+    <string name="title_wednesday">Mittwoch</string>
+    <string name="title_thursday">Donnerstag</string>
+    <string name="title_friday">Freitag</string>
+    <string name="title_saturday">Samstag</string>
+    <string name="title_sunday">Sonntag</string>
 
     <!-- About -->
-    <string name="about_title">About</string>
-    <string name="title_inspire_wallpapers">Inspire Wallpapers</string>
-    <string name="title_developed">Developed by iGio90</string>
-    <string name="title_graphics">Graphics by Bliss91</string>
-    <string name="title_plus_communtiy">Google+ community</string>
-    <string name="title_git_translations">Translations</string>
+    <string name="about_title">Über</string>
+    <string name="title_inspire_wallpapers">Inspire Hintergründe</string>
+    <string name="title_developed">Entwickelt von iGio90</string>
+    <string name="title_graphics">Grafiken von Bliss91</string>
+    <string name="title_plus_communtiy">Google+ Community</string>
+    <string name="title_git_translations">Übersetzungen</string>
     
     <!-- Missing code -->    
     <string name="application_copyright">Copyright © 2014 CyanogenMod Projekt</string>
-    <string name="default_iconpack_title">Default icons</string>
+    <string name="default_iconpack_title">Standard Icons</string>
     <string name="filter_button_text">Filter</string>
-    <string name="icon_packs_title">Icon sets</string>
-    <string name="no_iconpacks_summary">Icon set is not installed</string>
+    <string name="icon_packs_title">Icon Sets</string>
+    <string name="no_iconpacks_summary">Icon Set ist nicht installiert</string>
     <string name="preferences_application_title">App</string>
-    <string name="preferences_interface_dock_title">Dok panel</string>
-    <string name="preferences_interface_drawer_title">Apps menu</string>
+    <string name="preferences_interface_dock_title">Dok Leiste</string>
+    <string name="preferences_interface_drawer_title">App Menü</string>
     <string name="preferences_interface_general_icons_category">Icon</string>
-    <string name="preferences_interface_general_icons_large_summary">Use large icons of the applications on the home screen and in the applications menu</string>
-    <string name="preferences_interface_general_icons_large_title">Large Icon</string>
+    <string name="preferences_interface_general_icons_large_summary">Verwende große Icons der Applikationen auf dem Startbildschirm und im Applikationsmenü</string>
+    <string name="preferences_interface_general_icons_large_title">Großes Icon</string>
     <string name="preferences_interface_general_icons_text_style_summary">The choice of font style for signature badges</string>
     <string name="preferences_interface_general_icons_text_style_title">Type font</string>
-    <string name="preferences_interface_general_title">General</string>
-    <string name="preferences_interface_homescreen_search_summary">Show search bar top of the screen</string>
-    <string name="preferences_interface_homescreen_title">Home screen</string>
-    <string name="preferences_title">Preferences</string>
-    <string name="transition_effect_button_text">Transition effect</string>
-    <string name="title_genius_hint">Look for something...</string>
-    <string name="title_genius_kill_all">Close all</string>
+    <string name="preferences_interface_general_title">Allgemein</string>
+    <string name="preferences_interface_homescreen_search_summary">Suchleiste anzeigen</string>
+    <string name="preferences_interface_homescreen_title">Startbildschirm</string>
+    <string name="preferences_title">Einstellungen</string>
+    <string name="transition_effect_button_text">Übergangseffekt</string>
+    <string name="title_genius_hint">Suche nach etwas...</string>
+    <string name="title_genius_kill_all">Alle schließen</string>
 </resources>
