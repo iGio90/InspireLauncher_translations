@@ -42,10 +42,10 @@
     <string name="title_orientation">Bildschirm automatisch drehen</string>
 
     <!-- Homescreen -->
-    <string name="title_background">Hintergrund</string>
+    <string name="title_background">Hintergrundbild</string>
     <string name="title_homescreen_thin_search_bar">Schmale Suchleiste</string>
-    <string name="title_homescreen_auto_shortcut">Neue App Verknüpfung</string>
-    <string name="title_homescreen_transition_settings">Scrolleffect</string>
+    <string name="title_homescreen_auto_shortcut">Neue App Verknüpfung erstellen</string>
+    <string name="title_homescreen_transition_settings">Scrolleffekt</string>
     <string name="title_homescreen_padding">Abstand</string>
     <string name="title_homescreen_gridsize">Gittergröße</string>
     <string name="title_homescreen_page_indicator">Seitenindikator</string>
@@ -276,7 +276,7 @@
 
     <!-- IntelliUI -->
     <string name="intelliui_title">IntelliUI</string>
-    <string name="intelliui_configure">Konfigurieren</string>
+    <string name="intelliui_configure">Konfiguration</string>
     <string name="intelliui_configure_msg">Guten Morgen muss konfiguriert werden!</string>
     <string name="intelliui_name">Wie soll ich Dich anreden?</string>
     <string name="intelliui_name_hint">Gib Deinen Namen ein</string>
@@ -338,7 +338,7 @@
 
     <!-- About -->
     <string name="about_title">Über</string>
-    <string name="title_inspire_wallpapers">Inspire Hintergründe</string>
+    <string name="title_inspire_wallpapers">Inspire Wallpapers</string>
     <string name="title_developed">Entwickelt von iGio90</string>
     <string name="title_graphics">Grafiken von Bliss91</string>
     <string name="title_plus_communtiy">Google+ Community</string>
