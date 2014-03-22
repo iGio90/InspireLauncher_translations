@@ -95,7 +95,7 @@
     <string name="settings_cling_usage">Коснитесь кнопки меню или проведите вправо для доступа к настройкам категорий</string>
     <string name="settings_title">Настройки Inspire</string>
     <string name="sure">Вы уверены?</string>
-    <string name="take_me_there">Доставь меня туда</string>
+    <string name="take_me_there">Перейти к настройкам</string>
     <string name="title_add_categories">Добавить категорию</string>
     <string name="title_advanced">Расширеные</string>
     <string name="title_advanced_backup">Сохранить конфигурацию</string>
