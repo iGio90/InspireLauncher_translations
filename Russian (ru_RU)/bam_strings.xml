@@ -290,5 +290,56 @@
     <string name="title_gestures_overview_panel">Обзор панели</string>
     <string name="title_play_store">Play Маркет</string>
     <string name="title_header_geniustoggles_style">Выберите стиль для Genius переключателей</string>
-    <string name="title_hint_appsearch">Поиск приложений</string>    
+    <string name="title_hint_appsearch">Поиск приложений</string>
+
+<!-- Removing unnecessary code.
+The latest version 7.2.0 in the Russian language is a code, which is probably superfluous, as it refers to the AOSP. In this file, I do not see him, but he is in the appendix.
+So I write the lines of extra code here - in a footnote, and the author of the launcher itself decides how to fix it and is it really true - superfluous code or not?)
+To make it clearer, I will list some extra code in Russian and in English. Perhaps these lines superfluous code present in other language files ... -->
+
+<!-- Superfluous code in Russian -->
+
+#    <string name="application_copyright">© Проект Inspire, 2014</string>
+#    <string name="default_iconpack_title">Значки по умолчанию</string>
+#    <string name="filter_button_text">Фильтр</string>
+#    <string name="icon_packs_title">Наборы значков</string>
+#    <string name="no_iconpacks_summary">Наборы значков не установлены</string>
+#    <string name="preferences_application_title">Приложение</string>
+#    <string name="preferences_interface_dock_title">Нижняя панель</string>
+#    <string name="preferences_interface_drawer_title">Меню приложений</string>
+#    <string name="preferences_interface_general_icons_category">Значки</string>
+#    <string name="preferences_interface_general_icons_large_summary">Использовать крупные значки приложений на домашнем экране и в меню приложений</string>
+#    <string name="preferences_interface_general_icons_large_title">Крупные значки</string>
+#    <string name="preferences_interface_general_icons_text_style_summary">Выбор стиля шрифта для подписей значков</string>
+#    <string name="preferences_interface_general_icons_text_style_title">Тип шрифта</string>
+#    <string name="preferences_interface_general_title">Общие</string>
+#    <string name="preferences_interface_homescreen_search_summary">Показывать постоянную строку поиска вверху экрана</string>
+#    <string name="preferences_interface_homescreen_title">Домашний экран</string>
+#    <string name="preferences_title">Настройки</string>
+#    <string name="transition_effect_button_text">Эффект перехода</string>
+#    <string name="title_genius_hint">Искать что-то…</string>
+#    <string name="title_genius_kill_all">Закрыть все</string>
+
+<!-- Superfluous code in English -->
+
+#    <string name="application_copyright">Copyright © 2014 CyanogenMod Projekt</string>
+#    <string name="default_iconpack_title">Default icons</string>
+#    <string name="filter_button_text">Filter</string>
+#    <string name="icon_packs_title">Icon sets</string>
+#    <string name="no_iconpacks_summary">Icon set is not installed</string>
+#    <string name="preferences_application_title">App</string>
+#    <string name="preferences_interface_dock_title">Dok panel</string>
+#    <string name="preferences_interface_drawer_title">Apps menu</string>
+#    <string name="preferences_interface_general_icons_category">Icon</string>
+#    <string name="preferences_interface_general_icons_large_summary">Use large icons of the applications on the home screen and in the applications menu</string>
+#    <string name="preferences_interface_general_icons_large_title">Large Icon</string>
+#    <string name="preferences_interface_general_icons_text_style_summary">The choice of font style for signature badges</string>
+#    <string name="preferences_interface_general_icons_text_style_title">Type font</string>
+#    <string name="preferences_interface_general_title">General</string>
+#    <string name="preferences_interface_homescreen_search_summary">Show search bar top of the screen</string>
+#    <string name="preferences_interface_homescreen_title">Home screen</string>
+#    <string name="preferences_title">Preferences</string>
+#    <string name="transition_effect_button_text">Transition effect</string>
+#    <string name="title_genius_hint">Look for something...</string>
+#    <string name="title_genius_kill_all">Close all</string>
 </resources>
