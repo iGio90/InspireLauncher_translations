@@ -293,9 +293,9 @@
     <string name="title_hint_appsearch">Поиск приложений</string>
 
 <!-- Removing unnecessary code.
-The latest version 7.2.0 in the Russian language is a code, which is probably superfluous, as it refers to the AOSP. In this file, I do not see him, but he is in the appendix.
-So I write the lines of extra code here - in a footnote, and the author of the launcher itself decides how to fix it and is it really true - superfluous code or not?)
-To make it clearer, I will list some extra code in Russian and in English. Perhaps these lines superfluous code present in other language files ... -->
+# The latest version 7.2.0 in the Russian language is a code, which is probably superfluous, as it refers to the AOSP. In this file, I do not see him, but he is in the appendix.
+# So I write the lines of extra code here - in a footnote, and the author of the launcher itself decides how to fix it and is it really true - superfluous code or not?)
+# To make it clearer, I will list some extra code in Russian and in English. Perhaps these lines superfluous code present in other language files ... -->
 
 <!-- Superfluous code in Russian -->
 
