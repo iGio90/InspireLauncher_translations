@@ -1,43 +1,44 @@
-★★ Inspire Launcher is a brand new launcher based on the new KitKat Android Launcher with tons of features and customizations. It combines the major features of the most common Android Launchers with some goodies from iOS and Windows Phone. ★★
+★★ Inspire Launcher é um novo lançador baseado no novo KitKat do Android com toneladas de recursos e personalizações. Ele combina as características principais dos lançadores Android mais comuns com algumas guloseimas de iOS e Windows Phone.
+ ★★
 
-★★ This is not NOVA or APEX so don't expect to meet the same features or ask for them!! If you want features already seen in every launcher use them instead of Inspire! ★★
+★★ Isto não é NOVA ou APEX launcher, então não espere encontrar os mesmos recursos ou pedir por eles! Se você quiser características já vistas em outro launcher, use-os ao em vez de Inspire! ★★
 
-★★ Inspire Launcher is the most customizable launcher ever created! ★★
+★★ Inspire Launcher é o launcher mais personalizável já criado! ★★
 
-★★ Inspire community: https://plus.google.com/u/0/communities/104695304515771826360 ★★
+★★ Comunidade Inspire: https://plus.google.com/u/0/communities/104695304515771826360 ★★
 
-★ FEATURES ★
-* Flat UI and design
-* Homescreen customizations
-* App drawer customizations
-* Custom icons and folders size
-* Dock bar customizations
-* Background with flat colors or custom images (Also for drawer)
-* Custom opacity control
-* Ability to hide applications
-* Scroll effects and animations
-* Text colors
-* Custom single shortcut icons and rename
-* Gestures
-* Custom dock, appdrawer, icons and folder styles
-* Appdrawer sidepanel for custom appdrawer categories!
-* Genius Page inspired from iOS finder search and Google Now Launcher page!
-* System toggles and Recent applications in genius page
-* Support for Nova, ADW, Apex and all launchers icons pack and theme!
-* Ability to backup, restore and reset own configurations
-* Included flat clock widget with different styles
-* Included a fresh colored theme called inspire colors that will enable a little colorfull icon pack with a drawer and folder custom icon! 
-* Over 500 free customizations
+★ CARACTERÍSTICAS ★
+* Flat UI e design 
+* Personalizações na Homescreen 
+* Personalizações na gaveta de App 
+* Ícones e pastas com tamanho personalizado 
+* Dock personalizada 
+* Fundo com cores planas ou imagens personalizadas (Também para gaveta) 
+* Controle de opacidade Personalizado 
+* Capacidade para esconder aplicações 
+* Efeitos de rolagem e animações 
+* Cores do texto 
+* Ícones de atalho personalizados 
+* Gestos 
+* Dock personalizado, appdrawer, ícones e estilos de pasta 
+* Painel lateral para categorias da gaveta de apps personalizada! 
+* Genius Página inspirada no iOS e Google Now! 
+* Alterna sistema e aplicações recentes na página Genius
+* Suporte para Nova, ADW, Apex e todos os launchers (ícones e temas)! 
+* Capacidade de backup, restaurar e repor próprias configurações 
+* Incluído widget de relógio plano com diferentes estilos 
+* Incluído um tema colorido fresco chamado inspire cores que permitirão ícones e pastas personalizados! 
+* Mais de 500 personalizações livres
 
 ★ PRIME ★
-* Intelligent UI aka IntelliUI: Automatic change background with great flat colors based on the hour of day
-* Good morning notification with date and weather informations!
-* Password protected applications
-* Genius Bar search through youtube, maps, play store and more!
-* Custom animations on applications launch and close
-* Custom dock background
-* Folders customization
-* Custom folder icon
-* Custom drawer launcher icon
+* UI Intelligent aka IntelliUI: Plano de Fundo Automático com grandes cores planas com base na hora do dia 
+* "Bom dia" notificação com data e informações meteorológicas! 
+* Aplicativos protegidos por senha 
+* Pesquisa Genius Bar através youtube, mapas, Play Store e muito mais! 
+* Animações personalizadas em aplicativos (iniciar e fechar) 
+* Dock com fundo personalizado 
+* Personalização de pastas 
+* Ícone de pasta personalizada 
+* Ícone da gaveta de apps Personalizado
 
-This launcher is under heavy development and tons of new features will be added on every update!
+Este launcher está sob forte desenvolvimento e toneladas de novos recursos serão adicionados a cada atualização!
