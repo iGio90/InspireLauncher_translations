@@ -46,6 +46,7 @@
     <!-- Homescreen -->
     <string name="title_background">Background</string>
     <string name="title_homescreen_thin_search_bar">Thin search bar</string>
+    <string name="title_homescreen_resize_widgets">Resize any widgets</string>
     <string name="title_homescreen_auto_shortcut">New app shortcut</string>
     <string name="title_homescreen_transition_settings">Scroll Effect</string>
     <string name="title_homescreen_padding">Padding</string>
@@ -188,6 +189,7 @@
     <string name="title_header_folder_style">Select a style for the folder icon</string>
     <string name="title_header_pageindicator_style">Select a style for the page indicator</string>
     <string name="title_header_geniustoggles_style">Select a style for the Genius toggles</string>
+    <string name="title_header_genius_widgets">Configure genius widgets</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -251,6 +253,7 @@
     <string name="title_genius_page">Genius center</string>
     <string name="title_genius_google_now">Google now</string>
     <string name="title_genius_bar">Genius Bar</string>
+    <string name="title_genius_bar_hint">Search something...</string>
     <string name="title_genius_keyboard">Show keyboard</string>
     <string name="title_genius_toggles">Quick toggles</string>
     <string name="title_genius_loading">Loading...</string>
@@ -261,11 +264,13 @@
     <string name="title_genius_youtube">YouTube</string>
     <string name="title_genius_store">Play Store</string>
     <string name="title_genius_websearch">Search on Google</string>
+    <string name="title_genius_google_images">Search on Google images</string>
     <string name="title_genius_maps_search">Search on Maps</string>
     <string name="title_genius_youtube_search">Search on Youtube</string>
     <string name="title_genius_store_search">Search on Play Store</string>
-    <string name="title_genius_recent">Recent apps</string>
-    <string name="title_genius_no_recent">No recent apps</string>
+    <string name="title_genius_widgets">Widgets</string>
+    <string name="title_genius_weather">Inspire weather</string>
+    <string name="title_genius_enable_weather">Weather widget</string>
 
     <string name="settings_cling_usage">Tap the menu button or swipe on the right to access settings categories</string>
     <string name="geniusbar_cling_usage">Quickly search for applications or contacts in your device, a video on youtube, an address, an application in the store and much more!</string>
@@ -275,6 +280,7 @@
     <!-- Genius toggles style -->
     <string name="title_genius_toggles_default">Default</string>
     <string name="title_genius_toggles_clean">Clean</string>
+    <string name="title_genius_toggles_minimal">Minimal</string>
 
     <!-- IntelliUI -->
     <string name="intelliui_title">IntelliUI</string>
@@ -345,26 +351,4 @@
     <string name="title_graphics">Graphics by Bliss91</string>
     <string name="title_plus_communtiy">Google+ community</string>
     <string name="title_git_translations">Translations</string>
-    
-    <!-- Missing code -->    
-    <string name="application_copyright">Copyright © 2014 CyanogenMod Projekt</string>
-    <string name="default_iconpack_title">Default icons</string>
-    <string name="filter_button_text">Filter</string>
-    <string name="icon_packs_title">Icon sets</string>
-    <string name="no_iconpacks_summary">Icon set is not installed</string>
-    <string name="preferences_application_title">App</string>
-    <string name="preferences_interface_dock_title">Dok panel</string>
-    <string name="preferences_interface_drawer_title">Apps menu</string>
-    <string name="preferences_interface_general_icons_category">Icon</string>
-    <string name="preferences_interface_general_icons_large_summary">Use large icons of the applications on the home screen and in the applications menu</string>
-    <string name="preferences_interface_general_icons_large_title">Large Icon</string>
-    <string name="preferences_interface_general_icons_text_style_summary">The choice of font style for signature badges</string>
-    <string name="preferences_interface_general_icons_text_style_title">Type font</string>
-    <string name="preferences_interface_general_title">General</string>
-    <string name="preferences_interface_homescreen_search_summary">Show search bar top of the screen</string>
-    <string name="preferences_interface_homescreen_title">Home screen</string>
-    <string name="preferences_title">Preferences</string>
-    <string name="transition_effect_button_text">Transition effect</string>
-    <string name="title_genius_hint">Look for something...</string>
-    <string name="title_genius_kill_all">Close all</string>
 </resources>
