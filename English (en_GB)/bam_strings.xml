@@ -268,9 +268,11 @@
     <string name="title_genius_maps_search">Search on Maps</string>
     <string name="title_genius_youtube_search">Search on Youtube</string>
     <string name="title_genius_store_search">Search on Play Store</string>
+    <string name="title_genius_wiki_search">Search on Wikipedia</string>
     <string name="title_genius_widgets">Widgets</string>
     <string name="title_genius_weather">Inspire weather</string>
     <string name="title_genius_enable_weather">Weather widget</string>
+    <string name="title_genius_clock_date">Show clock and date</string>
 
     <string name="settings_cling_usage">Tap the menu button or swipe on the right to access settings categories</string>
     <string name="geniusbar_cling_usage">Quickly search for applications or contacts in your device, a video on youtube, an address, an application in the store and much more!</string>
@@ -343,6 +345,16 @@
     <string name="title_friday">Friday</string>
     <string name="title_saturday">Saturday</string>
     <string name="title_sunday">Sunday</string>
+
+    <!-- Addons -->
+    <string name="title_addons_title">Addons</string>
+    <string name="title_addons_category_mods">Mods</string>
+    <string name="title_addons_mios">miOs</string> <!-- DO NOT TRANSLATE -->
+    <string name="title_addons_spectrum">Spectrum</string> <!-- DO NOT TRANSLATE -->
+
+    <string name="title_addons_applying">Please wait…</string>
+
+    <string name="title_mios_dialog">By enabling miOs addon all your applications will be moved to desktop and the appdrawer panel will be invisible just like iOS/MIUI Launcher. We are able to move all applications to your desktop, however, we aren\'t able to remove them. So if you\'ll ever switch back to the stock Launcher, you\'ll have to manually remove all application shortcuts from your desktop. You are warned :)</string>
 
     <!-- About -->
     <string name="about_title">About</string>
