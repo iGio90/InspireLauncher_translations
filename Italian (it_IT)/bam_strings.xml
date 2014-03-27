@@ -44,6 +44,7 @@
     <!-- Homescreen -->
     <string name="title_background">Sfondo</string>
     <string name="title_homescreen_thin_search_bar">Barra di ricerca sottile</string>
+    <string name="title_homescreen_resize_widgets">Ridimensiona tutti gli widget</string>
     <string name="title_homescreen_auto_shortcut">Shortcut nuove applicazioni</string>
     <string name="title_homescreen_transition_settings">Effetto transizioni</string>
     <string name="title_homescreen_padding">Margine</string>
@@ -185,6 +186,7 @@
     <string name="title_header_folder_style">Seleziona uno stile per l\'icona delle cartelle</string>
     <string name="title_header_pageindicator_style">Seleziona uno stile per l\'indicatore di pagina</string>
     <string name="title_header_geniustoggles_style">Seleziona uno stile per i Genius toggles</string>
+    <string name="title_header_genius_widgets">Configura i genius widgets</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -248,6 +250,7 @@
     <string name="title_genius_page">Genius center</string>
     <string name="title_genius_google_now">Google now</string>
     <string name="title_genius_bar">Genius Bar</string>
+    <string name="title_genius_bar_hint">Ricerca qualcosa…</string>
     <string name="title_genius_keyboard">Mostra tastiera</string>
     <string name="title_genius_toggles">Toggles rapidi</string>
     <string name="title_genius_loading">Caricamento...</string>
@@ -258,12 +261,15 @@
     <string name="title_genius_youtube">YouTube</string>
     <string name="title_genius_store">Play Store</string>
     <string name="title_genius_websearch">Cerca su Google</string>
+    <string name="title_genius_google_images">Cerca su Google images</string>
     <string name="title_genius_maps_search">Cerca nelle Mappe</string>
     <string name="title_genius_youtube_search">Cerca su Youtube</string>
     <string name="title_genius_store_search">Cerca nel Play Store</string>
-    <string name="title_genius_recent">Applicazioni recenti</string>
-    <string name="title_genius_no_recent">Nessuna applicazione recente</string>
-    <string name="title_genius_kill_all">Chiudi tutte</string>
+    <string name="title_genius_wiki_search">Cerca su Wikipedia</string>
+    <string name="title_genius_widgets">Widgets</string>
+    <string name="title_genius_weather">Meteo Inspire</string>
+    <string name="title_genius_enable_weather">Widget meteo</string>
+    <string name="title_genius_clock_date">Mostra data e ora</string>
 
     <string name="settings_cling_usage">Tocca il bottone menu o effettua uno swipe verso destra per accedere alle categorie del settings</string>
     <string name="geniusbar_cling_usage">Ricerca rapida per Applicazioni installate o Contatti, video su YouTube, indirizzo su Google Maps o App sullo Store e molto altro!</string>
@@ -273,6 +279,7 @@
     <!-- Genius toggles style -->
     <string name="title_genius_toggles_default">Default</string>
     <string name="title_genius_toggles_clean">Clean</string>
+    <string name="title_genius_toggles_minimal">Minimal</string>
 
     <!-- IntelliUI -->
     <string name="intelliui_title">IntelliUI</string>
@@ -335,6 +342,16 @@
     <string name="title_friday">Venerdì</string>
     <string name="title_saturday">Sabato</string>
     <string name="title_sunday">Domenica</string>
+
+    <!-- Addons -->
+    <string name="title_addons_title">Addons</string>
+    <string name="title_addons_category_mods">Mods</string>
+    <string name="title_addons_mios">miOs</string> <!-- DO NOT TRANSLATE -->
+    <string name="title_addons_spectrum">Spectrum</string> <!-- DO NOT TRANSLATE -->
+
+    <string name="title_addons_applying">Attendi perfavore…</string>
+
+    <string name="title_mios_dialog">Abilitando questo add-on tutte le tue applicazioni verranno spostate sul desktop e l\’application drawer verrà nascosto proprio come il launcher di iOS/MIUI. Abbiamo la possibilita di muovere tutte le applicazione nella home screen, ma purtroppo, non abbiamo la possibilita di rimuoverle. Qualora voleste in futuro disabilitare questo add-on sarete costretti a rimuovere le varie shortcut una per una. Siete avvisati! :)</string>
 
     <!-- About -->
     <string name="about_title">About</string>
