@@ -315,7 +315,7 @@
     <string name="interaction_no_weather">Attiva il GPS e completa la configurazione per ricevere info sul meteo.</string>
 
     <!-- Drawer Panel -->
-    <string name="title_drawer_sidepanel">Side panel</string>
+    <string name="title_drawer_sidepanel">Pannello laterale</string>
     <string name="title_add_categories">Aggiungi categoria</string>
     <string name="title_manage_apps">Modifica applicazioni</string>
     <string name="title_delete_category">Cancella categoria</string>
@@ -349,7 +349,7 @@
     <string name="title_addons_mios">miOs</string> <!-- DO NOT TRANSLATE -->
     <string name="title_addons_spectrum">Spectrum</string> <!-- DO NOT TRANSLATE -->
 
-    <string name="title_addons_applying">Attendi perfavore…</string>
+    <string name="title_addons_applying">Attendi per favore…</string>
 
     <string name="title_mios_dialog">Abilitando questo add-on tutte le tue applicazioni verranno spostate sul desktop e l\’application drawer verrà nascosto proprio come il launcher di iOS/MIUI. Abbiamo la possibilita di muovere tutte le applicazione nella home screen, ma purtroppo, non abbiamo la possibilita di rimuoverle. Qualora voleste in futuro disabilitare questo add-on sarete costretti a rimuovere le varie shortcut una per una. Siete avvisati! :)</string>
 
