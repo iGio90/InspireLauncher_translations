@@ -261,7 +261,7 @@
     <string name="title_genius_youtube">YouTube</string>
     <string name="title_genius_store">Play Store</string>
     <string name="title_genius_websearch">Cerca su Google</string>
-    <string name="title_genius_google_images">Cerca su Google images</string>
+    <string name="title_genius_google_images">Cerca su Google Immagini</string>
     <string name="title_genius_maps_search">Cerca nelle Mappe</string>
     <string name="title_genius_youtube_search">Cerca su Youtube</string>
     <string name="title_genius_store_search">Cerca nel Play Store</string>
@@ -354,7 +354,7 @@
     <string name="title_mios_dialog">Abilitando questo add-on tutte le tue applicazioni verranno spostate sul desktop e l\’application drawer verrà nascosto proprio come il launcher di iOS/MIUI. Abbiamo la possibilita di muovere tutte le applicazione nella home screen, ma purtroppo, non abbiamo la possibilita di rimuoverle. Qualora voleste in futuro disabilitare questo add-on sarete costretti a rimuovere le varie shortcut una per una. Siete avvisati! :)</string>
 
     <!-- About -->
-    <string name="about_title">About</string>
+    <string name="about_title">Info</string>
     <string name="title_inspire_wallpapers">Wallpapers Inspire</string>
     <string name="title_developed">Sviluppato da iGio90</string>
     <string name="title_graphics">Design di Bliss91</string>
