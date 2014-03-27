@@ -268,9 +268,11 @@
     <string name="title_genius_maps_search">Buscar no maps</string>
     <string name="title_genius_youtube_search">Buscar no Youtube</string>
     <string name="title_genius_store_search">Buscar na Play Store</string>
+    <string name="title_genius_wiki_search">Buscar na Wikipedia</string>
     <string name="title_genius_widgets">Widgets</string>
     <string name="title_genius_weather">Tempo Inspire</string>
     <string name="title_genius_enable_weather">Widget de tempo</string>
+    <string name="title_genius_clock_date">Mostrar relógio e data</string>
 
     <string name="settings_cling_usage">Toque no botão de menu ou deslize à direita para acessar categorias de configurações</string>
     <string name="geniusbar_cling_usage">Procurar rapidamente aplicativos ou contatos em seu dispositivo, um vídeo no youtube, um endereço, um aplicativo na loja e muito mais!</string>
@@ -343,6 +345,17 @@
     <string name="title_friday">Sexta</string>
     <string name="title_saturday">Sábado</string>
     <string name="title_sunday">Domingo</string>
+    
+    +    <!-- Addons -->
+ +    <string name="title_addons_title">Addons</string>
+ +    <string name="title_addons_category_mods">Mods</string>
+ +    <string name="title_addons_mios">miOs</string> <!-- DO NOT TRANSLATE -->
+ +    <string name="title_addons_spectrum">Spectrum</string> <!-- DO NOT TRANSLATE -->
+ +
+ +    <string name="title_addons_applying">Aguarde…</string>
+ +
+ +    <string name="title_mios_dialog">Ao permitir Mios addon todos os aplicativos serão movidos para a área de trabalho e o painel de appdrawer será invisível como no iOS / MIUI Launcher. Nós somos capazes de mover todos os aplicativos para seu ambiente de trabalho, no entanto, nós não somos capazes de removê-los. Então, se você nunca vai voltar para o estock Launcher, você terá que remover manualmente todos os atalhos de aplicativos na área de trabalho. Você foi avisado :)</string>
+ +
 
     <!-- About -->
     <string name="about_title">Sobre</string>
