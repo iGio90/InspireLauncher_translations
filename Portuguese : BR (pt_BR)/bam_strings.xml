@@ -31,7 +31,7 @@
     <string name="title_folder">Pastas</string>
     <string name="title_animations">Animações</string>
     <string name="title_changelog">Changelogs</string>
-    <string name="title_bug_report">Relatório de BUG's</string>
+    <string name="title_bug_report">Relatório de BUG\’s</string>
 
     <!-- Prime -->
     <string name="title_purchase_prime">Toque aqui para comprar e desbloquear recursos Prime</string>
