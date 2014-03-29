@@ -1,195 +1,195 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="take_me_there">Take me there</string>
-    <string name="sure">Are you sure?</string>
-    <string name="configurations_reset">Do you want to reset the configurations?</string>
-    <string name="configurations_backup">Do you want to backup the configurations?</string>
-    <string name="choose_wallpaper">Choose a wallpaper</string>
-    <string name="choose_dock_bg">Choose a dock background</string>
-    <string name="choose_image">Image</string>
-    <string name="choose_color">Color</string>
-    <string name="edit_drop_target">Edit</string>
-    <string name="dialog_pick_iconpack_title">Select an icon pack</string>
-    <string name="dialog_pick_icon_title">Select an icon</string>
-    <string name="loading">Loading</string>
-    <string name="loading_icons">Fetching icons</string>
-    <string name="title_warning">Warning</string>
-    <string name="title_translucent_compatibility">Transparent statusbar is compatible only with Samsung or Sony stock ROM and it\'s not working at 100% on every device/rom</string>
-    <string name="loading_apps">Loading app list... please wait!</string>
+    <string name="take_me_there">Đưa tôi tới đó</string>
+    <string name="sure">Bạn chắc chứ?</string>
+    <string name="configurations_reset">Bạn có muốn thiết lập lại cấu hình?</string>
+    <string name="configurations_backup">Bạn muốn sao lưu các cấu hình?</string>
+    <string name="choose_wallpaper">Chọn một hình nền</string>
+    <string name="choose_dock_bg">Chọn một hình nền dock</string>
+    <string name="choose_image">Hình ảnh</string>
+    <string name="choose_color">Màu</string>
+    <string name="edit_drop_target">Chỉnh sửa</string>
+    <string name="dialog_pick_iconpack_title">Chọn một gói biểu tượng</string>
+    <string name="dialog_pick_icon_title">Chọn một biểu tượng</string>
+    <string name="loading">Tải</string>
+    <string name="loading_icons">Đang lấy biểu tượng</string>
+    <string name="title_warning">Cảnh báo</string>
+    <string name="title_translucent_compatibility">Trong suốt trạng thái chỉ tương thích với Samsung hay Sony chứng khoán ROM và nó không làm việc 100% trên tất cả các thiết bị/rom</string>
+    <string name="loading_apps">Đang tải danh sách ứng dụng ... vui lòng chờ!</string>
     <string name="title_play_store">Play Store</string>
-    <string name="title_hint_appsearch">Search applications</string>
+    <string name="title_hint_appsearch">Tìm kiếm ứng dụng</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
+    <string name="settings_title">Cài đặt Inspire</string>
     <string name="title_prime">Inspire launcher prime</string>
-    <string name="title_ui">User interface</string>
-    <string name="title_general_settings">General</string>
-    <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
+    <string name="title_ui">Giao diện người dùng</string>
+    <string name="title_general_settings">Chung</string>
+    <string name="title_homescreen_settings">Màn hình</string>
+    <string name="title_drawer_settings">Ngăn kéo ứng dụng</string>
     <string name="title_dock">Dock</string>
-    <string name="title_folder">Folders</string>
-    <string name="title_animations">Animations</string>
+    <string name="title_folder">Thư mục</string>
+    <string name="title_animations">Hoạt ảnh</string>
     <string name="title_changelog">Changelogs</string>
-    <string name="title_bug_report">BUG report</string>
+    <string name="title_bug_report">Báo cáo LỖI</string>
 
     <!-- Prime -->
-    <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
-    <string name="title_prime_feature">Prime feature</string>
-    <string name="title_prime_feature_message">This feature is available only in Inspire Launcher prime!</string>
+    <string name="title_purchase_prime">Nhấn vào đây để mua và mở khóa tính năng Prime</string>
+    <string name="title_prime_feature">Tính năng Prime</string>
+    <string name="title_prime_feature_message">Tính năng này chỉ có trong Inspire Launcher Prime!</string>
 
     <!-- General -->
-    <string name="title_fullscreen">Full screen</string>
-    <string name="title_translucent">Translucent statusbar</string>
-    <string name="title_orientation">Auto rotate screen</string>
+    <string name="title_fullscreen">Toàn màn hình</string>
+    <string name="title_translucent">Trong suốt thanh trạng thái</string>
+    <string name="title_orientation">Tự động xoay màn hình</string>
 
     <!-- Homescreen -->
-    <string name="title_background">Background</string>
-    <string name="title_homescreen_thin_search_bar">Thin search bar</string>
-    <string name="title_homescreen_resize_widgets">Resize any widgets</string>
-    <string name="title_homescreen_auto_shortcut">New app shortcut</string>
-    <string name="title_homescreen_transition_settings">Scroll Effect</string>
-    <string name="title_homescreen_padding">Padding</string>
-    <string name="title_homescreen_gridsize">Grid size</string>
-    <string name="title_homescreen_page_indicator">Page indicator</string>
-    <string name="title_homescreen_bounce_loop">Infinite bounce scroll</string>
+    <string name="title_background">Nền</string>
+    <string name="title_homescreen_thin_search_bar">Thanh tìm kiếm nhỏ</string>
+    <string name="title_homescreen_resize_widgets">Thay đổi kích thước bất kỳ widget</string>
+    <string name="title_homescreen_auto_shortcut">Phím tắt ứng dụng mới</string>
+    <string name="title_homescreen_transition_settings">Hiệu ứng trượt</string>
+    <string name="title_homescreen_padding">Đệm</string>
+    <string name="title_homescreen_gridsize">Kích thước lưới</string>
+    <string name="title_homescreen_page_indicator">Chỉ số trang</string>
+    <string name="title_homescreen_bounce_loop">Vô hạn cuộn</string>
 
     <!-- Drawer -->
-    <string name="title_drawer_save_page">Save last page</string>
-    <string name="title_drawer_disable_apps">Hide applications</string>
-    <string name="title_drawer_protect_apps">Protect applications</string>
-    <string name="title_drawer_transition_settings">Scroll Effect</string>
-    <string name="title_drawer_sorting">Sort applications</string>
-    <string name="title_drawer_show_text">Hide text</string>
-    <string name="title_drawer_text_color">Text color</string>
-    <string name="title_drawer_text_size">Text size</string>
-    <string name="title_drawer_manage_password">Manage password</string>
-    <string name="title_drawer_insert_new_password">Create a new password</string>
-    <string name="title_drawer_insert_password">Insert password</string>
-    <string name="title_drawer_insert_password_wrong">Wrong password</string>
-    <string name="title_drawer_working">Working</string>
-    <string name="title_drawer_apps_disabling">Hiding application...</string>
-    <string name="title_drawer_show_allapps">Show drawer icon</string>
-    <string name="title_drawer_allapps_style">Drawer icon style</string>
+    <string name="title_drawer_save_page">Lưu trang mới nhất</string>
+    <string name="title_drawer_disable_apps">Ẩn các ứng dụng</string>
+    <string name="title_drawer_protect_apps">Bảo vệ các ứng dụng</string>
+    <string name="title_drawer_transition_settings">Hiệu ứng trượt</string>
+    <string name="title_drawer_sorting">Sắp xếp các ứng dụng</string>
+    <string name="title_drawer_show_text">Ẩn văn bản</string>
+    <string name="title_drawer_text_color">Màu chữ</string>
+    <string name="title_drawer_text_size">Cỡ chữ</string>
+    <string name="title_drawer_manage_password">Quản lý mật khẩu</string>
+    <string name="title_drawer_insert_new_password">Tạo ra một mật khẩu mới</string>
+    <string name="title_drawer_insert_password">Chèn mật khẩu</string>
+    <string name="title_drawer_insert_password_wrong">Sai mật khẩu</string>
+    <string name="title_drawer_working">Hoạt động</string>
+    <string name="title_drawer_apps_disabling">Ẩn ứng dụng ...</string>
+    <string name="title_drawer_show_allapps">Hiện biểu tượng ứng dụng trên ngăn kéo</string>
+    <string name="title_drawer_allapps_style">Kiểu biểu tượng ngăn kéo</string>
 
     <!-- Text size -->
-    <string name="title_text_size_stock">Stock</string>
-    <string name="title_text_size_extra_small">Extra small</string>
-    <string name="title_text_size_small">Small</string>
-    <string name="title_text_size_medium">Medium</string>
-    <string name="title_text_size_large">Large</string>
-    <string name="title_text_size_extra_large">Extra large</string>
+    <string name="title_text_size_stock">Mặc định</string>
+    <string name="title_text_size_extra_small">Rất nhỏ</string>
+    <string name="title_text_size_small">Nhỏ</string>
+    <string name="title_text_size_medium">Vừa</string>
+    <string name="title_text_size_large">Lớn</string>
+    <string name="title_text_size_extra_large">Rất lớn</string>
 
     <!-- Animations -->
-    <string name="title_animations_launch">App launch</string>
-    <string name="title_animations_close">App close</string>
+    <string name="title_animations_launch">Mở ứng dụng</string>
+    <string name="title_animations_close">Đóng ứng dụng</string>
 
     <!-- Dock -->
-    <string name="title_dock_show">Show dock</string>
-    <string name="title_dock_icons_count">Icons count</string>
+    <string name="title_dock_show">Hiện dock</string>
+    <string name="title_dock_icons_count">Số lượng biểu tượng</string>
     
     <!-- Dock style -->
-    <string name="title_dock_transparent">Glass</string>
-    <string name="title_dock_wood">Wood</string>
-    <string name="title_dock_steel">Steel</string>
-    <string name="title_dock_black">Black</string>
+    <string name="title_dock_transparent">Gương</string>
+    <string name="title_dock_wood">Gỗ</string>
+    <string name="title_dock_steel">Thép</string>
+    <string name="title_dock_black">Đem</string>
     <string name="title_dock_neon">Neon</string>
-    <string name="title_dock_stone_white">White stone</string>
-    <string name="title_dock_stone_black">Black stone</string>
+    <string name="title_dock_stone_white">Đá trắng</string>
+    <string name="title_dock_stone_black">Đá đen</string>
 
     <!-- AllApps style -->
-    <string name="title_allapps_brick">Brick</string>
-    <string name="title_allapps_closet">Closet</string>
-    <string name="title_allapps_house">House</string>
-    <string name="title_allapps_solid_circle">Solid Circle</string>
-    <string name="title_allapps_dots">Dots</string>
+    <string name="title_allapps_brick">Gạch</string>
+    <string name="title_allapps_closet">Tủ quần áo</string>
+    <string name="title_allapps_house">Nhà</string>
+    <string name="title_allapps_solid_circle">Vòng tròn vững chắc</string>
+    <string name="title_allapps_dots">Chấm</string>
     <string name="title_allapps_inspire">Inspire</string>
     <string name="title_allapps_sense">Sense</string>
 
     <!-- Folders -->
-    <string name="title_folder_style">Folder icon style</string>
-    <string name="title_folder_title_color">Title text color</string>
-    <string name="title_folder_items_color">Items text color</string>
+    <string name="title_folder_style">Kiểu biểu tượng thư mục</string>
+    <string name="title_folder_title_color">Màu chữ tiêu đề</string>
+    <string name="title_folder_items_color">Màu mục văn bản</string>
 
     <!-- Folders icon style -->
-    <string name="title_folder_hologram">Hologram</string>
-    <string name="title_folder_circle_black">Circle black</string>
-    <string name="title_folder_ring">Ring</string>
+    <string name="title_folder_hologram">Ba chiều</string>
+    <string name="title_folder_circle_black">Vòng tròn màu đen</string>
+    <string name="title_folder_ring">Vòng</string>
     <string name="title_folder_inspire">Inspire</string>
-    <string name="title_folder_none">None</string>
+    <string name="title_folder_none">Không</string>
 
     <!-- Icons and themes -->
-    <string name="title_icons">Themes</string>
-    <string name="title_inspire_themer">Inspire themes</string>
-    <string name="title_stock_inspire_theme">Default theme</string>
-    <string name="title_inspire_themer_download">There isn\'t any Inspire theme in your collection. Please, get some first!</string>
-    <string name="title_icons_pack">Icons theme</string>
-    <string name="title_icons_stock_icon_pack">Default icons</string>
-    <string name="title_icons_size">Icons size</string>
-    <string name="title_icons_size_unified">Link homescreen and dock icons size</string>
-    <string name="title_icons_folders_size">Folders size</string>
-    <string name="title_inspire_colors">Inspire colors</string>
-    <string name="title_pageindicator_style">Page indicator style</string>
-    <string name="title_genius_toggles_style">Genius toggles style</string>
+    <string name="title_icons">Chủ đề</string>
+    <string name="title_inspire_themer">Chủ đề Inspire</string>
+    <string name="title_stock_inspire_theme">Chủ đề mặc định</string>
+    <string name="title_inspire_themer_download">Không có bất kỳ chủ đề Inspire trong bộ sưu tập của bạn. Xin vui lòng, lấy một số chủ đề đầu tiên!</string>
+    <string name="title_icons_pack">Gói biểu tượng chủ đề</string>
+    <string name="title_icons_stock_icon_pack">Biểu tượng mặc định</string>
+    <string name="title_icons_size">Kích thước biểu tượng</string>
+    <string name="title_icons_size_unified">Liên kết homescreen và kích thước biểu tượng dock</string>
+    <string name="title_icons_folders_size">Kích thước thư mục</string>
+    <string name="title_inspire_colors">Màu sắc Inspire</string>
+    <string name="title_pageindicator_style">Kiểu chỉ số trang</string>
+    <string name="title_genius_toggles_style">Kiểu genius toggles</string>
 
     <!-- Page indicators -->
-    <string name="title_pageindicator_squared">Squared</string>
-    <string name="title_pageindicator_line">Line</string>
+    <string name="title_pageindicator_squared">Vuông</string>
+    <string name="title_pageindicator_line">Dòng</string>
 
     <!-- Gestures -->
-    <string name="title_gestures_title">Gestures</string>
-    <string name="title_gestures_double_tap_title">Double tap</string>
-    <string name="title_gestures_swipe_up_title">Swipe up</string>
-    <string name="title_gestures_swipe_down_title">Swipe down</string>
-    <string name="title_gestures_pinch_in_title">Pinch in</string>
-    <string name="title_gestures_pinch_out_title">Pinch out</string>
-    <string name="title_gestures_pinch_in_3_title">3 finger pinch in</string>
-    <string name="title_gestures_pinch_out_3_title">3 finger pinch out</string>
-    <string name="title_gestures_pinch_in_4_title">4 finger pinch in</string>
-    <string name="title_gestures_pinch_out_4_title">4 finger pinch out</string>
-    <string name="title_gestures_pinch_in_5_title">5 finger pinch in</string>
-    <string name="title_gestures_pinch_out_5_title">5 finger pinch out</string>
-    <string name="title_gestures_no_action">No action</string>
-    <string name="title_gestures_open_drawer">Open drawer</string>
-    <string name="title_gestures_preferences">Inspire settings</string>
-    <string name="title_gestures_launch_application">Launch application</string>
-    <string name="title_gestures_settings">System settings</string>
-    <string name="title_gestures_expand_collapse_statusbar">Expand statusbar</string>
-    <string name="title_gestures_show_recent">Recent apps panel</string>
-    <string name="title_gestures_overview_panel">Overview panel</string>
+    <string name="title_gestures_title">Cử chỉ</string>
+    <string name="title_gestures_double_tap_title">Nhấp đúp</string>
+    <string name="title_gestures_swipe_up_title">Trượt lên</string>
+    <string name="title_gestures_swipe_down_title">Trượt xuống</string>
+    <string name="title_gestures_pinch_in_title">Ghim trong</string>
+    <string name="title_gestures_pinch_out_title">Ghim ngoài</string>
+    <string name="title_gestures_pinch_in_3_title">3 ngón tay ghum trong</string>
+    <string name="title_gestures_pinch_out_3_title">3 ngón tay ghim ngoài</string>
+    <string name="title_gestures_pinch_in_4_title">4 ngón tay ghim trong</string>
+    <string name="title_gestures_pinch_out_4_title">4 ngón tay ghim ngoài</string>
+    <string name="title_gestures_pinch_in_5_title">5 ngón tay ghim trong</string>
+    <string name="title_gestures_pinch_out_5_title">5 ngón tay ghim ngoài</string>
+    <string name="title_gestures_no_action">Không hành động</string>
+    <string name="title_gestures_open_drawer">Mở ngăn kéo</string>
+    <string name="title_gestures_preferences">Cài đặt Inspire</string>
+    <string name="title_gestures_launch_application">Mở ứng dụng</string>
+    <string name="title_gestures_settings">Cài đặt hệ thống</string>
+    <string name="title_gestures_expand_collapse_statusbar">Mở rộng thanh trạng thái</string>
+    <string name="title_gestures_show_recent">Bảng điều khiển các ứng dụng gần đây</string>
+    <string name="title_gestures_overview_panel">Bảng tổng quan</string>
 
     <!-- Advanced -->
-    <string name="title_advanced">Advanced</string>
-    <string name="title_advanced_default_launcher">Default launcher</string>
-    <string name="title_advanced_reset">Reset configurations</string>
-    <string name="title_advanced_backup">Backup configurations</string>
-    <string name="title_advanced_restore">Restore configurations</string>
+    <string name="title_advanced">Nâng cao</string>
+    <string name="title_advanced_default_launcher">Launcher mặc định</string>
+    <string name="title_advanced_reset">Đặt lại cài đặt</string>
+    <string name="title_advanced_backup">Sao lưu cài đặt</string>
+    <string name="title_advanced_restore">Phục hồi cài đặt</string>
 
     <!-- Headers -->
-    <string name="title_header_transition">Select a scroll effect</string>
-    <string name="title_header_sorting">Choose a sorting method</string>
-    <string name="title_header_padding">Slide the bars to increase or decrease the homescreen padding</string>
-    <string name="title_header_vertical_padding">Vertical padding</string>
-    <string name="title_header_horizontal_padding">Horizontal padding</string>
-    <string name="title_header_disable_apps">Check the applications you want to hide</string>
-    <string name="title_header_protect_apps">Check the applications you want to protect</string>
-    <string name="title_header_dock_count">Choose how many icons to show in the dock</string>
-    <string name="title_header_icons_pack_select">Select an icons pack</string>
-    <string name="title_header_themer_select">Select an inspire theme</string>
-    <string name="title_header_icons_size">Slide the bar to increase or decrease the icons size</string>
-    <string name="title_header_icons_folder_size">Slide the bar to increase or decrease the folders size</string>
-    <string name="title_header_homescreen_gridsize">Setup the size of the grid with custom rows and columns</string>
-    <string name="title_header_homescreen_gridsize_linked">Setup the size of the grid with custom rows and columns. The minimum number of columns is linked with the dock items count!</string>
-    <string name="title_header_intelliui_configure">Configure intelliUI</string>
-    <string name="title_header_animations">Select an animation</string>
-    <string name="title_header_gestures">Select a gesture</string>
-    <string name="title_header_app">Select an application</string>
-    <string name="title_header_text_size">Select the text size</string>
-    <string name="title_header_allapps_style">Select a style for the drawer icon</string>
-    <string name="title_header_folder_style">Select a style for the folder icon</string>
-    <string name="title_header_pageindicator_style">Select a style for the page indicator</string>
-    <string name="title_header_geniustoggles_style">Select a style for the Genius toggles</string>
-    <string name="title_header_genius_widgets">Configure genius widgets</string>
+    <string name="title_header_transition">Chọn hiệu ứng cuộn</string>
+    <string name="title_header_sorting">Chọn một phương pháp phân loại</string>
+    <string name="title_header_padding">Trượt thanh để tăng hoặc giảm đệm homescreen</string>
+    <string name="title_header_vertical_padding">Đệm dọc</string>
+    <string name="title_header_horizontal_padding">Đệm ngang</string>
+    <string name="title_header_disable_apps">Kiểm tra các ứng dụng mà bạn muốn ẩn</string>
+    <string name="title_header_protect_apps">Kiểm tra các ứng dụng mà bạn muốn bảo vệ</string>
+    <string name="title_header_dock_count">Chọn bao nhiêu biểu tượng để hiển thị trong dock</string>
+    <string name="title_header_icons_pack_select">Chọn một gói các biểu tượng</string>
+    <string name="title_header_themer_select">Chọn một chủ đề Inspire</string>
+    <string name="title_header_icons_size">Trượt thanh để tăng hoặc giảm kích thước các biểu tượng</string>
+    <string name="title_header_icons_folder_size">Trượt thanh để tăng hoặc giảm kích thước thư mục</string>
+    <string name="title_header_homescreen_gridsize">Thiết lập kích thước của lưới điện với các hàng và các cột tùy chỉnh</string>
+    <string name="title_header_homescreen_gridsize_linked">Thiết lập kích thước của lưới điện với các hàng và các cột tùy chỉnh. Số lượng tối thiểu của các cột được liên kết với các mục bến tàu đếm!</string>
+    <string name="title_header_intelliui_configure">cấu hình intelliUI</string>
+    <string name="title_header_animations">Chọn một hoạt ảnh</string>
+    <string name="title_header_gestures">Chọn một cử chỉ</string>
+    <string name="title_header_app">Chọn một ứng dụng</string>
+    <string name="title_header_text_size">Chọn kích thước văn bản</string>
+    <string name="title_header_allapps_style">Chọn một phong cách cho biểu tượng ngăn kéo</string>
+    <string name="title_header_folder_style">Chọn một phong cách cho biểu tượng thư mục</string>
+    <string name="title_header_pageindicator_style">Chọn một phong cách cho chỉ số trang</string>
+    <string name="title_header_geniustoggles_style">Chọn một phong cách cho Toggles Genius</string>
+    <string name="title_header_genius_widgets">Cấu hình các genius widget</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -229,126 +229,126 @@
     <string name="color_opacity">Opacity</string>
 
     <!-- Animations -->
-    <string name="animations_none">None</string>
-    <string name="animations_fade">Fade</string>
-    <string name="animations_push_down">Push down</string>
-    <string name="animations_push_left">Push left</string>
-    <string name="animations_push_right">Push right</string>
-    <string name="animations_push_up">Push up</string>
+    <string name="animations_none">Không</string>
+    <string name="animations_fade">Mờ dần</string>
+    <string name="animations_push_down">Đẩy xuống</string>
+    <string name="animations_push_left">Đẩy qua trái</string>
+    <string name="animations_push_right">Đẩy qua phải</string>
+    <string name="animations_push_up">Đẩy lên</string>
 
     <string name="title_empty"></string>
 
-    <string name="new_iconpack_notification_title">New icon pack installed</string>
-    <string name="new_iconpack_notification_message">A new icon pack was detected and can be applied to the launcher</string>
-    <string name="new_iconpack_notification_apply_action_title">Apply icon pack</string>
-    <string name="new_inspiretheme_notification_title">New inspire theme installed</string>
-    <string name="new_inspiretheme_notification_message">A new inspire theme was detected and can be applied to the launcher</string>
-    <string name="new_inspiretheme_notification_apply_action_title">Apply theme</string>
+    <string name="new_iconpack_notification_title">Gói biểu tượng mới được cài đặt</string>
+    <string name="new_iconpack_notification_message">Một gói biểu tượng mới đã được phát hiện và có thể được áp dụng cho các phóng</string>
+    <string name="new_iconpack_notification_apply_action_title">Áp dụng các gói icon</string>
+    <string name="new_inspiretheme_notification_title">Chủ đề inspire mới đã được cài đặt</string>
+    <string name="new_inspiretheme_notification_message">Một chủ đề inspire mới đã được phát hiện và có thể được áp dụng cho Launcher</string>
+    <string name="new_inspiretheme_notification_apply_action_title">Áp dụng chủ đề</string>
 
-    <string name="title_rows">Rows</string>
-    <string name="title_cols">Columns</string>
+    <string name="title_rows">Hàng</string>
+    <string name="title_cols">Cột</string>
 
     <!-- Genius Center -->
     <string name="title_genius">Genius</string>
     <string name="title_genius_page">Genius center</string>
     <string name="title_genius_google_now">Google now</string>
     <string name="title_genius_bar">Genius Bar</string>
-    <string name="title_genius_bar_hint">Search something...</string>
-    <string name="title_genius_keyboard">Show keyboard</string>
+    <string name="title_genius_bar_hint">Tìm kiếm một cái gì đó...</string>
+    <string name="title_genius_keyboard">Hiển thị bàn phím</string>
     <string name="title_genius_toggles">Quick toggles</string>
-    <string name="title_genius_loading">Loading...</string>
-    <string name="title_genius_apps">Applications</string>
-    <string name="title_genius_contacts">Contacts</string>
-    <string name="title_genius_music">Music</string>
-    <string name="title_genius_maps">Maps</string>
+    <string name="title_genius_loading">Đang tải...</string>
+    <string name="title_genius_apps">Ứng dụng</string>
+    <string name="title_genius_contacts">Liên hệ</string>
+    <string name="title_genius_music">Nhạc</string>
+    <string name="title_genius_maps">Bản đồ</string>
     <string name="title_genius_youtube">YouTube</string>
     <string name="title_genius_store">Play Store</string>
-    <string name="title_genius_websearch">Search on Google</string>
-    <string name="title_genius_google_images">Search on Google images</string>
-    <string name="title_genius_maps_search">Search on Maps</string>
-    <string name="title_genius_youtube_search">Search on Youtube</string>
-    <string name="title_genius_store_search">Search on Play Store</string>
+    <string name="title_genius_websearch">Tìm kiếm trên Google</string>
+    <string name="title_genius_google_images">Tìm kiếm trên Google Images</string>
+    <string name="title_genius_maps_search">Tìm kiếm trên Bản đồ</string>
+    <string name="title_genius_youtube_search">Tìm kiếm trên Youtube</string>
+    <string name="title_genius_store_search">Tìm kiếm trên Play Store</string>
     <string name="title_genius_widgets">Widgets</string>
-    <string name="title_genius_weather">Inspire weather</string>
-    <string name="title_genius_enable_weather">Weather widget</string>
+    <string name="title_genius_weather">Thời tiết Inspire</string>
+    <string name="title_genius_enable_weather">Widget thời tiết</string>
 
-    <string name="settings_cling_usage">Tap the menu button or swipe on the right to access settings categories</string>
-    <string name="geniusbar_cling_usage">Quickly search for applications or contacts in your device, a video on youtube, an address, an application in the store and much more!</string>
-    <string name="intelliui_background_cling">IntelliUI will change your background with different flat colors based on the phases of the day</string>
-    <string name="intelliui_goodmorning_cling">IntelliUI will send you a goodmorning notification with some informations customizable in the configuration</string>
+    <string name="settings_cling_usage">Bấm vào nút menu hoặc trượt bên phải để truy cập các thiết lập danh mục</string>
+    <string name="geniusbar_cling_usage">Tìm kiếm nhanh các ứng dụng hay địa chỉ liên lạc trong điện thoại, một đoạn video trên youtube, một địa chỉ, một ứng dụng trong các cửa hàng và nhiều hơn nữa!</string>
+    <string name="intelliui_background_cling">IntelliUI sẽ thay đổi nền của bạn với màu sắc căn hộ khác nhau dựa trên các giai đoạn trong ngày</string>
+    <string name="intelliui_goodmorning_cling">IntelliUI sẽ gửi cho bạn một thông báo chào buổi sáng với một số thông tin tùy chỉnh trong cấu hình</string>
 
     <!-- Genius toggles style -->
-    <string name="title_genius_toggles_default">Default</string>
+    <string name="title_genius_toggles_default">Mặc định</string>
     <string name="title_genius_toggles_clean">Clean</string>
     <string name="title_genius_toggles_minimal">Minimal</string>
 
     <!-- IntelliUI -->
     <string name="intelliui_title">IntelliUI</string>
-    <string name="intelliui_configure">Configure</string>
-    <string name="intelliui_configure_msg">Good morning require configurations!</string>
-    <string name="intelliui_name">How should i call you?</string>
-    <string name="intelliui_name_hint">Enter your name</string>
-    <string name="intelliui_age">When were you born?</string>
+    <string name="intelliui_configure">Cấu hình</string>
+    <string name="intelliui_configure_msg">Chào buổi sáng đòi hỏi cấu hình!</string>
+    <string name="intelliui_name">Tôi nên gọi bạn như thế nào?</string>
+    <string name="intelliui_name_hint">Gõ vào tên của bạn</string>
+    <string name="intelliui_age">Bạn ra đời khi nào?</string>
     <string name="intelliui_month_hint">MM</string>
     <string name="intelliui_day_hint">DD</string>
     <string name="intelliui_year_hint">YYYY</string>
-    <string name="intelliui_weather_info">How should i fetch weather informations?</string>
-    <string name="intelliui_weather_use_gps">Use gps when possible</string>
-    <string name="intelliui_weather_use_fahrenheit">Fahrenheit</string>
+    <string name="intelliui_weather_info">Tôi nên lấy thông tin thời tiết như thế nào?</string>
+    <string name="intelliui_weather_use_gps">Sử dụng gps khi có thể</string>
+    <string name="intelliui_weather_use_fahrenheit">Độ F</string>
     <string name="intelliui_custom_location_hint">\'London, UK\'</string>
-    <string name="intelliui_background">Auto background</string>
-    <string name="intelliui_goodmorning">Good morning!</string>
-    <string name="intelliui_goodmorning_time_picker">When would you like to get the good morning?</string>
+    <string name="intelliui_background">Nền tự động</string>
+    <string name="intelliui_goodmorning">Chào buổi sáng!</string>
+    <string name="intelliui_goodmorning_time_picker">Khi bạn muốn để có được buổi sáng tốt?</string>
 
     <!-- IntelliUI Interactions -->
-    <string name="interactions_goodmorning">Good morning</string>
-    <string name="interactions_today">Today is</string>
-    <string name="interaction_temperature">The outside temperature is</string>
-    <string name="interaction_sunny">and it will be a sunny day!</string>
-    <string name="interaction_cloudy">and it will be a cloudy day!</string>
-    <string name="interaction_rain">and it will be a rainy day!</string>
-    <string name="interaction_snow">and it will be a snowy day!</string>
-    <string name="interaction_wind">and it will be a windy day!</string>
-    <string name="interaction_storm">and it will be a strong thunderstorm</string>
-    <string name="interaction_foggy">and it will be a foggy day!</string>
-    <string name="interaction_cold">and it will be a very cold day!</string>
-    <string name="interaction_hot">and it will be a very hot day!</string>
-    <string name="interaction_no_weather">Enable GPS and fill the configurations to get weather informations</string>
+    <string name="interactions_goodmorning">Chào buổi sáng!</string>
+    <string name="interactions_today">Hôm nay là</string>
+    <string name="interaction_temperature">Nhiệt độ bên ngoài là</string>
+    <string name="interaction_sunny">và nó sẽ là một ngày nắng đẹp!</string>
+    <string name="interaction_cloudy">và nó sẽ là một ngày nhiều mây!</string>
+    <string name="interaction_rain">và nó sẽ là một ngày mưa!</string>
+    <string name="interaction_snow">và nó sẽ là một ngày tuyết rơi!</string>
+    <string name="interaction_wind">và nó sẽ là một ngày gió!</string>
+    <string name="interaction_storm">và nó sẽ là một cơn bão mạnh!</string>
+    <string name="interaction_foggy">và nó sẽ là một ngày sương mù!</string>
+    <string name="interaction_cold">và nó sẽ là một ngày rất lạnh!</string>
+    <string name="interaction_hot">và nó sẽ là một ngày rất nóng!</string>
+    <string name="interaction_no_weather">Bật GPS và điền vào các cấu hình để có được thông tin thời tiết</string>
 
     <!-- Drawer Panel -->
-    <string name="title_drawer_sidepanel">Side panel</string>
-    <string name="title_add_categories">Add a category</string>
-    <string name="title_manage_apps">Manage applications</string>
-    <string name="title_delete_category">Delete category</string>
-    <string name="title_show_all_apps">All apps</string>
-    <string name="title_select_icon">Select an icon</string>
-    <string name="title_category_empty">The selected category is empty! Add some apps at first!</string>
+    <string name="title_drawer_sidepanel">bảng điều khiển bên</string>
+    <string name="title_add_categories">Thêm danh mục</string>
+    <string name="title_manage_apps">Quản lý các ứng dụng</string>
+    <string name="title_delete_category">Xóa danh mục</string>
+    <string name="title_show_all_apps">Tất cả các ứng dụng</string>
+    <string name="title_select_icon">Chọn một biểu tượng</string>
+    <string name="title_category_empty">Thể loại được chọn là sản phẩm nào! Thêm một số ứng dụng lần đầu tiên!</string>
 
     <!-- Category icons -->
-    <string name="title_panel_games">Games</string>
-    <string name="title_panel_office">Office</string>
-    <string name="title_panel_social">Social</string>
-    <string name="title_panel_tools">Tools</string>
-    <string name="title_panel_media">Media</string>
+    <string name="title_panel_games">Trò chơi</string>
+    <string name="title_panel_office">Văn phòng</string>
+    <string name="title_panel_social">Xã hội</string>
+    <string name="title_panel_tools">Công cụ</string>
+    <string name="title_panel_media">Đa phương tiện</string>
 
     <!-- Overview Panel -->
-    <string name="title_overview">Overview panel</string>
-    <string name="title_show_date">Show date</string>
-    <string name="title_weekday_color">Week day color</string>
-    <string name="title_date_color">Date color</string>
-    <string name="title_monday">Monday</string>
-    <string name="title_tuesday">Tuesday</string>
-    <string name="title_wednesday">Wednesday</string>
-    <string name="title_thursday">Thursday</string>
-    <string name="title_friday">Friday</string>
-    <string name="title_saturday">Saturday</string>
-    <string name="title_sunday">Sunday</string>
+    <string name="title_overview">Bảng tổng quan</string>
+    <string name="title_show_date">Hiện ngày</string>
+    <string name="title_weekday_color">Màu ngày trong tuần</string>
+    <string name="title_date_color">Màu ngày</string>
+    <string name="title_monday">Thứ hai</string>
+    <string name="title_tuesday">Thứ ba</string>
+    <string name="title_wednesday">Thứ tư</string>
+    <string name="title_thursday">Thứ năm</string>
+    <string name="title_friday">Thứ sáu</string>
+    <string name="title_saturday">Thứ bảy</string>
+    <string name="title_sunday">Chủ nhật</string>
 
     <!-- About -->
-    <string name="about_title">About</string>
-    <string name="title_inspire_wallpapers">Inspire Wallpapers</string>
-    <string name="title_developed">Developed by iGio90</string>
-    <string name="title_graphics">Graphics by Bliss91</string>
-    <string name="title_plus_communtiy">Google+ community</string>
-    <string name="title_git_translations">Translations</string>
+    <string name="about_title">Thông tin</string>
+    <string name="title_inspire_wallpapers">Hình nền Inspire</string>
+    <string name="title_developed">Phát triển bởi iGio90</string>
+    <string name="title_graphics">Đồ họa bởi Bliss91</string>
+    <string name="title_plus_communtiy">Google+ cộng đồng</string>
+    <string name="title_git_translations">Dịch</string>
 </resources>
