@@ -26,10 +26,12 @@
     <string name="title_ui">Interfaccia</string>
     <string name="title_general_settings">Generali</string>
     <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
+    <string name="title_drawer_settings">Drawer delle applicationi</string>
     <string name="title_dock">Dock</string>
     <string name="title_folder">Cartelle</string>
     <string name="title_animations">Animazioni</string>
+    <string name="title_changelog">Changelogs</string>
+    <string name="title_bug_report">Riporta BUG</string>
 
     <!-- Prime -->
     <string name="title_purchase_prime">Clicca qui per sbloccare le funzioni Prime</string>
@@ -114,6 +116,7 @@
     <string name="title_folder_circle_black">Cerchio</string>
     <string name="title_folder_ring">Disco</string>
     <string name="title_folder_inspire">Inspire</string>
+    <string name="title_folder_none">Nessuno</string>
 
     <!-- Icons and themes -->
     <string name="title_icons">Temi</string>
@@ -189,9 +192,9 @@
     <string name="title_header_genius_widgets">Configura i genius widgets</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
-    <string name="select_color">Select a color</string>
-    <string name="select_image">Select an image</string>
-    <string name="opacity">Slide the bar to set the opacity</string>
+    <string name="select_color">Seleziona un colore</string>
+    <string name="select_image">Seleziona un immagine</string>
+    <string name="opacity">Trascina la barra per settare l'opacità</string>
     <string name="color_white_pearl">Pearl white</string>
     <string name="color_alizarin">Alizarin</string>
     <string name="color_pomegranate">Pomegranate</string>
@@ -267,7 +270,7 @@
     <string name="title_genius_store_search">Cerca nel Play Store</string>
     <string name="title_genius_wiki_search">Cerca su Wikipedia</string>
     <string name="title_genius_widgets">Widgets</string>
-    <string name="title_genius_weather">Meteo Inspire</string>
+    <string name="title_genius_weather">Inspire Meteo</string>
     <string name="title_genius_enable_weather">Widget meteo</string>
     <string name="title_genius_clock_date">Mostra data e ora</string>
 
@@ -279,7 +282,7 @@
     <!-- Genius toggles style -->
     <string name="title_genius_toggles_default">Default</string>
     <string name="title_genius_toggles_clean">Clean</string>
-    <string name="title_genius_toggles_minimal">Minimal</string>
+    <string name="title_genius_toggles_minimal">Minimale</string>
 
     <!-- IntelliUI -->
     <string name="intelliui_title">IntelliUI</string>
@@ -294,7 +297,7 @@
     <string name="intelliui_weather_info">Come dovrei raccogliere le info sul meteo?</string>
     <string name="intelliui_weather_use_gps">Usa il GPS quando possibile</string>
     <string name="intelliui_weather_use_fahrenheit">Fahrenheit</string>
-    <string name="intelliui_custom_location_hint">\'London, UK\'</string>
+    <string name="intelliui_custom_location_hint">\'Roma,IT\'</string>
     <string name="intelliui_background">Sfondo automatico</string>
     <string name="intelliui_goodmorning">Buon Giorno!</string>
     <string name="intelliui_goodmorning_time_picker">Quando vorresti ricevere il Buon Giorno?</string>
@@ -331,7 +334,7 @@
     <string name="title_panel_media">Media</string>
 
     <!-- Overview Panel -->
-    <string name="title_overview">Overview panel</string>
+    <string name="title_overview">Pannello panoramico</string>
     <string name="title_show_date">Mostra la data</string>
     <string name="title_weekday_color">Colore giorni della settimana</string>
     <string name="title_date_color">Colore della data</string>
@@ -344,7 +347,7 @@
     <string name="title_sunday">Domenica</string>
 
     <!-- Addons -->
-    <string name="title_addons_title">Addons</string>
+    <string name="title_addons_title">Add-on</string>
     <string name="title_addons_category_mods">Mods</string>
     <string name="title_addons_mios">miOs</string> <!-- DO NOT TRANSLATE -->
     <string name="title_addons_spectrum">Spectrum</string> <!-- DO NOT TRANSLATE -->
