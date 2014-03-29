@@ -46,6 +46,7 @@
     <!-- Homescreen -->
     <string name="title_background">Háttér</string>
     <string name="title_homescreen_thin_search_bar">Vékonyabb keresősáv</string>
+    <string name="title_homescreen_resize_widgets">Bármelyik widget átméretezése</string>
     <string name="title_homescreen_auto_shortcut">Új alkalmazás parancsikonja</string>
     <string name="title_homescreen_transition_settings">Görgetés animációja</string>
     <string name="title_homescreen_padding">Kitöltés</string>
@@ -188,6 +189,7 @@
     <string name="title_header_folder_style">Válaszd ki a mappaikon stílusát</string>
     <string name="title_header_pageindicator_style">Válaszd ki az oldaljelző stílusát</string>
     <string name="title_header_geniustoggles_style">Válaszd ki a Genius gyorskapcsolóinak stílusát</string>
+    <string name="title_header_genius_widgets">Genius widgetek beállításai</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -251,6 +253,7 @@
     <string name="title_genius_page">Genius központ</string>
     <string name="title_genius_google_now">Google Now</string>
     <string name="title_genius_bar">Genius Bar</string>
+    <string name="title_genius_bar_hint">Keress valamit...</string>
     <string name="title_genius_keyboard">Billentyűzet megjelenítése</string>
     <string name="title_genius_toggles">Gyorsbeállítások</string>
     <string name="title_genius_loading">Töltés...</string>
@@ -261,11 +264,15 @@
     <string name="title_genius_youtube">YouTube</string>
     <string name="title_genius_store">Play Áruház</string>
     <string name="title_genius_websearch">Keresés a Google-ön</string>
+    <string name="title_genius_google_images">Keresés a Google Képeken</string>
     <string name="title_genius_maps_search">Keresés a térképen</string>
     <string name="title_genius_youtube_search">Keresés a Youtube-on</string>
     <string name="title_genius_store_search">Keresés a Play Áruházban</string>
-    <string name="title_genius_recent">Legutóbbi alkalmazások</string>
-    <string name="title_genius_no_recent">Nincsenek legutóbbi alkalmazások</string>
+    <string name="title_genius_wiki_search">Keresés a Wikipédián</string>
+    <string name="title_genius_widgets">Widgetek</string>
+    <string name="title_genius_weather">Inspire időjárás</string>
+    <string name="title_genius_enable_weather">Időjárás widget</string>
+    <string name="title_genius_clock_date">Idő és dátum megjelenítése</string>
 
     <string name="settings_cling_usage">Érints meg a menü gombot vagy simíts jobbra a kategóriák beállításainak eléréhez</string>
     <string name="geniusbar_cling_usage">Keress gyorsabban alkalmazásokat vagy kapcsolatokat az eszközödön, videót a YouTube-on, egy címet a Térképen, alkalmazást a Play Áruházban és még sok minden mást!</string>
@@ -275,6 +282,7 @@
     <!-- Genius toggles style -->
     <string name="title_genius_toggles_default">Alapértelmezett</string>
     <string name="title_genius_toggles_clear">Letisztult</string>
+    <string name="title_genius_toggles_minimal">Minimalista</string>
     
     <!-- IntelliUI -->
     <string name="intelliui_title">IntelliUI</string>
@@ -338,6 +346,16 @@
     <string name="title_saturday">Szombat</string>
     <string name="title_sunday">Vasárnap</string>
 
+    <!-- Addons -->
+    <string name="title_addons_title">Beépülők</string>
+    <string name="title_addons_category_mods">Modok</string>
+    <string name="title_addons_mios">miOs</string> <!-- DO NOT TRANSLATE -->
+    <string name="title_addons_spectrum">Spectrum</string> <!-- DO NOT TRANSLATE -->
+    
+    <string name="title_addons_applying">Várj egy kicsit…</string>
+    
+    <string name="title_mios_dialog">A miOs beépülő használatával minden alkalmazás parancsikonja kikerül a kezdőképernyőkre, az alkalmazásindító ikon pedig láthatatlanná válik a dokkban - mint ahogy a MIUI-ban vagy az iOS-ben. Minden alkalmazás ikonját ki tudjuk tenni, de eltávolítani nem lehet őket. Tehát ha bármikor vissza akarsz váltani a telefond alapértelmezett indítójára, kézzel kell eltávolítaniod az összes ikont. Figyelmeztettünk :)</string>
+    
     <!-- About -->
     <string name="about_title">Infó</string>
     <string name="title_inspire_wallpapers">Inspire háttérképek</string>
@@ -345,26 +363,4 @@
     <string name="title_graphics">A grafikát készítette Bliss91</string>
     <string name="title_plus_communtiy">Google+ közösség</string>
     <string name="title_git_translations">Fordítások</string>
-    
-    <!-- Missing code -->
-    <string name="application_copyright">Copyright © 2014 CyanogenMod Projekt</string>
-    <string name="default_iconpack_title">Alapértelmezett ikonok</string>
-    <string name="filter_button_text">Szűrő</string>
-    <string name="icon_packs_title">Ikonszettek</string>
-    <string name="no_iconpacks_summary">Az ikonszett nincs telepítve</string>
-    <string name="preferences_application_title">Alkalmazás</string>
-    <string name="preferences_interface_dock_title">Dokk panel</string>
-    <string name="preferences_interface_drawer_title">Alkalmazások menü</string>
-    <string name="preferences_interface_general_icons_category">Ikon</string>
-    <string name="preferences_interface_general_icons_large_summary">Nagyméretű ikonok használata a főképernyőn és az alkalmazások menüben</string>
-    <string name="preferences_interface_general_icons_large_title">Nagyméretű ikon</string>
-    <string name="preferences_interface_general_icons_text_style_summary">Betűtípus választása az aláírásokhoz</string>
-    <string name="preferences_interface_general_icons_text_style_title">Betűtípus</string>
-    <string name="preferences_interface_general_title">Általános</string>
-    <string name="preferences_interface_homescreen_search_summary">Keresősáv megjelenítése a képernyő tetején</string>
-    <string name="preferences_interface_homescreen_title">Főoldal</string>
-    <string name="preferences_title">Beállítások</string>
-    <string name="transition_effect_button_text">Oldalváltás effektusai</string>
-    <string name="title_genius_hint">Nézz utána valaminek...</string>
-    <string name="title_genius_kill_all">Összes bezárása</string>
 </resources>
