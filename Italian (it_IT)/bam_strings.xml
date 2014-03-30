@@ -156,7 +156,7 @@
     <string name="title_gestures_settings">Impostazioni di sistema</string>
     <string name="title_gestures_expand_collapse_statusbar">Espandi statusbar</string>
     <string name="title_gestures_show_recent">Pannello applicazioni recenti</string>
-    <string name="title_gestures_overview_panel">Pannello overview</string>
+    <string name="title_gestures_overview_panel">Pannello panoramico</string>
 
     <!-- Advanced -->
     <string name="title_advanced">Avanzate</string>
@@ -251,7 +251,7 @@
     <!-- Genius Center -->
     <string name="title_genius">Genius</string>
     <string name="title_genius_page">Genius center</string>
-    <string name="title_genius_google_now">Google now</string>
+    <string name="title_genius_google_now">Google Now</string>
     <string name="title_genius_bar">Genius Bar</string>
     <string name="title_genius_bar_hint">Ricerca qualcosa…</string>
     <string name="title_genius_keyboard">Mostra tastiera</string>
@@ -266,7 +266,7 @@
     <string name="title_genius_websearch">Cerca su Google</string>
     <string name="title_genius_google_images">Cerca su Google Immagini</string>
     <string name="title_genius_maps_search">Cerca nelle Mappe</string>
-    <string name="title_genius_youtube_search">Cerca su Youtube</string>
+    <string name="title_genius_youtube_search">Cerca su YouTube</string>
     <string name="title_genius_store_search">Cerca nel Play Store</string>
     <string name="title_genius_wiki_search">Cerca su Wikipedia</string>
     <string name="title_genius_widgets">Widgets</string>
@@ -281,7 +281,7 @@
 
     <!-- Genius toggles style -->
     <string name="title_genius_toggles_default">Default</string>
-    <string name="title_genius_toggles_clean">Clean</string>
+    <string name="title_genius_toggles_clean">Pulito</string>
     <string name="title_genius_toggles_minimal">Minimale</string>
 
     <!-- IntelliUI -->
