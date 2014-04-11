@@ -1,43 +1,45 @@
-★★ Inspire Launcher is a brand new launcher based on the new KitKat Android Launcher with tons of features and customizations. It combines the major features of the most common Android Launchers with some goodies from iOS and Windows Phone. ★★
+★★ Inspire Launcher, Android KitKat arayüzü ile geliştirilmiş birçok özellik ve kişiselleştirilebilme yeteneğine sahip bir launcherdır. Popüler Android launcherlarda bulunan ve IOS ve Windows Phone'da bulunan birkaç yararlı özelliğin birlikte bulunduğu bir launcherdır.  ★★
 
-★★ This is not NOVA or APEX so don't expect to meet the same features or ask for them!! If you want features already seen in every launcher use them instead of Inspire! ★★
+★★ Bu uygulama NOVA ya da APEX değil o yüzden aynı özellikleri beklemeyin! Bugüne kadar bütün launcherlarda gördüğünüz özellikleri içeren Inspire'ı kullanmak istiyorsanız kullanın. ★★
 
-★★ Inspire Launcher is the most customizable launcher ever created! ★★
+★★ Inspire Launcher bugüne kadar yapılmış en düzenlenebilen bir başlatıcıdır. ★★
 
-★★ Inspire community: https://plus.google.com/u/0/communities/104695304515771826360 ★★
+★★ Inspire topluluğu: https://plus.google.com/u/0/communities/104695304515771826360 ★★
 
-★ FEATURES ★
-* Flat UI and design
-* Homescreen customizations
-* App drawer customizations
-* Custom icons and folders size
-* Dock bar customizations
-* Background with flat colors or custom images (Also for drawer)
-* Custom opacity control
-* Ability to hide applications
-* Scroll effects and animations
-* Text colors
+★ ÖZELLİKLER ★
+* Yatay arayüz ve dizayn
+* Anaekran özelleştirmeleri
+* Uygulama düzenleyicisi özelleştirmeleri 
+* Özel simge ve klasör boyutları
+* Altmenü çubuğu özelleştirmeleri
+* Yatay renkler ve özel resimlerle arkaplan
+* Opaklık kontrolü
+* Uygulamaları gizleyebilme yeteneği
+* Kaydırma efektleri ve animasyonları
+* Yazı renkleri
 * Custom single shortcut icons and rename
-* Gestures
-* Custom dock, appdrawer, icons and folder styles
-* Appdrawer sidepanel for custom appdrawer categories!
-* Genius Page inspired from iOS finder search and Google Now Launcher page!
+* Mimikler
+* Özel altmenü,uygulama düzenleyici,simgeler ve klasör tarzları
+* Uygulama düzenleyicisi kategorisi için düzenleyici yan panosu!
+* Genius Page inspired from iOS finder search and Google Now Launcher sayfası!
 * System toggles and Recent applications in genius page
-* Support for Nova, ADW, Apex and all launchers icons pack and theme!
-* Ability to backup, restore and reset own configurations
-* Included flat clock widget with different styles
-* Included a fresh colored theme called inspire colors that will enable a little colorfull icon pack with a drawer and folder custom icon! 
-* Over 500 free customizations
+* Nova, ADW, Apex ve bütün launcherların simge ve tema paketlerini desteklemektedir!
+* Kendi ayarlarınızı yedekleyebilir, geri yükleyebilir ve sıfırlayabilirsiniz!
+* Farklı tarzlarda yatay saat widgetı içermektedir
+* Canlı renkli temalar ile renkli simge ve klasör paketleri içermektedir.
+* 500'den fazla ücretsiz konfigürasyon
 
 ★ PRIME ★
-* Intelligent UI aka IntelliUI: Automatic change background with great flat colors based on the hour of day
-* Good morning notification with date and weather informations!
-* Password protected applications
-* Genius Bar search through youtube, maps, play store and more!
-* Custom animations on applications launch and close
-* Custom dock background
-* Folders customization
-* Custom folder icon
-* Custom drawer launcher icon
+* Akıllı kullanıcı arayüzü: Günün saatlerine göre otomatik olarak arkaplan renkleri değiştirir.
+* Günaydın bildirimleri!
+* Şifre korumalı uygulamalar
+* Genius Bar aramasını youtube, haritalar, play store ve fazlasında yapabilirsiniz!
+* Uygulamalar başlarken ve kapanırken özel animasyonlar
+* Özel altmenü arkaplanı
+* Klasör özelleştirmeleri
+* Özel klasör simgeleri
+* Özel düzenleyici simgeleri
 
-This launcher is under heavy development and tons of new features will be added on every update!
+Inspire Launcher hala yoğun bir geliştirilme aşamasındadır ve her güncelleme ile bir sürü yeni özellik kazanacaktır. 
+
+Çeviride hatam varsa affola. Barış Özcan
