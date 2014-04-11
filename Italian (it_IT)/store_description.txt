@@ -19,8 +19,8 @@
 * Flat UI e design
 * Ampie personalizzazioni della Homescreen
 * Ampie personalizzazioni dell' Application drawer
-* Dimensioni personalizzate di icone e cartelle
 * Ampie personalizzazioni della dock bar
+* Dimensioni personalizzate di icone e cartelle
 * Wallpaper e background con colori flat (anche per l'application drawer)
 * Controllo opacità e trasparenza
 * Possibilità di nascondere le applicazioni
@@ -30,7 +30,7 @@
 * Gestures
 * Dock, appdrawer, cartelle e icone personalizzabili
 * Appdrawer sidepanel per la creazione di categorie nell'appdrawer!
-* Pagina genius (inspirata alla pagina finder di iOS e alla nuova pagine del Google Now Launcher)
+* Pagina Genius (Inspirata alla pagina Finder di iOS e alla nuova pagine del Google Now Launcher)
 * Toggles di sistema e applicazioni recenti dentro la pagina genius!
 * Supporto per tutti gli icon pack compatibili con Nova, Apex, ADW e altri launcher!
 * Possibilità di effettuare backup e restore delle preferenze
@@ -42,7 +42,7 @@
 * UI Intelligente aka IntelliUI: cambio automatico del background con colori flat in base all'ora corrente
 * Notifica good morning con informazioni sul meteo!
 * Applicazioni protette da password
-* Ricerca genius attraverso youtube, mappe e play store!
+* Ricerca genius attraverso YouTube, Mappe e Play Store!
 * Animazioni personalizzate su apertura e chiusura delle app
 * Sfondi addizionali per la dock
 * Personalizzazione ampia delle cartelle
