@@ -16,9 +16,18 @@
     <string name="loading_icons">Fetching icons</string>
     <string name="title_warning">Warning</string>
     <string name="title_translucent_compatibility">Transparent statusbar is compatible only with Samsung or Sony stock ROM and it\'s not working at 100% on every device/rom</string>
-    <string name="loading_apps">Loading app list... please wait!</string>
+    <string name="loading_apps">Loading app list… please wait!</string>
     <string name="title_play_store">Play Store</string>
     <string name="title_hint_appsearch">Search applications</string>
+    <string name="title_video_tutorial">Video tutorials</string>
+
+    <!-- Live Folder -->
+    <string name="title_live_folders">Live folders</string>
+    <string name="title_new_live_folder">New live folder</string>
+    <string name="title_remove_live_folder">Delete live folder</string>
+    <string name="title_live_folder_put_back">Put back to all apps</string>
+    <string name="title_live_folder_workspace">Live folders can\'t be added to home screen!</string>
+    <string name="title_live_folder_exists">A live folder with that name already exists!</string>
 
     <!-- Settings -->
     <string name="settings_title">Inspire Settings</string>
@@ -110,6 +119,7 @@
     <string name="title_folder_style">Folder icon style</string>
     <string name="title_folder_title_color">Title text color</string>
     <string name="title_folder_items_color">Items text color</string>
+    <string name="title_folder_flashlight">Flashlight effect</string>
 
     <!-- Folders icon style -->
     <string name="title_folder_hologram">Hologram</string>
@@ -190,6 +200,8 @@
     <string name="title_header_pageindicator_style">Select a style for the page indicator</string>
     <string name="title_header_geniustoggles_style">Select a style for the Genius toggles</string>
     <string name="title_header_genius_widgets">Configure genius widgets</string>
+    <string name="title_header_counters_sms">Select the default sms application</string>
+    <string name="title_header_counters_calls">Select the default phone calls application</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Select a color</string>
@@ -351,10 +363,27 @@
     <string name="title_addons_category_mods">Mods</string>
     <string name="title_addons_mios">miOs</string> <!-- DO NOT TRANSLATE -->
     <string name="title_addons_spectrum">Spectrum</string> <!-- DO NOT TRANSLATE -->
-
+    <string name="title_addons_counters">Unread counters</string>
+    <string name="title_addons_counters_short">Counters</string>
     <string name="title_addons_applying">Please wait…</string>
+    <string name="title_addons_pastello">Pastello</string>
 
-    <string name="title_mios_dialog">By enabling miOs addon all your applications will be moved to desktop and the appdrawer panel will be invisible just like iOS/MIUI Launcher. We are able to move all applications to your desktop, however, we aren\'t able to remove them. So if you\'ll ever switch back to the stock Launcher, you\'ll have to manually remove all application shortcuts from your desktop. You are warned :)</string>
+    <string name="title_mios_shop_dialog">Don\'t forget to get back here to enable it once installed!</string>
+    <string name="title_mios_enabled">miOs is enabled and application drawer is disabled!</string>
+    <string name="title_mios_restore">Do you want to restore the previous homescreens with widgets and shortcuts?</string>
+    <string name="title_mios_setting_up">Setting up workspace…</string>
+
+    <string name="title_counters_sms">Messages</string>
+    <string name="title_counters_calls">Calls</string>
+
+    <!-- Misc -->
+    <string name="title_search_icon_hint">Search an icon</string>
+    <string name="title_restore">Restore</string>
+
+    <!-- Rate us -->
+    <string name="title_rate">Rate</string>
+    <string name="title_rate_message">If you enjoy using Inspire Launcher, would you mind taking a moment to rate it? It won\'t take more then a minute and it\'s very important for us to keep a good score on the store! Thanks for your support!</string>
+    <string name="title_no_thanks">No, thanks</string>
 
     <!-- About -->
     <string name="about_title">About</string>
