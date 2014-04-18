@@ -19,6 +19,15 @@
     <string name="loading_apps">Carico la lista delle app...</string>
     <string name="title_play_store">Play Store</string>
     <string name="title_hint_appsearch">Ricerca applicazioni</string>
+    <string name="title_video_tutorial">Video tutorial</string>
+    
+     <!-- Live Folder -->
+    <string name="title_live_folders">Cartelle live</string>
+    <string name="title_new_live_folder">Nuova cartella live</string>
+    <string name="title_remove_live_folder">Cancella la cartella live</string>
+    <string name="title_live_folder_put_back">Metti dietro tutte le applicazioni</string>
+    <string name="title_live_folder_workspace">Le cartelle live non possono essere aggiunte alla schermata home!</string>
+    <string name="title_live_folder_exists">Esiste già una cartella live con questo nome!</string>
 
     <!-- Settings -->
     <string name="settings_title">Inspire Settings</string>
@@ -110,6 +119,7 @@
     <string name="title_folder_style">Stile icona cartella</string>
     <string name="title_folder_title_color">Colore titolo cartella</string>
     <string name="title_folder_items_color">Colore titolo contenuto</string>
+    <string name="title_folder_flashlight">Effetto Flashlight</string>
 
     <!-- Folders icon style -->
     <string name="title_folder_hologram">Ologramma</string>
@@ -190,7 +200,9 @@
     <string name="title_header_pageindicator_style">Seleziona uno stile per l\'indicatore di pagina</string>
     <string name="title_header_geniustoggles_style">Seleziona uno stile per i Genius toggles</string>
     <string name="title_header_genius_widgets">Configura i genius widgets</string>
-
+    <string name="title_header_counters_sms">Seleziona l\'applicazione sms di default</string>
+    <string name="title_header_counters_calls">Seleziona l\'applicazione telefono di default</string>
+    
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Seleziona un colore</string>
     <string name="select_image">Seleziona un immagine</string>
@@ -351,11 +363,28 @@
     <string name="title_addons_category_mods">Mods</string>
     <string name="title_addons_mios">miOs</string> <!-- DO NOT TRANSLATE -->
     <string name="title_addons_spectrum">Spectrum</string> <!-- DO NOT TRANSLATE -->
-
+    <string name="title_addons_counters">Contatori non letti</string>
+    <string name="title_addons_counters_short">Contatori</string>
     <string name="title_addons_applying">Attendi per favore…</string>
-
+    <string name="title_addons_pastello">Pastello</string>
+    
     <string name="title_mios_dialog">Abilitando questo add-on tutte le tue applicazioni verranno spostate sul desktop e l\’application drawer verrà nascosto proprio come il launcher di iOS/MIUI. Abbiamo la possibilita di muovere tutte le applicazione nella home screen, ma purtroppo, non abbiamo la possibilita di rimuoverle. Qualora voleste in futuro disabilitare questo add-on sarete costretti a rimuovere le varie shortcut una per una. Siete avvisati! :)</string>
+    <string name="title_mios_enabled">miOs è attivo e application drawer è disattivo!</string>
+    <string name="title_mios_restore">Vuoi ripristinare le schermate home precedenti con widgets e shortcuts?</string>
+    <string name="title_mios_setting_up">Imposta l\'area di lavoro…</string>
+    
+    <string name="title_counters_sms">Messaggi</string>
+    <string name="title_counters_calls">Chiamate</string>
 
+    <!-- Misc -->
+    <string name="title_search_icon_hint">Cerca un icona</string>
+    <string name="title_restore">Ripristina</string>
+
+    <!-- Rate us -->
+    <string name="title_rate">Rate</string>
+    <string name="title_rate_message">Se ti piace usare Inspire Launcher, ti dispiacerebbe perdere un momento per votarla? Non ci vorrà più di un minuto ed è molto importante per noi mantenere un buon punteggio sullo store! Grazie per il supporto!</string>
+    <string name="title_no_thanks">No, grazie</string>
+    
     <!-- About -->
     <string name="about_title">Info</string>
     <string name="title_inspire_wallpapers">Wallpapers Inspire</string>
