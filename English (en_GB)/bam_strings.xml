@@ -24,7 +24,8 @@
     <!-- Live Folder -->
     <string name="title_live_folders">Live folders</string>
     <string name="title_new_live_folder">New live folder</string>
-    <string name="title_remove_live_folder">Delete live folder</string>
+    <string name="title_rename_live_folder">Rename</string>
+    <string name="title_remove_live_folder">Delete</string>
     <string name="title_live_folder_put_back">Put back to all apps</string>
     <string name="title_live_folder_workspace">Live folders can\'t be added to home screen!</string>
     <string name="title_live_folder_exists">A live folder with that name already exists!</string>
