@@ -1,43 +1,43 @@
-★★ Inspire Launcher is a brand new launcher based on the new KitKat Android Launcher with tons of features and customizations. It combines the major features of the most common Android Launchers with some goodies from iOS and Windows Phone. ★★
+★★ Inspire Launcher ist ein brandneuer Launcher basierend auf dem neuen KitKat Android Launcher mit Tonnen von Features und Anpassungsmöglichkeitenmöglichkeiten. Er kombiniert die wichtigsten Features der beliebten Android Launcher mit ein paar Sachen aus iOS und Windows Phone. ★★
+    
+★★ Das ist nicht NOVA oder APEX also erwartet nicht dieselben Features und fragt nicht nach ihnen!! Wenn ihr Features von anderen Launchern wollt dann benutzt diese anstatt von Inspire!! ★★
 
-★★ This is not NOVA or APEX so don't expect to meet the same features or ask for them!! If you want features already seen in every launcher use them instead of Inspire! ★★
-
-★★ Inspire Launcher is the most customizable launcher ever created! ★★
+★★ Inspire Launcher ist der am meisten anpassbare Launcher der je gemacht wurde! ★★
 
 ★★ Inspire community: https://plus.google.com/u/0/communities/104695304515771826360 ★★
 
 ★ FEATURES ★
-* Flat UI and design
-* Homescreen customizations
-* App drawer customizations
-* Custom icons and folders size
-* Dock bar customizations
-* Background with flat colors or custom images (Also for drawer)
-* Custom opacity control
-* Ability to hide applications
-* Scroll effects and animations
-* Text colors
-* Custom single shortcut icons and rename
-* Gestures
-* Custom dock, appdrawer, icons and folder styles
-* Appdrawer sidepanel for custom appdrawer categories!
-* Genius Page inspired from iOS finder search and Google Now Launcher page!
-* System toggles and Recent applications in genius page
-* Support for Nova, ADW, Apex and all launchers icons pack and theme!
-* Ability to backup, restore and reset own configurations
-* Included flat clock widget with different styles
-* Included a fresh colored theme called inspire colors that will enable a little colorfull icon pack with a drawer and folder custom icon! 
-* Over 500 free customizations
+* Flat UI und design
+* Homescreen Anpassungen
+* App drawer Anpassungen
+* Eigene icons und Ordner Größen
+* Dock bar Anpassungen
+* Hintergrund mit flachen Farben oder eigenen Bildern(Auch für den drawer)
+* Eigene Deckkraft einstellen
+* Möglichkeit Apps zu verstecken
+* Skrolleffekte und Animationen
+* Textfarben
+* Eigene Schnellzugriff-icons und Unterschriften
+* Gesten
+* Eigene dock, appdrawer, icons und Ordner styles
+* Appdrawer Seitenpanel für eigene appdrawer Kategorien!
+* Genius Page inspiriert vom iOS finder und Google Now Launcher Seite!
+* Systemeinstellungen und letzte Apps auf der Genius Page!
+* Unterstützt Nova, ADW, Apex und alle Launcher icon packs und themes!
+* Möglichkeit die eigene Konfiguration zu sichern, wiederherzustellen und zurückzusetzten
+* Flache Uhr Widget mit verschiedenen styles
+* Ein frisches farbiges theme namens inspire colors macht die icons im drawer und Ordner icons farbig!
+* Über 500 kostenlose Anpassungen und Einstellungen!
 
 ★ PRIME ★
-* Intelligent UI aka IntelliUI: Automatic change background with great flat colors based on the hour of day
-* Good morning notification with date and weather informations!
-* Password protected applications
-* Genius Bar search through youtube, maps, play store and more!
-* Custom animations on applications launch and close
-* Custom dock background
-* Folders customization
-* Custom folder icon
-* Custom drawer launcher icon
+* Intelligent UI aka IntelliUI: Automatische Änderung des Hintergrundes mit tollen flachen Farben abhängig von der Tageszeit
+* Guten Morgen Benachrichtigung mit Datum und Wetter!
+* Passwortschutz von Apps
+* Genius Bar Suche für youtube, maps, play store und mehr!
+* Eigene Animationen beim starten und schließen von Apps!
+* Eigener dock Hintergrund
+* Ordner Anpassungen
+* Eigene Ordner icons
+* Eigener drawer launcher icon
 
-This launcher is under heavy development and tons of new features will be added on every update!
+Dieser Launcher wird intensiv weiterentwickelt und Tonnen von neuen Feautures werden bei jedem Update dazukommen!
