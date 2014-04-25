@@ -16,7 +16,7 @@
     <string name="loading_icons">Carico le icone</string>
     <string name="title_warning">Attenzione</string>
     <string name="title_translucent_compatibility">La statusbar trasparente è compatibile solo con alcune ROM Samsung o Sony ed il suo funzionamento non è garantito al 100%</string>
-    <string name="loading_apps">Carico la lista delle app...</string>
+    <string name="loading_apps">Carico la lista delle app…</string>
     <string name="title_play_store">Play Store</string>
     <string name="title_hint_appsearch">Ricerca applicazioni</string>
     <string name="title_video_tutorial">Video tutorial</string>
@@ -210,7 +210,7 @@
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Seleziona un colore</string>
     <string name="select_image">Seleziona un immagine</string>
-    <string name="opacity">Trascina la barra per settare l'opacità</string>
+    <string name="opacity">Trascina la barra per settare l\'opacità</string>
     <string name="color_white_pearl">Pearl white</string>
     <string name="color_alizarin">Alizarin</string>
     <string name="color_pomegranate">Pomegranate</string>
