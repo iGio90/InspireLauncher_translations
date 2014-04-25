@@ -159,6 +159,7 @@
     <string name="title_gestures_pinch_out_4_title">Pinch out con 4 dita</string>
     <string name="title_gestures_pinch_in_5_title">Pinch in con 5 dita</string>
     <string name="title_gestures_pinch_out_5_title">Pinch out con 5 dita</string>
+    <string name="title_gestures_shake">Shake</string>
     <string name="title_gestures_no_action">Nessuna azione</string>
     <string name="title_gestures_open_drawer">Apri il drawer</string>
     <string name="title_gestures_preferences">Inspire settings</string>
@@ -167,7 +168,10 @@
     <string name="title_gestures_expand_collapse_statusbar">Espandi statusbar</string>
     <string name="title_gestures_show_recent">Pannello applicazioni recenti</string>
     <string name="title_gestures_overview_panel">Pannello panoramico</string>
-
+    <string name="title_gestures_torch">Torcia</string>
+    
+    <string name="title_gestures_torch_not_found">La torcia inspire deve essere installata prima di poter utilizzare questa funzione</string>
+    
     <!-- Advanced -->
     <string name="title_advanced">Avanzate</string>
     <string name="title_advanced_default_launcher">Launcher di default</string>
@@ -367,7 +371,8 @@
     <string name="title_addons_counters_short">Contatori</string>
     <string name="title_addons_applying">Attendi per favore…</string>
     <string name="title_addons_pastello">Pastello</string>
-    
+    <string name="title_addons_torch">Torcia</string>
+        
     <string name="title_mios_dialog">Abilitando questo add-on tutte le tue applicazioni verranno spostate sul desktop e l\’application drawer verrà nascosto proprio come il launcher di iOS/MIUI. Abbiamo la possibilita di muovere tutte le applicazione nella home screen, ma purtroppo, non abbiamo la possibilita di rimuoverle. Qualora voleste in futuro disabilitare questo add-on sarete costretti a rimuovere le varie shortcut una per una. Siete avvisati! :)</string>
     <string name="title_mios_enabled">miOs è attivo e application drawer è disattivo!</string>
     <string name="title_mios_restore">Vuoi ripristinare le schermate home precedenti con widgets e shortcuts?</string>
