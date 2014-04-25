@@ -16,9 +16,19 @@
     <string name="loading_icons">Buscando ícones</string>
     <string name="title_warning">Aviso</string>
     <string name="title_translucent_compatibility">Barra de Status transparente é compatível apenas com a stock ROM Samsung ou Sony e não funciona a 100% em todos os dispositivos</string>
-    <string name="loading_apps">Carregando lista de apps... aguarde!</string>
+    <string name="loading_apps">Carregando lista de apps… aguarde!</string>
     <string name="title_play_store">Play Store</string>
     <string name="title_hint_appsearch">Busca de aplicativos</string>
+    +    <string name="title_video_tutorial">Video tutoriais</string>
+ +
+ +    <!-- Live Folder -->
+ +    <string name="title_live_folders">Live folders</string>
+ +    <string name="title_new_live_folder">Nova live folder</string>
++    <string name="title_rename_live_folder">Renomear</string>
+ +    <string name="title_remove_live_folder">Apagar</string>
+ +    <string name="title_live_folder_put_back">Coloque de volta para todos apps</string>
+ +    <string name="title_live_folder_workspace">Live folders não podem ser adicionadas na tela principal!</string>
+ +    <string name="title_live_folder_exists">Uma live folder já existe com esse nome!</string>
 
     <!-- Settings -->
     <string name="settings_title">Inspire Configurações</string>
@@ -110,6 +120,7 @@
     <string name="title_folder_style">Estilo do ícone das pastas</string>
     <string name="title_folder_title_color">Cor do texto do título</string>
     <string name="title_folder_items_color">Cor do texto dos itens</string>
+    +    <string name="title_folder_flashlight">Efeito Flashlight</string>
 
     <!-- Folders icon style -->
     <string name="title_folder_hologram">Holograma</string>
@@ -149,6 +160,7 @@
     <string name="title_gestures_pinch_out_4_title">Pinçar com 4 dedos para fora</string>
     <string name="title_gestures_pinch_in_5_title">Pinçar com 5 dedos para dentro</string>
     <string name="title_gestures_pinch_out_5_title">Pinçar com 5 dedos para fora</string>
+    +    <string name="title_gestures_shake">Balançar</string>
     <string name="title_gestures_no_action">Sem ação</string>
     <string name="title_gestures_open_drawer">Abrir gaveta de apps</string>
     <string name="title_gestures_preferences">Inspire Opções</string>
@@ -157,6 +169,9 @@
     <string name="title_gestures_expand_collapse_statusbar">Expandir barra de status</string>
     <string name="title_gestures_show_recent">Painel de apps recentes</string>
     <string name="title_gestures_overview_panel">Painel de visão geral</string>
+    +    <string name="title_gestures_torch">Torch</string>
+ +
+ +    <string name="title_gestures_torch_not_found">Inspire torch precisa estar instalado para habilitar esta opção!</string>
 
     <!-- Advanced -->
     <string name="title_advanced">Avançado</string>
@@ -183,6 +198,7 @@
     <string name="title_header_intelliui_configure">Configurar intelliUI</string>
     <string name="title_header_animations">Selecione uma animação</string>
     <string name="title_header_gestures">Selecione um gesto</string>
+    +    <string name="title_header_action">Selecione uma ação</string>
     <string name="title_header_app">Selecione um aplicativo</string>
     <string name="title_header_text_size">Selecione o tamanho do texto</string>
     <string name="title_header_allapps_style">Selecione um estilo pro ícone da gaveta</string>
@@ -190,6 +206,8 @@
     <string name="title_header_pageindicator_style">Selecione um estilo para o indicador de páginas</string>
     <string name="title_header_geniustoggles_style">Selecione um estilo para o Genius</string>
     <string name="title_header_genius_widgets">Configurar os Widgets da Genius</string>
++    <string name="title_header_counters_sms">Escolha o app sms padrão</string>
+ +    <string name="title_header_counters_calls">Escolha o app de telefone padrão</string>
 
     <!-- Colors DO-NOT TRANSLATE -->
     <string name="select_color">Selecione uma cor</string>
@@ -351,11 +369,28 @@
  +    <string name="title_addons_category_mods">Mods</string>
  +    <string name="title_addons_mios">miOs</string> <!-- DO NOT TRANSLATE -->
  +    <string name="title_addons_spectrum">Spectrum</string> <!-- DO NOT TRANSLATE -->
+ +    <string name="title_addons_counters">Contador de não lidas</string>
+ +    <string name="title_addons_counters_short">Contadores</string>
+  +    <string name="title_addons_applying">Aguarde…</string>
++    <string name="title_addons_pastello">Pastello</string>
++    <string name="title_addons_torch">Torch</string>
  +
- +    <string name="title_addons_applying">Aguarde…</string>
+ +    <string name="title_mios_shop_dialog">Não se esqueça de voltar aqui para ativá-lo quando estiver instalado!</string>
+ +    <string name="title_mios_enabled">miOs esta habilitado e o app drawer está desabilitado!</string>
+ +    <string name="title_mios_restore">Você quer restaurar as telas iniciais anteriores com widgets e atalhos?</string>
+ +    <string name="title_mios_setting_up">Criando espaço de trabalho…</string>
  +
- +    <string name="title_mios_dialog">Ao permitir Mios addon todos os aplicativos serão movidos para a área de trabalho e o painel de appdrawer será invisível como no iOS / MIUI Launcher. Nós somos capazes de mover todos os aplicativos para seu ambiente de trabalho, no entanto, nós não somos capazes de removê-los. Então, se você nunca vai voltar para o estock Launcher, você terá que remover manualmente todos os atalhos de aplicativos na área de trabalho. Você foi avisado :)</string>
+ +    <string name="title_counters_sms">Mensagens</string>
+ +    <string name="title_counters_calls">Ligações</string>
  +
+ +    <!-- Misc -->
+ +    <string name="title_search_icon_hint">Buscar um ícone</string>
+ +    <string name="title_restore">Restaurar</string>
+
++    <!-- Rate us -->
+ +    <string name="title_rate">Avaliar</string>
+ +    <string name="title_rate_message">Se você esta gostando de usar o Inspire Launcher, você se importaria de tirar um momento para avalia-lo? Não vai demorar mais de um minuto e é muito importante para nós para manter uma boa pontuação na loja! Obrigado por seu apoio!</string>
+ +    <string name="title_no_thanks">Não, obrigado</string>
 
     <!-- About -->
     <string name="about_title">Sobre</string>
