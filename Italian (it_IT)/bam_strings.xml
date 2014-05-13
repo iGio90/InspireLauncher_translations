@@ -24,6 +24,7 @@
      <!-- Live Folder -->
     <string name="title_live_folders">Cartelle live</string>
     <string name="title_new_live_folder">Nuova cartella live</string>
+    <string name="title_rename_live_folder">Rinomina la cartella live</string>
     <string name="title_remove_live_folder">Cancella la cartella live</string>
     <string name="title_live_folder_put_back">Metti dietro tutte le applicazioni</string>
     <string name="title_live_folder_workspace">Le cartelle live non possono essere aggiunte alla schermata home!</string>
@@ -197,6 +198,7 @@
     <string name="title_header_intelliui_configure">Configura la intelliUI</string>
     <string name="title_header_animations">Seleziona un animazione</string>
     <string name="title_header_gestures">Seleziona una gesture</string>
+    <string name="title_header_action">Seleziona un'\azione</string>
     <string name="title_header_app">Seleziona un applicazione</string>
     <string name="title_header_text_size">Seleziona la grandezza del testo</string>
     <string name="title_header_allapps_style">Seleziona uno stile per l\'icona del drawer</string>
