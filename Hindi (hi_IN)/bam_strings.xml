@@ -26,37 +26,37 @@
     <string name="title_homescreen_settings">होमस्क्रीन</string>
     <string name="title_drawer_settings">अनुप्रयोग दराज</string>
     <string name="title_dock">Dock</string>
-    <string name="title_folder">Folders</string>
-    <string name="title_animations">Animations</string>
-    <string name="title_changelog">Changelogs</string>
-    <string name="title_bug_report">BUG report</string>
+    <string name="title_folder">फ़ोल्डर</string>
+    <string name="title_animations">एनिमेशन</string>
+    <string name="title_changelog">बदलाव</string>
+    <string name="title_bug_report">BUG रिपोर्ट</string>
 
     <!-- Prime -->
-    <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
-    <string name="title_prime_feature">Prime feature</string>
-    <string name="title_prime_feature_message">This feature is available only in Inspire Launcher prime!</string>
+    <string name="title_purchase_prime"> prime सुविधाओं खरीद और अनलॉक करने के लिए यहां टैप</string>
+    <string name="title_prime_feature">Prime  सुविधा</string>
+    <string name="title_prime_feature_message">Tयह सुविधा केवल Inspire Launcher primमें उपलब्ध है !!</string>
 
     <!-- General -->
-    <string name="title_fullscreen">Full screen</string>
-    <string name="title_translucent">Translucent statusbar</string>
-    <string name="title_orientation">Auto rotate screen</string>
+    <string name="title_fullscreen">पूर्ण स्क्रीन</string>
+    <string name="title_translucent">पारभासी प्रस्थिति</string>
+    <string name="title_orientation">ऑटो घुमाएँ स्क्रीन</string>
 
     <!-- Homescreen -->
     <string name="title_background">Background</string>
     <string name="title_homescreen_transition_settings">Scroll Effect</string>
-    <string name="title_homescreen_padding">Padding</string>
+    <string name="title_homescreen_padding">गद्दी</string>
     <string name="title_homescreen_gridsize">Grid size</string>
-    <string name="title_homescreen_page_indicator">Page indicator</string>
-    <string name="title_homescreen_bounce_loop">Infinite bounce scroll</string>
+    <string name="title_homescreen_page_indicator">पेज सूचक</string>
+    <string name="title_homescreen_bounce_loop">अनंत उछाल स्क्रॉल</string>
 
     <!-- Drawer -->
-    <string name="title_drawer_disable_apps">Hide applications</string>
-    <string name="title_drawer_protect_apps">Protect applications</string>
-    <string name="title_drawer_transition_settings">Scroll Effect</string>
-    <string name="title_drawer_sorting">Sort applications</string>
-    <string name="title_drawer_show_text">Hide text</string>
-    <string name="title_drawer_text_color">Text color</string>
-    <string name="title_drawer_text_size">Text size</string>
+    <string name="title_drawer_disable_apps">applications छिपाएँ</string>
+    <string name="title_drawer_protect_apps">app की रक्षा</string>
+    <string name="title_drawer_transition_settings">स्क्रॉल प्रभाव</string>
+    <string name="title_drawer_sorting">क्रमबद्ध अनुप्रयोगों</string>
+    <string name="title_drawer_show_text">छिपाएँ text</string>
+    <string name="title_drawer_text_color">Text का रंग</string>
+    <string name="title_drawer_text_size">Text का आकार</string>
     <string name="title_drawer_manage_password">Manage password</string>
     <string name="title_drawer_insert_new_password">Create a new password</string>
     <string name="title_drawer_insert_password">Insert password</string>
