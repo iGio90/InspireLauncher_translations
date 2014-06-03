@@ -282,20 +282,39 @@
     <string name="title_genius_youtube">YouTube</string>
     <string name="title_genius_store">Play Store</string>
     <string name="title_genius_websearch">Search on Google</string>
+    <string name="title_genius_images">Personal images</string>
+    <string name="title_genius_docs">Personal documents</string>
+    <string name="title_genius_bookmarks">Personal bookmarks</string>
+    <string name="title_genius_no_results">The search didn\'t return any results</string>
+    <string name="title_genius_indexing">Indexing… please wait!</string>
     <string name="title_genius_google_images">Search on Google images</string>
     <string name="title_genius_maps_search">Search on Maps</string>
     <string name="title_genius_youtube_search">Search on Youtube</string>
     <string name="title_genius_store_search">Search on Play Store</string>
     <string name="title_genius_wiki_search">Search on Wikipedia</string>
     <string name="title_genius_widgets">Widgets</string>
-    <string name="title_genius_weather">Inspire weather</string>
+    <string name="title_genius_weather">Inspire Weather</string>
+    <string name="title_genius_new">Inspire News</string>
     <string name="title_genius_enable_weather">Weather widget</string>
     <string name="title_genius_clock_date">Show clock and date</string>
-
+    <string name="title_genius_news_settings_title">What news should I search for?</string>
+    <string name="title_news_short">Google news</string>
+    <string name="genius_general_news">General</string>
+    <string name="genius_sport_news">Sport</string>
+    <string name="genius_tec_news">Science and Technology</string>
+    <string name="genius_quick_message_to">To:</string>
+    <string name="genius_quick_message_content">Content…</string>
+    <string name="title_genius_calendar">Calendar</string>
+    <string name="title_genius_events">Events</string>
     <string name="settings_cling_usage">Tap the menu button or swipe on the right to access settings categories</string>
     <string name="geniusbar_cling_usage">Quickly search for applications or contacts in your device, a video on youtube, an address, an application in the store and much more!</string>
     <string name="intelliui_background_cling">IntelliUI will change your background with different flat colors based on the phases of the day</string>
     <string name="intelliui_goodmorning_cling">IntelliUI will send you a goodmorning notification with some informations customizable in the configuration</string>
+    <string name="title_customize">Customize</string>
+    <string name="title_more_widgets">More widgets…</string>
+    <string name="title_weather_short">Weather</string>
+    <string name="genius_welcome">Welcome to the new Genius Page. Please, tap your menu key to customize the page</string>
+    <string name="genius_welcome_settings">Once you finish the configurations, tap back the menu key to return the page</string>
 
     <!-- Genius toggles style -->
     <string name="title_genius_toggles_default">Default</string>
