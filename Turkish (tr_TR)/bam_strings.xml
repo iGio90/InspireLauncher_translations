@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="take_me_there">Take me there</string>
-    <string name="sure">Are you sure?</string>
-    <string name="configurations_reset">Do you want to reset the configurations?</string>
-    <string name="configurations_backup">Do you want to backup the configurations?</string>
-    <string name="choose_wallpaper">Choose a wallpaper</string>
-    <string name="choose_dock_bg">Choose a dock background</string>
-    <string name="choose_image">Image</string>
-    <string name="choose_color">Color</string>
-    <string name="edit_drop_target">Edit</string>
-    <string name="dialog_pick_iconpack_title">Select an icon pack</string>
-    <string name="dialog_pick_icon_title">Select an icon</string>
-    <string name="loading">Loading</string>
-    <string name="loading_icons">Fetching icons</string>
-    <string name="title_warning">Warning</string>
-    <string name="title_translucent_compatibility">Transparent statusbar is compatible only with Samsung or Sony stock ROM and it\'s not working at 100% on every device/rom</string>
-    <string name="loading_apps">Loading app list… please wait!</string>
+    <string name="take_me_there">Git</string>
+    <string name="sure">Emin misiniz ?</string>
+    <string name="configurations_reset">Yapılandırmaları sıfırlamak istiyor musunuz?</string>
+    <string name="configurations_backup">Yapılandırmaları geri almak istiyor musunuz?</string>
+    <string name="choose_wallpaper">Duvarkağıdı seç</string>
+    <string name="choose_dock_bg">Bir alt panel arka plan seçin</string>
+    <string name="choose_image">Resim</string>
+    <string name="choose_color">Renk</string>
+    <string name="edit_drop_target">Düzelt</string>
+    <string name="dialog_pick_iconpack_title">İkon paketi seç</string>
+    <string name="dialog_pick_icon_title">İkon seç</string>
+    <string name="loading">Yükleniyor</string>
+    <string name="loading_icons">İkonlar alınıyor</string>
+    <string name="title_warning">Uyarı!</string>
+    <string name="title_translucent_compatibility">Şeffaf Bilgi Ekranı Samsung ve Sony Stock Romlarda %100 çalışmaya biliyor.</string>
+    <string name="loading_apps">Uygulama listesi yükleniyor… Lütfen bekleyin!</string>
     <string name="title_play_store">Play Store</string>
-    <string name="title_hint_appsearch">Search applications</string>
-    <string name="title_video_tutorial">Video tutorials</string>
+    <string name="title_hint_appsearch">Uygulama Ara</string>
+    <string name="title_video_tutorial">Video öğretici</string>
 
     <!-- Live Folder -->
-    <string name="title_live_folders">Live folders</string>
-    <string name="title_new_live_folder">New live folder</string>
-    <string name="title_remove_live_folder">Delete live folder</string>
+    <string name="title_live_folders">Klasör</string>
+    <string name="title_new_live_folder">Yeni Klasör</string>
+    <string name="title_remove_live_folder">Klasör sil</string>
     <string name="title_live_folder_put_back">Put back to all apps</string>
     <string name="title_live_folder_workspace">Live folders can\'t be added to home screen!</string>
     <string name="title_live_folder_exists">A live folder with that name already exists!</string>
