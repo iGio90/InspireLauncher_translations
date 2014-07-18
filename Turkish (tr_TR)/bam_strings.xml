@@ -25,101 +25,101 @@
     <string name="title_live_folders">Klasör</string>
     <string name="title_new_live_folder">Yeni Klasör</string>
     <string name="title_remove_live_folder">Klasör sil</string>
-    <string name="title_live_folder_put_back">Put back to all apps</string>
-    <string name="title_live_folder_workspace">Live folders can\'t be added to home screen!</string>
-    <string name="title_live_folder_exists">A live folder with that name already exists!</string>
+    <string name="title_live_folder_put_back">Bütün uygulamaları geri koy</string>
+    <string name="title_live_folder_workspace">Klasör ana ekran eklenebilir!</string>
+    <string name="title_live_folder_exists">Bu isimde bir klasör zaten var!</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
+    <string name="settings_title">Inspire Ayarları</string>
     <string name="title_prime">Inspire launcher prime</string>
-    <string name="title_ui">User interface</string>
-    <string name="title_general_settings">General</string>
-    <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
-    <string name="title_dock">Dock</string>
-    <string name="title_folder">Folders</string>
-    <string name="title_animations">Animations</string>
-    <string name="title_changelog">Changelogs</string>
-    <string name="title_bug_report">BUG report</string>
+    <string name="title_ui">Kullanıcı arayüzü</string>
+    <string name="title_general_settings">Genel</string>
+    <string name="title_homescreen_settings">Anaekran</string>
+    <string name="title_drawer_settings">Uygulama çekmecesi</string>
+    <string name="title_dock">Alt panel</string>
+    <string name="title_folder">Klasörler</string>
+    <string name="title_animations">Animasyonlar</string>
+    <string name="title_changelog">Değişiklikler</string>
+    <string name="title_bug_report">Hata Raporu</string>
 
     <!-- Prime -->
-    <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
-    <string name="title_prime_feature">Prime feature</string>
-    <string name="title_prime_feature_message">This feature is available only in Inspire Launcher prime!</string>
+    <string name="title_purchase_prime">Prime özelliklerini satın alma ve kilidini açmak için buraya dokunun</string>
+    <string name="title_prime_feature">Prime Özellikleri</string>
+    <string name="title_prime_feature_message">Bu özellik sadece Inspire Launcher Prime mevcuttur!</string>
 
     <!-- General -->
-    <string name="title_fullscreen">Full screen</string>
-    <string name="title_translucent">Translucent statusbar</string>
-    <string name="title_orientation">Auto rotate screen</string>
+    <string name="title_fullscreen">Tam Ekran</string>
+    <string name="title_translucent">Şeffaf Bildirim Ekranı</string>
+    <string name="title_orientation">Otomatik döndür</string>
 
     <!-- Homescreen -->
-    <string name="title_background">Background</string>
-    <string name="title_homescreen_thin_search_bar">Thin search bar</string>
-    <string name="title_homescreen_resize_widgets">Resize any widgets</string>
-    <string name="title_homescreen_auto_shortcut">New app shortcut</string>
-    <string name="title_homescreen_transition_settings">Scroll Effect</string>
-    <string name="title_homescreen_padding">Padding</string>
-    <string name="title_homescreen_gridsize">Grid size</string>
-    <string name="title_homescreen_page_indicator">Page indicator</string>
-    <string name="title_homescreen_bounce_loop">Infinite bounce scroll</string>
+    <string name="title_background">Arkaplan</string>
+    <string name="title_homescreen_thin_search_bar">İnce Arama Çubuğu</string>
+    <string name="title_homescreen_resize_widgets">Widgetleri Yeniden Boyutlandır</string>
+    <string name="title_homescreen_auto_shortcut">Uygulama kısayolu</string>
+    <string name="title_homescreen_transition_settings">Kaydırma Efekti</string>
+    <string name="title_homescreen_padding">Dolgu</string>
+    <string name="title_homescreen_gridsize">Izgara Boyutu</string>
+    <string name="title_homescreen_page_indicator">Sayfa Göstergesi</string>
+    <string name="title_homescreen_bounce_loop">Sonsuz Kaydırma</string>
 
     <!-- Drawer -->
-    <string name="title_drawer_save_page">Save last page</string>
-    <string name="title_drawer_disable_apps">Hide applications</string>
-    <string name="title_drawer_protect_apps">Protect applications</string>
-    <string name="title_drawer_transition_settings">Scroll Effect</string>
-    <string name="title_drawer_sorting">Sort applications</string>
-    <string name="title_drawer_show_text">Hide text</string>
-    <string name="title_drawer_text_color">Text color</string>
-    <string name="title_drawer_text_size">Text size</string>
-    <string name="title_drawer_manage_password">Manage password</string>
-    <string name="title_drawer_insert_new_password">Create a new password</string>
-    <string name="title_drawer_insert_password">Insert password</string>
-    <string name="title_drawer_insert_password_wrong">Wrong password</string>
-    <string name="title_drawer_working">Working</string>
-    <string name="title_drawer_apps_disabling">Hiding application...</string>
-    <string name="title_drawer_show_allapps">Show drawer icon</string>
-    <string name="title_drawer_allapps_style">Drawer icon style</string>
+    <string name="title_drawer_save_page">Son sayfayı kaydedin</string>
+    <string name="title_drawer_disable_apps">Uygulamaları Gizle</string>
+    <string name="title_drawer_protect_apps">Uygulamaları Koru</string>
+    <string name="title_drawer_transition_settings">Kaydırma Efekti</string>
+    <string name="title_drawer_sorting">Uygulamaları Sırala</string>
+    <string name="title_drawer_show_text">Yazıyı Gizle</string>
+    <string name="title_drawer_text_color">Yazı Rengi</string>
+    <string name="title_drawer_text_size">Yazı Boyutu</string>
+    <string name="title_drawer_manage_password">Şifreleri yönet</string>
+    <string name="title_drawer_insert_new_password">Yeni bir şifre oluşturun</string>
+    <string name="title_drawer_insert_password">Parola ekle</string>
+    <string name="title_drawer_insert_password_wrong">Yanlış Parola</string>
+    <string name="title_drawer_working">Çalışma</string>
+    <string name="title_drawer_apps_disabling">Uygulama gizleme ...</string>
+    <string name="title_drawer_show_allapps">Çekmece Simgesi</string>
+    <string name="title_drawer_allapps_style">Çekmece ikon stili</string>
 
     <!-- Text size -->
     <string name="title_text_size_stock">Stock</string>
-    <string name="title_text_size_extra_small">Extra small</string>
-    <string name="title_text_size_small">Small</string>
-    <string name="title_text_size_medium">Medium</string>
-    <string name="title_text_size_large">Large</string>
-    <string name="title_text_size_extra_large">Extra large</string>
+    <string name="title_text_size_extra_small">Çok küçük</string>
+    <string name="title_text_size_small">Küçük</string>
+    <string name="title_text_size_medium">orta</string>
+    <string name="title_text_size_large">Büyük</string>
+    <string name="title_text_size_extra_large">Çok büyük</string>
 
     <!-- Animations -->
-    <string name="title_animations_launch">App launch</string>
-    <string name="title_animations_close">App close</string>
+    <string name="title_animations_launch">Uygulama Başlat</string>
+    <string name="title_animations_close">Uygulama kapat</string>
 
     <!-- Dock -->
-    <string name="title_dock_show">Show dock</string>
-    <string name="title_dock_icons_count">Icons count</string>
+    <string name="title_dock_show">Alt panel göster</string>
+    <string name="title_dock_icons_count">İkon sayacı</string>
     
     <!-- Dock style -->
-    <string name="title_dock_transparent">Glass</string>
-    <string name="title_dock_wood">Wood</string>
-    <string name="title_dock_steel">Steel</string>
-    <string name="title_dock_black">Black</string>
+    <string name="title_dock_transparent">Cam</string>
+    <string name="title_dock_wood">Ağaç</string>
+    <string name="title_dock_steel">Metal</string>
+    <string name="title_dock_black">Siyah</string>
     <string name="title_dock_neon">Neon</string>
-    <string name="title_dock_stone_white">White stone</string>
-    <string name="title_dock_stone_black">Black stone</string>
+    <string name="title_dock_stone_white">Beyaz taş</string>
+    <string name="title_dock_stone_black">Siyah taş</string>
 
     <!-- AllApps style -->
-    <string name="title_allapps_brick">Brick</string>
-    <string name="title_allapps_closet">Closet</string>
-    <string name="title_allapps_house">House</string>
-    <string name="title_allapps_solid_circle">Solid Circle</string>
-    <string name="title_allapps_dots">Dots</string>
+    <string name="title_allapps_brick">Tuğla</string>
+    <string name="title_allapps_closet">Dolap</string>
+    <string name="title_allapps_house">Ev</string>
+    <string name="title_allapps_solid_circle">Daire</string>
+    <string name="title_allapps_dots">Nokta</string>
     <string name="title_allapps_inspire">Inspire</string>
     <string name="title_allapps_sense">Sense</string>
 
     <!-- Folders -->
-    <string name="title_folder_style">Folder icon style</string>
-    <string name="title_folder_title_color">Title text color</string>
-    <string name="title_folder_items_color">Items text color</string>
-    <string name="title_folder_flashlight">Flashlight effect</string>
+    <string name="title_folder_style">Klasör ikon stili</string>
+    <string name="title_folder_title_color">Başlık yazı rengi</string>
+    <string name="title_folder_items_color">Yazı rengi</string>
+    <string name="title_folder_flashlight">Fener Efekti</string>
 
     <!-- Folders icon style -->
     <string name="title_folder_hologram">Hologram</string>
@@ -391,5 +391,5 @@
     <string name="title_developed">Developed by iGio90</string>
     <string name="title_graphics">Graphics by Bliss91</string>
     <string name="title_plus_communtiy">Google+ community</string>
-    <string name="title_git_translations">Translations</string>
+    <string name="title_git_translations">Çeviri:Aydin ozcifci</string>
 </resources>
