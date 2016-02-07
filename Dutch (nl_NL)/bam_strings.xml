@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="take_me_there">Take me there</string>
-    <string name="sure">Are you sure?</string>
-    <string name="configurations_reset">Do you want to reset the configurations?</string>
-    <string name="configurations_backup">Do you want to backup the configurations?</string>
-    <string name="choose_wallpaper">Choose a wallpaper</string>
-    <string name="choose_dock_bg">Choose a dock background</string>
-    <string name="choose_image">Image</string>
-    <string name="choose_color">Color</string>
-    <string name="edit_drop_target">Edit</string>
-    <string name="dialog_pick_iconpack_title">Select an icon pack</string>
-    <string name="dialog_pick_icon_title">Select an icon</string>
-    <string name="loading">Loading</string>
-    <string name="loading_icons">Fetching icons</string>
-    <string name="title_warning">Warning</string>
-    <string name="title_translucent_compatibility">Transparent statusbar is compatible only with Samsung or Sony stock ROM and it\'s not working at 100% on every device/rom</string>
-    <string name="loading_apps">Loading app list... please wait!</string>
+    <string name="take_me_there">Breng me erheen</string>
+    <string name="sure">Weet je het zeker?</string>
+    <string name="configurations_reset">Wil je de instellingen resetten?</string>
+    <string name="configurations_backup">Wil je een backup maken van de instellingen?</string>
+    <string name="choose_wallpaper">Kies een achtergrond</string>
+    <string name="choose_dock_bg">Kies een dock achtergrond</string>
+    <string name="choose_image">Afbeelding</string>
+    <string name="choose_color">Kleur</string>
+    <string name="edit_drop_target">Bewerk</string>
+    <string name="dialog_pick_iconpack_title">Selecteer een icon pack</string>
+    <string name="dialog_pick_icon_title">Selecteer een icoon</string>
+    <string name="loading">Laden</string>
+    <string name="loading_icons">Iconen ophalen</string>
+    <string name="title_warning">Waarschuwing</string>
+    <string name="title_translucent_compatibility">Doorzichtige statusbar is alleen beschikbaar met Samsung of Sony stock ROM and het werkt niet 100% op elk apparaat / elke rom</string>
+    <string name="loading_apps">Applijst laden... even geduld alstublieft!</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
+    <string name="settings_title">Inspire Instellingen</string>
     <string name="title_prime">Inspire launcher prime</string>
-    <string name="title_ui">User interface</string>
-    <string name="title_general_settings">General</string>
-    <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
+    <string name="title_ui">Gebruiker interface</string>
+    <string name="title_general_settings">Algemeen</string>
+    <string name="title_homescreen_settings">Startscherm</string>
+    <string name="title_drawer_settings">Applicatie drawer</string>
     <string name="title_dock">Dock</string>
-    <string name="title_folder">Folders</string>
-    <string name="title_animations">Animations</string>
+    <string name="title_folder">Mappen</string>
+    <string name="title_animations">Animaties</string>
     <string name="title_changelog">Changelogs</string>
-    <string name="title_bug_report">BUG report</string>
+    <string name="title_bug_report">BUG rapporteren</string>
 
     <!-- Prime -->
     <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
