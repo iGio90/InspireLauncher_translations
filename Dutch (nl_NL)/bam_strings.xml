@@ -19,17 +19,17 @@
     <string name="loading_apps">Applijst laden... even geduld alstublieft!</string>
 
     <!-- Settings -->
-    <string name="settings_title">Inspire Settings</string>
+    <string name="settings_title">Inspire Instellingen</string>
     <string name="title_prime">Inspire launcher prime</string>
-    <string name="title_ui">User interface</string>
-    <string name="title_general_settings">General</string>
-    <string name="title_homescreen_settings">Homescreen</string>
-    <string name="title_drawer_settings">Applications drawer</string>
+    <string name="title_ui">Gebruiker interface</string>
+    <string name="title_general_settings">Algemeen</string>
+    <string name="title_homescreen_settings">Startscherm</string>
+    <string name="title_drawer_settings">Applicatie drawer</string>
     <string name="title_dock">Dock</string>
-    <string name="title_folder">Folders</string>
-    <string name="title_animations">Animations</string>
+    <string name="title_folder">Mappen</string>
+    <string name="title_animations">Animaties</string>
     <string name="title_changelog">Changelogs</string>
-    <string name="title_bug_report">BUG report</string>
+    <string name="title_bug_report">BUG rapporteren</string>
 
     <!-- Prime -->
     <string name="title_purchase_prime">Tap here to purchase and unlock prime features</string>
