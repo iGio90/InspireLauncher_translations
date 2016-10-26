@@ -22,18 +22,18 @@
 * Support des packs d'icônes et thèmes de Nova, ADW, Apex et des autres launchers !
 * Possibilité de sauvegarder, restaurer et rénitialiser les réglages
 * Widget horloge de style flat avec différentes personnalisations
-* Inclus un thème coloré appelé Inspire Colors qui possède un pack d'icônes coloré et une icône de tiroir d'application et de dossiers personnalisée ! 
+* Inclus un thème coloré appelé Inspire Colors qui possède un pack d'icônes colorées et une icône de tiroir d'applications et de dossiers personnalisées ! 
 * Plus de 500 customisation gratuites
 
 ★ PRIME ★
-* Intelligent UI (IntelliUI) : Changement automatique du fond d'écran avec des couleurs vives basé sur les différents moments de la journée
+* Intelligent UI (IntelliUI) : Changement automatique du fond d'écran avec des couleurs vives basées sur les différents moments de la journée
 * Notification de bonjour, tous les matins avec informations sur la date et la météo
 * Possibilité de protéger des applications par mot de passe
-* Recherche Genius Bar sur YouTube, Maps, le Play Store et plus encore !
+* Recherche Genius Bar sur YouTube, Maps, la musique, le Play Store et plus encore !
 * Animations personnalisées à l'ouverture et fermeture des applications
 * Fond de dock personnalisable
 * Personnalisation des dossiers
 * Icône de dossier modifiable
-* Icône du tiroir d'application modifiable
+* Icône du tiroir d'applications modifiable
 
 Ce launcher est sous constant développement et des tonnes de nouvelles fonctionnalités vont être ajoutées à chaque mise à jour !
